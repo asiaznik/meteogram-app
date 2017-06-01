@@ -19,7 +19,7 @@ const quitMenu = [
 const menu = Menu.buildFromTemplate(locMenu.concat(quitMenu));
 
 app.setName(NAME);
-app.dock.hide();
+if (/darwin/.test(process.platform)) app.dock.hide();
 app.on('ready', () => {
   tray = new Tray('resources/snowflake.png');
   tray.setToolTip(NAME);
