@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Photon</title>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="resources/css/photon.min.css">
+</head>
+
+<body>
+  <div class="window">
+    <div class="window-content">
+
+      <div class="pane-group">
+        <div class="pane">
+
+          <div class="padded">
+            <div style="padding-bottom: 10px;" id="current-location"><span class="icon icon-map"></span> Current location: <span id="current-location-name"></span></div>
+            <input id="search-form" type="text" class="form-control" placeholder="Filter locations...">
+          </div>
+          
+          <div>
+            <table class="table-striped">
+              <tbody id="search-results">
+                <!-- Locations here... -->
+              </tbody>
+            </table>
+          </div>
+
+        </div>
+      </div>
+        
+    </div>
+  </div>
+
+  <script>
+    let searchForm = document.getElementById('search-form');
+    let searchResults = document.getElementById('search-results');
+    let currentLocationIndicator = document.getElementById('current-location-name');
+
+    const locations = require('./meteo-api/locations');
+    const { ipcRenderer } = require('electron');
+
+    function generateResultItem(locationDataItem) {
+      return `
+        <tr>
+          <td>${locationDataItem.name}</td>
+          <td><button onclick="setLocation('${locationDataItem.id}');" class="btn btn-mini btn-default">Set</button></td>
+        </tr>
+      `;
+    }
+
+    function askForState() {
+      ipcRenderer.send('get-state', 'ping');
+    }
+
+    setInterval(askForState, 100);
+
+    ipcRenderer.on('get-state-reply', (e, state) => {
+      currentLocationIndicator.innerText = state.name;
+    });
+
+    function setLocation(locationId) {
+      let loc = locations.allLocations.filter(x => x.id == locationId);
+      let chosenLocation = loc.length > 0 ? loc[0] : locations.defaultLocations[0];
+      ipcRenderer.send('set-location', chosenLocation);
+    }
+
+    searchForm.onkeyup = () => {
+      searchResults.innerHTML = '';
+      if (searchForm.value.length > 0) {
+        let foundLocations = locations.search(searchForm.value);
+        foundLocations.map(x => searchResults.innerHTML += generateResultItem(x));
+      }
+    };
+  </script>
+</body>
+
+</html>

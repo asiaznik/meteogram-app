@@ -1,0 +1,9438 @@
+[
+  {
+    "id": "1303",
+    "name": "Abramów, pow. lubartowski"
+  },
+  {
+    "id": "1430",
+    "name": "Adamów, pow. zamojski"
+  },
+  {
+    "id": "1343",
+    "name": "Adamów, pow. łukowski"
+  },
+  {
+    "id": "131",
+    "name": "Adamówka, pow. przeworski"
+  },
+  {
+    "id": "2291",
+    "name": "Aleksandrów, pow. piotrkowski"
+  },
+  {
+    "id": "1235",
+    "name": "Aleksandrów, pow. biłgorajski"
+  },
+  {
+    "id": "2022",
+    "name": "Aleksandrów Kujawski, pow. aleksandrowski"
+  },
+  {
+    "id": "2393",
+    "name": "Aleksandrów Łódzki, pow. zgierski"
+  },
+  {
+    "id": "485",
+    "name": "Alwernia, pow. chrzanowski"
+  },
+  {
+    "id": "2257",
+    "name": "Andrespol, pow. łódzki wschodni"
+  },
+  {
+    "id": "667",
+    "name": "Andrychów, pow. wadowicki"
+  },
+  {
+    "id": "2875",
+    "name": "Andrzejewo, pow. ostrowski"
+  },
+  {
+    "id": "1290",
+    "name": "Annopol, pow. kraśnicki"
+  },
+  {
+    "id": "193",
+    "name": "Augustów, pow. augustowski"
+  },
+  {
+    "id": "2490",
+    "name": "Babiak, pow. kolski"
+  },
+  {
+    "id": "489",
+    "name": "Babice, pow. chrzanowski"
+  },
+  {
+    "id": "1840",
+    "name": "Babimost, pow. zielonogórski"
+  },
+  {
+    "id": "887",
+    "name": "Baborów, pow. głubczycki"
+  },
+  {
+    "id": "2924",
+    "name": "Baboszewo, pow. płoński"
+  },
+  {
+    "id": "398",
+    "name": "Baćkowice, pow. opatowski"
+  },
+  {
+    "id": "2026",
+    "name": "Bądkowo, pow. aleksandrowski"
+  },
+  {
+    "id": "309",
+    "name": "Bakałarzewo, pow. suwalski"
+  },
+  {
+    "id": "67",
+    "name": "Baligród, pow. leski"
+  },
+  {
+    "id": "409",
+    "name": "Bałtów, pow. ostrowiecki"
+  },
+  {
+    "id": "1647",
+    "name": "Banie, pow. gryfiński"
+  },
+  {
+    "id": "1496",
+    "name": "Banie Mazurskie, pow. gołdapski"
+  },
+  {
+    "id": "2770",
+    "name": "Baranów, pow. grodziski"
+  },
+  {
+    "id": "2479",
+    "name": "Baranów, pow. kępiński"
+  },
+  {
+    "id": "1372",
+    "name": "Baranów, pow. puławski"
+  },
+  {
+    "id": "2862",
+    "name": "Baranowo, pow. ostrołęcki"
+  },
+  {
+    "id": "187",
+    "name": "Baranów Sandomierski, pow. tarnobrzeski"
+  },
+  {
+    "id": "1512",
+    "name": "Barciany, pow. kętrzyński"
+  },
+  {
+    "id": "2192",
+    "name": "Barcin, pow. żniński"
+  },
+  {
+    "id": "1545",
+    "name": "Barczewo, pow. olsztyński"
+  },
+  {
+    "id": "1180",
+    "name": "Bardo, pow. ząbkowicki"
+  },
+  {
+    "id": "196",
+    "name": "Bargłów Kościelny, pow. augustowski"
+  },
+  {
+    "id": "1696",
+    "name": "Barlinek, pow. myśliborski"
+  },
+  {
+    "id": "1447",
+    "name": "Bartoszyce, pow. bartoszycki"
+  },
+  {
+    "id": "2179",
+    "name": "Baruchowo, pow. włocławski"
+  },
+  {
+    "id": "1738",
+    "name": "Barwice, pow. szczecinecki"
+  },
+  {
+    "id": "1272",
+    "name": "Batorz, pow. janowski"
+  },
+  {
+    "id": "2358",
+    "name": "Będków, pow. tomaszowski"
+  },
+  {
+    "id": "2221",
+    "name": "Bedlno, pow. kutnowski"
+  },
+  {
+    "id": "705",
+    "name": "Będzin, pow. będziński"
+  },
+  {
+    "id": "1678",
+    "name": "Będzino, pow. koszaliński"
+  },
+  {
+    "id": "358",
+    "name": "Bejsce, pow. kazimierski"
+  },
+  {
+    "id": "2204",
+    "name": "Bełchatów, pow. bełchatowski"
+  },
+  {
+    "id": "2778",
+    "name": "Belsk Duży, pow. grójecki"
+  },
+  {
+    "id": "1406",
+    "name": "Bełżec, pow. tomaszowski"
+  },
+  {
+    "id": "1316",
+    "name": "Bełżyce, pow. lubelski"
+  },
+  {
+    "id": "167",
+    "name": "Besko, pow. sanocki"
+  },
+  {
+    "id": "718",
+    "name": "Bestwina, pow. bielski"
+  },
+  {
+    "id": "2369",
+    "name": "Biała, pow. wieluński"
+  },
+  {
+    "id": "963",
+    "name": "Biała, pow. prudnicki"
+  },
+  {
+    "id": "2264",
+    "name": "Białaczów, pow. opoczyński"
+  },
+  {
+    "id": "1575",
+    "name": "Biała Piska, pow. piski"
+  },
+  {
+    "id": "1207",
+    "name": "Biała Podlaska"
+  },
+  {
+    "id": "1211",
+    "name": "Biała Podlaska, pow. bialski"
+  },
+  {
+    "id": "2327",
+    "name": "Biała Rawska, pow. rawski"
+  },
+  {
+    "id": "2046",
+    "name": "Białe Błota, pow. bydgoski"
+  },
+  {
+    "id": "2728",
+    "name": "Białobrzegi, pow. białobrzeski"
+  },
+  {
+    "id": "90",
+    "name": "Białobrzegi, pow. łańcucki"
+  },
+  {
+    "id": "1598",
+    "name": "Białogard, pow. białogardzki"
+  },
+  {
+    "id": "1250",
+    "name": "Białopole, pow. chełmski"
+  },
+  {
+    "id": "2595",
+    "name": "Białośliwie, pow. pilski"
+  },
+  {
+    "id": "243",
+    "name": "Białowieża, pow. hajnowski"
+  },
+  {
+    "id": "1739",
+    "name": "Biały Bór, pow. szczecinecki"
+  },
+  {
+    "id": "662",
+    "name": "Biały Dunajec, pow. tatrzański"
+  },
+  {
+    "id": "201",
+    "name": "Białystok, pow. białostocki"
+  },
+  {
+    "id": "502",
+    "name": "Biecz, pow. gorlicki"
+  },
+  {
+    "id": "3014",
+    "name": "Bielany, pow. sokołowski"
+  },
+  {
+    "id": "992",
+    "name": "Bielawa, pow. dzierżoniowski"
+  },
+  {
+    "id": "2246",
+    "name": "Bielawy, pow. łowicki"
+  },
+  {
+    "id": "1711",
+    "name": "Bielice, pow. pyrzycki"
+  },
+  {
+    "id": "367",
+    "name": "Bieliny, pow. kielecki"
+  },
+  {
+    "id": "2907",
+    "name": "Bielsk, pow. płocki"
+  },
+  {
+    "id": "686",
+    "name": "Bielsko-Biała"
+  },
+  {
+    "id": "714",
+    "name": "Bielsko-Biała, pow. bielski"
+  },
+  {
+    "id": "225",
+    "name": "Bielsk Podlaski, pow. bielski"
+  },
+  {
+    "id": "894",
+    "name": "Bierawa, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "727",
+    "name": "Bieruń, pow. bieruńsko-lędziński"
+  },
+  {
+    "id": "1091",
+    "name": "Bierutów, pow. oleśnicki"
+  },
+  {
+    "id": "1607",
+    "name": "Bierzwnik, pow. choszczeński"
+  },
+  {
+    "id": "1679",
+    "name": "Biesiekierz, pow. koszaliński"
+  },
+  {
+    "id": "3078",
+    "name": "Bieżuń, pow. żuromiński"
+  },
+  {
+    "id": "1231",
+    "name": "Biłgoraj, pow. biłgorajski"
+  },
+  {
+    "id": "118",
+    "name": "Bircza, pow. przemyski"
+  },
+  {
+    "id": "681",
+    "name": "Biskupice, pow. wielicki"
+  },
+  {
+    "id": "1535",
+    "name": "Biskupiec, pow. nowomiejski"
+  },
+  {
+    "id": "1546",
+    "name": "Biskupiec, pow. olsztyński"
+  },
+  {
+    "id": "1236",
+    "name": "Biszcza, pow. biłgorajski"
+  },
+  {
+    "id": "1448",
+    "name": "Bisztynek, pow. bartoszycki"
+  },
+  {
+    "id": "747",
+    "name": "Blachownia, pow. częstochowski"
+  },
+  {
+    "id": "2334",
+    "name": "Błaszki, pow. sieradzki"
+  },
+  {
+    "id": "147",
+    "name": "Błażowa, pow. rzeszowski"
+  },
+  {
+    "id": "2779",
+    "name": "Błędów, pow. grójecki"
+  },
+  {
+    "id": "1783",
+    "name": "Bledzew, pow. międzyrzecki"
+  },
+  {
+    "id": "2467",
+    "name": "Blizanów, pow. kaliski"
+  },
+  {
+    "id": "434",
+    "name": "Bliżyn, pow. skarżyski"
+  },
+  {
+    "id": "3029",
+    "name": "Błonie, pow. warszawski zachodni"
+  },
+  {
+    "id": "1675",
+    "name": "Bobolice, pow. koszaliński"
+  },
+  {
+    "id": "503",
+    "name": "Bobowa, pow. gorlicki"
+  },
+  {
+    "id": "1983",
+    "name": "Bobowo, pow. starogardzki"
+  },
+  {
+    "id": "1774",
+    "name": "Bobrowice, pow. krośnieński"
+  },
+  {
+    "id": "2093",
+    "name": "Bobrowniki, pow. lipnowski"
+  },
+  {
+    "id": "710",
+    "name": "Bobrowniki, pow. będziński"
+  },
+  {
+    "id": "2034",
+    "name": "Bobrowo, pow. brodnicki"
+  },
+  {
+    "id": "465",
+    "name": "Bochnia, pow. bocheński"
+  },
+  {
+    "id": "228",
+    "name": "Boćki, pow. bielski"
+  },
+  {
+    "id": "2908",
+    "name": "Bodzanów, pow. płocki"
+  },
+  {
+    "id": "410",
+    "name": "Bodzechów, pow. ostrowiecki"
+  },
+  {
+    "id": "364",
+    "name": "Bodzentyn, pow. kielecki"
+  },
+  {
+    "id": "1191",
+    "name": "Bogatynia, pow. zgorzelecki"
+  },
+  {
+    "id": "1766",
+    "name": "Bogdaniec, pow. gorzowski"
+  },
+  {
+    "id": "447",
+    "name": "Bogoria, pow. staszowski"
+  },
+  {
+    "id": "153",
+    "name": "Boguchwała, pow. rzeszowski"
+  },
+  {
+    "id": "1151",
+    "name": "Boguszów-Gorce, pow. wałbrzyski"
+  },
+  {
+    "id": "2876",
+    "name": "Boguty-Pianki, pow. ostrowski"
+  },
+  {
+    "id": "1845",
+    "name": "Bojadła, pow. zielonogórski"
+  },
+  {
+    "id": "175",
+    "name": "Bojanów, pow. stalowowolski"
+  },
+  {
+    "id": "2637",
+    "name": "Bojanowo, pow. rawicki"
+  },
+  {
+    "id": "730",
+    "name": "Bojszowy, pow. bieruńsko-lędziński"
+  },
+  {
+    "id": "605",
+    "name": "Bolesław, pow. olkuski"
+  },
+  {
+    "id": "494",
+    "name": "Bolesław, pow. dąbrowski"
+  },
+  {
+    "id": "2380",
+    "name": "Bolesławiec, pow. wieruszowski"
+  },
+  {
+    "id": "984",
+    "name": "Bolesławiec, pow. bolesławiecki"
+  },
+  {
+    "id": "1699",
+    "name": "Boleszkowice, pow. myśliborski"
+  },
+  {
+    "id": "2348",
+    "name": "Bolimów, pow. skierniewicki"
+  },
+  {
+    "id": "1012",
+    "name": "Bolków, pow. jaworski"
+  },
+  {
+    "id": "2180",
+    "name": "Boniewo, pow. włocławski"
+  },
+  {
+    "id": "2440",
+    "name": "Borek Wielkopolski, pow. gostyński"
+  },
+  {
+    "id": "1383",
+    "name": "Borki, pow. radzyński"
+  },
+  {
+    "id": "2950",
+    "name": "Borkowice, pow. przysuski"
+  },
+  {
+    "id": "1740",
+    "name": "Borne Sulinowo, pow. szczecinecki"
+  },
+  {
+    "id": "788",
+    "name": "Boronów, pow. lubliniecki"
+  },
+  {
+    "id": "1118",
+    "name": "Borów, pow. strzeliński"
+  },
+  {
+    "id": "98",
+    "name": "Borowa, pow. mielecki"
+  },
+  {
+    "id": "2750",
+    "name": "Borowie, pow. garwoliński"
+  },
+  {
+    "id": "1319",
+    "name": "Borzechów, pow. lubelski"
+  },
+  {
+    "id": "477",
+    "name": "Borzęcin, pow. brzeski"
+  },
+  {
+    "id": "1883",
+    "name": "Borzytuchom, pow. bytowski"
+  },
+  {
+    "id": "2480",
+    "name": "Bralin, pow. kępiński"
+  },
+  {
+    "id": "890",
+    "name": "Branice, pow. głubczycki"
+  },
+  {
+    "id": "1455",
+    "name": "Braniewo, pow. braniewski"
+  },
+  {
+    "id": "226",
+    "name": "Brańsk, pow. bielski"
+  },
+  {
+    "id": "3065",
+    "name": "Brańszczyk, pow. wyszkowski"
+  },
+  {
+    "id": "2338",
+    "name": "Brąszewice, pow. sieradzki"
+  },
+  {
+    "id": "737",
+    "name": "Brenna, pow. cieszyński"
+  },
+  {
+    "id": "3005",
+    "name": "Brochów, pow. sochaczewski"
+  },
+  {
+    "id": "2675",
+    "name": "Brodnica, pow. śremski"
+  },
+  {
+    "id": "2031",
+    "name": "Brodnica, pow. brodnicki"
+  },
+  {
+    "id": "1869",
+    "name": "Brody, pow. żarski"
+  },
+  {
+    "id": "440",
+    "name": "Brody, pow. starachowicki"
+  },
+  {
+    "id": "2258",
+    "name": "Brójce, pow. łódzki wschodni"
+  },
+  {
+    "id": "1635",
+    "name": "Brojce, pow. gryficki"
+  },
+  {
+    "id": "2874",
+    "name": "Brok, pow. ostrowski"
+  },
+  {
+    "id": "2909",
+    "name": "Brudzeń Duży, pow. płocki"
+  },
+  {
+    "id": "2682",
+    "name": "Brudzew, pow. turecki"
+  },
+  {
+    "id": "1894",
+    "name": "Brusy, pow. chojnicki"
+  },
+  {
+    "id": "2935",
+    "name": "Brwinów, pow. pruszkowski"
+  },
+  {
+    "id": "878",
+    "name": "Brzeg, pow. brzeski"
+  },
+  {
+    "id": "1162",
+    "name": "Brzeg Dolny, pow. wołowski"
+  },
+  {
+    "id": "2173",
+    "name": "Brześć Kujawski, pow. włocławski"
+  },
+  {
+    "id": "475",
+    "name": "Brzesko, pow. brzeski"
+  },
+  {
+    "id": "611",
+    "name": "Brzeszcze, pow. oświęcimski"
+  },
+  {
+    "id": "2468",
+    "name": "Brzeziny, pow. kaliski"
+  },
+  {
+    "id": "2213",
+    "name": "Brzeziny, pow. brzeziński"
+  },
+  {
+    "id": "1858",
+    "name": "Brzeźnica, pow. żagański"
+  },
+  {
+    "id": "670",
+    "name": "Brzeźnica, pow. wadowicki"
+  },
+  {
+    "id": "2339",
+    "name": "Brzeźnio, pow. sieradzki"
+  },
+  {
+    "id": "1748",
+    "name": "Brzeżno, pow. świdwiński"
+  },
+  {
+    "id": "18",
+    "name": "Brzostek, pow. dębicki"
+  },
+  {
+    "id": "2036",
+    "name": "Brzozie, pow. brodnicki"
+  },
+  {
+    "id": "9",
+    "name": "Brzozów, pow. brzozowski"
+  },
+  {
+    "id": "2125",
+    "name": "Brzuze, pow. rypiński"
+  },
+  {
+    "id": "36",
+    "name": "Brzyska, pow. jasielski"
+  },
+  {
+    "id": "2232",
+    "name": "Buczek, pow. łaski"
+  },
+  {
+    "id": "719",
+    "name": "Buczkowice, pow. bielski"
+  },
+  {
+    "id": "1592",
+    "name": "Budry, pow. węgorzewski"
+  },
+  {
+    "id": "2359",
+    "name": "Budziszewice, pow. tomaszowski"
+  },
+  {
+    "id": "633",
+    "name": "Budzów, pow. suski"
+  },
+  {
+    "id": "2410",
+    "name": "Budzyń, pow. chodzieski"
+  },
+  {
+    "id": "2611",
+    "name": "Buk, pow. poznański"
+  },
+  {
+    "id": "2139",
+    "name": "Bukowiec, pow. świecki"
+  },
+  {
+    "id": "663",
+    "name": "Bukowina Tatrzańska, pow. tatrzański"
+  },
+  {
+    "id": "603",
+    "name": "Bukowno, pow. olkuski"
+  },
+  {
+    "id": "168",
+    "name": "Bukowsko, pow. sanocki"
+  },
+  {
+    "id": "2910",
+    "name": "Bulkowo, pow. płocki"
+  },
+  {
+    "id": "2340",
+    "name": "Burzenin, pow. sieradzki"
+  },
+  {
+    "id": "335",
+    "name": "Busko-Zdrój, pow. buski"
+  },
+  {
+    "id": "1317",
+    "name": "Bychawa, pow. lubelski"
+  },
+  {
+    "id": "900",
+    "name": "Byczyna, pow. kluczborski"
+  },
+  {
+    "id": "2018",
+    "name": "Bydgoszcz"
+  },
+  {
+    "id": "2043",
+    "name": "Bydgoszcz, pow. bydgoski"
+  },
+  {
+    "id": "634",
+    "name": "Bystra-Sidzina, pow. suski"
+  },
+  {
+    "id": "1034",
+    "name": "Bystrzyca Kłodzka, pow. kłodzki"
+  },
+  {
+    "id": "1775",
+    "name": "Bytnica, pow. krośnieński"
+  },
+  {
+    "id": "687",
+    "name": "Bytom"
+  },
+  {
+    "id": "1790",
+    "name": "Bytom Odrzański, pow. nowosolski"
+  },
+  {
+    "id": "2118",
+    "name": "Bytoń, pow. radziejowski"
+  },
+  {
+    "id": "1881",
+    "name": "Bytów, pow. bytowski"
+  },
+  {
+    "id": "1910",
+    "name": "Cedry Wielkie, pow. gdański"
+  },
+  {
+    "id": "1642",
+    "name": "Cedynia, pow. gryfiński"
+  },
+  {
+    "id": "2831",
+    "name": "Cegłów, pow. miński"
+  },
+  {
+    "id": "2161",
+    "name": "Cekcyn, pow. tucholski"
+  },
+  {
+    "id": "2469",
+    "name": "Ceków-Kolonia, pow. kaliski"
+  },
+  {
+    "id": "2888",
+    "name": "Celestynów, pow. otwocki"
+  },
+  {
+    "id": "3015",
+    "name": "Ceranów, pow. sokołowski"
+  },
+  {
+    "id": "1944",
+    "name": "Cewice, pow. lęborski"
+  },
+  {
+    "id": "547",
+    "name": "Charsznica, pow. miechowski"
+  },
+  {
+    "id": "2247",
+    "name": "Chąśno, pow. łowicki"
+  },
+  {
+    "id": "365",
+    "name": "Chęciny, pow. kielecki"
+  },
+  {
+    "id": "1208",
+    "name": "Chełm"
+  },
+  {
+    "id": "1248",
+    "name": "Chełm, pow. chełmski"
+  },
+  {
+    "id": "612",
+    "name": "Chełmek, pow. oświęcimski"
+  },
+  {
+    "id": "572",
+    "name": "Chełmiec, pow. nowosądecki"
+  },
+  {
+    "id": "2054",
+    "name": "Chełmno, pow. chełmiński"
+  },
+  {
+    "id": "731",
+    "name": "Chełm Śląski, pow. bieruńsko-lędziński"
+  },
+  {
+    "id": "2151",
+    "name": "Chełmża, pow. toruński"
+  },
+  {
+    "id": "3023",
+    "name": "Chlewiska, pow. szydłowiecki"
+  },
+  {
+    "id": "26",
+    "name": "Chłopice, pow. jarosławski"
+  },
+  {
+    "id": "366",
+    "name": "Chmielnik, pow. kielecki"
+  },
+  {
+    "id": "154",
+    "name": "Chmielnik, pow. rzeszowski"
+  },
+  {
+    "id": "1919",
+    "name": "Chmielno, pow. kartuski"
+  },
+  {
+    "id": "2182",
+    "name": "Choceń, pow. włocławski"
+  },
+  {
+    "id": "1108",
+    "name": "Chocianów, pow. polkowicki"
+  },
+  {
+    "id": "1724",
+    "name": "Chociwel, pow. stargardzki"
+  },
+  {
+    "id": "2604",
+    "name": "Chocz, pow. pleszewski"
+  },
+  {
+    "id": "2011",
+    "name": "Choczewo, pow. wejherowski"
+  },
+  {
+    "id": "2174",
+    "name": "Chodecz, pow. włocławski"
+  },
+  {
+    "id": "1354",
+    "name": "Chodel, pow. opolski"
+  },
+  {
+    "id": "2491",
+    "name": "Chodów, pow. kolski"
+  },
+  {
+    "id": "2407",
+    "name": "Chodzież, pow. chodzieski"
+  },
+  {
+    "id": "1643",
+    "name": "Chojna, pow. gryfiński"
+  },
+  {
+    "id": "1893",
+    "name": "Chojnice, pow. chojnicki"
+  },
+  {
+    "id": "1054",
+    "name": "Chojnów, pow. legnicki"
+  },
+  {
+    "id": "57",
+    "name": "Chorkówka, pow. krośnieński"
+  },
+  {
+    "id": "202",
+    "name": "Choroszcz, pow. białostocki"
+  },
+  {
+    "id": "2942",
+    "name": "Chorzele, pow. przasnyski"
+  },
+  {
+    "id": "688",
+    "name": "Chorzów"
+  },
+  {
+    "id": "1603",
+    "name": "Choszczno, pow. choszczeński"
+  },
+  {
+    "id": "2803",
+    "name": "Chotcza, pow. lipski"
+  },
+  {
+    "id": "2094",
+    "name": "Chrostkowo, pow. lipnowski"
+  },
+  {
+    "id": "1273",
+    "name": "Chrzanów, pow. janowski"
+  },
+  {
+    "id": "484",
+    "name": "Chrzanów, pow. chrzanowski"
+  },
+  {
+    "id": "949",
+    "name": "Chrząstowice, pow. opolski"
+  },
+  {
+    "id": "2550",
+    "name": "Chrzypsko Wielkie, pow. międzychodzki"
+  },
+  {
+    "id": "738",
+    "name": "Chybie, pow. cieszyński"
+  },
+  {
+    "id": "2780",
+    "name": "Chynów, pow. grójecki"
+  },
+  {
+    "id": "789",
+    "name": "Ciasna, pow. lubliniecki"
+  },
+  {
+    "id": "2736",
+    "name": "Ciechanów, pow. ciechanowski"
+  },
+  {
+    "id": "319",
+    "name": "Ciechanowiec, pow. wysokomazowiecki"
+  },
+  {
+    "id": "2063",
+    "name": "Ciechocin, pow. golubsko-dobrzyński"
+  },
+  {
+    "id": "2023",
+    "name": "Ciechocinek, pow. aleksandrowski"
+  },
+  {
+    "id": "2329",
+    "name": "Cielądz, pow. rawski"
+  },
+  {
+    "id": "2804",
+    "name": "Ciepielów, pow. lipski"
+  },
+  {
+    "id": "1184",
+    "name": "Ciepłowody, pow. ząbkowicki"
+  },
+  {
+    "id": "79",
+    "name": "Cieszanów, pow. lubaczowski"
+  },
+  {
+    "id": "1087",
+    "name": "Cieszków, pow. milicki"
+  },
+  {
+    "id": "732",
+    "name": "Cieszyn, pow. cieszyński"
+  },
+  {
+    "id": "641",
+    "name": "Ciężkowice, pow. tarnowski"
+  },
+  {
+    "id": "895",
+    "name": "Cisek, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "68",
+    "name": "Cisna, pow. leski"
+  },
+  {
+    "id": "407",
+    "name": "Ćmielów, pow. ostrowiecki"
+  },
+  {
+    "id": "46",
+    "name": "Cmolas, pow. kolbuszowski"
+  },
+  {
+    "id": "1801",
+    "name": "Cybinka, pow. słubicki"
+  },
+  {
+    "id": "1335",
+    "name": "Cyców, pow. łęczyński"
+  },
+  {
+    "id": "2583",
+    "name": "Czajków, pow. ostrzeszowski"
+  },
+  {
+    "id": "1614",
+    "name": "Czaplinek, pow. drawski"
+  },
+  {
+    "id": "6",
+    "name": "Czarna, pow. bieszczadzki"
+  },
+  {
+    "id": "91",
+    "name": "Czarna, pow. łańcucki"
+  },
+  {
+    "id": "19",
+    "name": "Czarna, pow. dębicki"
+  },
+  {
+    "id": "203",
+    "name": "Czarna Białostocka, pow. białostocki"
+  },
+  {
+    "id": "1885",
+    "name": "Czarna Dąbrówka, pow. bytowski"
+  },
+  {
+    "id": "1980",
+    "name": "Czarna Woda, pow. starogardzki"
+  },
+  {
+    "id": "1901",
+    "name": "Czarne, pow. człuchowski"
+  },
+  {
+    "id": "2863",
+    "name": "Czarnia, pow. ostrołęcki"
+  },
+  {
+    "id": "2414",
+    "name": "Czarnków, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "2292",
+    "name": "Czarnocin, pow. piotrkowski"
+  },
+  {
+    "id": "359",
+    "name": "Czarnocin, pow. kazimierski"
+  },
+  {
+    "id": "2370",
+    "name": "Czarnożyły, pow. wieluński"
+  },
+  {
+    "id": "1156",
+    "name": "Czarny Bór, pow. wałbrzyski"
+  },
+  {
+    "id": "590",
+    "name": "Czarny Dunajec, pow. nowotarski"
+  },
+  {
+    "id": "2381",
+    "name": "Czastary, pow. wieruszowski"
+  },
+  {
+    "id": "476",
+    "name": "Czchów, pow. brzeski"
+  },
+  {
+    "id": "715",
+    "name": "Czechowice-Dziedzice, pow. bielski"
+  },
+  {
+    "id": "706",
+    "name": "Czeladź, pow. będziński"
+  },
+  {
+    "id": "1384",
+    "name": "Czemierniki, pow. radzyński"
+  },
+  {
+    "id": "2521",
+    "name": "Czempiń, pow. kościański"
+  },
+  {
+    "id": "244",
+    "name": "Czeremcha, pow. hajnowski"
+  },
+  {
+    "id": "2605",
+    "name": "Czermin, pow. pleszewski"
+  },
+  {
+    "id": "99",
+    "name": "Czermin, pow. mielecki"
+  },
+  {
+    "id": "1170",
+    "name": "Czernica, pow. wrocławski"
+  },
+  {
+    "id": "2944",
+    "name": "Czernice Borowe, pow. przasnyski"
+  },
+  {
+    "id": "863",
+    "name": "Czernichów, pow. żywiecki"
+  },
+  {
+    "id": "517",
+    "name": "Czernichów, pow. krakowski"
+  },
+  {
+    "id": "2426",
+    "name": "Czerniejewo, pow. gnieźnieński"
+  },
+  {
+    "id": "2360",
+    "name": "Czerniewice, pow. tomaszowski"
+  },
+  {
+    "id": "2153",
+    "name": "Czernikowo, pow. toruński"
+  },
+  {
+    "id": "1895",
+    "name": "Czersk, pow. chojnicki"
+  },
+  {
+    "id": "1841",
+    "name": "Czerwieńsk, pow. zielonogórski"
+  },
+  {
+    "id": "2864",
+    "name": "Czerwin, pow. ostrołęcki"
+  },
+  {
+    "id": "2925",
+    "name": "Czerwińsk nad Wisłą, pow. płoński"
+  },
+  {
+    "id": "824",
+    "name": "Czerwionka-Leszczyny, pow. rybnicki"
+  },
+  {
+    "id": "2622",
+    "name": "Czerwonak, pow. poznański"
+  },
+  {
+    "id": "2818",
+    "name": "Czerwonka, pow. makowski"
+  },
+  {
+    "id": "689",
+    "name": "Częstochowa"
+  },
+  {
+    "id": "746",
+    "name": "Częstochowa, pow. częstochowski"
+  },
+  {
+    "id": "1754",
+    "name": "Człopa, pow. wałecki"
+  },
+  {
+    "id": "1900",
+    "name": "Człuchów, pow. człuchowski"
+  },
+  {
+    "id": "591",
+    "name": "Czorsztyn, pow. nowotarski"
+  },
+  {
+    "id": "2855",
+    "name": "Czosnów, pow. nowodworski"
+  },
+  {
+    "id": "181",
+    "name": "Czudec, pow. strzyżowski"
+  },
+  {
+    "id": "245",
+    "name": "Czyże, pow. hajnowski"
+  },
+  {
+    "id": "321",
+    "name": "Czyżew, pow. wysokomazowiecki"
+  },
+  {
+    "id": "2487",
+    "name": "Dąbie, pow. kolski"
+  },
+  {
+    "id": "1776",
+    "name": "Dąbie, pow. krośnieński"
+  },
+  {
+    "id": "2103",
+    "name": "Dąbrowa, pow. mogileński"
+  },
+  {
+    "id": "950",
+    "name": "Dąbrowa, pow. opolski"
+  },
+  {
+    "id": "296",
+    "name": "Dąbrowa Białostocka, pow. sokólski"
+  },
+  {
+    "id": "2082",
+    "name": "Dąbrowa Biskupia, pow. inowrocławski"
+  },
+  {
+    "id": "2047",
+    "name": "Dąbrowa Chełmińska, pow. bydgoski"
+  },
+  {
+    "id": "690",
+    "name": "Dąbrowa Górnicza"
+  },
+  {
+    "id": "493",
+    "name": "Dąbrowa Tarnowska, pow. dąbrowski"
+  },
+  {
+    "id": "750",
+    "name": "Dąbrowa Zielona, pow. częstochowski"
+  },
+  {
+    "id": "2222",
+    "name": "Dąbrowice, pow. kutnowski"
+  },
+  {
+    "id": "3056",
+    "name": "Dąbrówka, pow. wołomiński"
+  },
+  {
+    "id": "1566",
+    "name": "Dąbrówno, pow. ostródzki"
+  },
+  {
+    "id": "371",
+    "name": "Daleszyce, pow. kielecki"
+  },
+  {
+    "id": "2304",
+    "name": "Dalików, pow. poddębicki"
+  },
+  {
+    "id": "2693",
+    "name": "Damasławek, pow. wągrowiecki"
+  },
+  {
+    "id": "1970",
+    "name": "Damnica, pow. słupski"
+  },
+  {
+    "id": "1718",
+    "name": "Darłowo, pow. sławieński"
+  },
+  {
+    "id": "2238",
+    "name": "Daszyna, pow. łęczycki"
+  },
+  {
+    "id": "2832",
+    "name": "Dębe Wielkie, pow. miński"
+  },
+  {
+    "id": "16",
+    "name": "Dębica, pow. dębicki"
+  },
+  {
+    "id": "1391",
+    "name": "Dęblin, pow. rycki"
+  },
+  {
+    "id": "1971",
+    "name": "Dębnica Kaszubska, pow. słupski"
+  },
+  {
+    "id": "1697",
+    "name": "Dębno, pow. myśliborski"
+  },
+  {
+    "id": "480",
+    "name": "Dębno, pow. brzeski"
+  },
+  {
+    "id": "1362",
+    "name": "Dębowa Kłoda, pow. parczewski"
+  },
+  {
+    "id": "2168",
+    "name": "Dębowa Łąka, pow. wąbrzeski"
+  },
+  {
+    "id": "739",
+    "name": "Dębowiec, pow. cieszyński"
+  },
+  {
+    "id": "37",
+    "name": "Dębowiec, pow. jasielski"
+  },
+  {
+    "id": "1902",
+    "name": "Debrzno, pow. człuchowski"
+  },
+  {
+    "id": "1767",
+    "name": "Deszczno, pow. gorzowski"
+  },
+  {
+    "id": "1171",
+    "name": "Długołęka, pow. wrocławski"
+  },
+  {
+    "id": "3066",
+    "name": "Długosiodło, pow. wyszkowski"
+  },
+  {
+    "id": "2274",
+    "name": "Dłutów, pow. pabianicki"
+  },
+  {
+    "id": "2215",
+    "name": "Dmosin, pow. brzeziński"
+  },
+  {
+    "id": "555",
+    "name": "Dobczyce, pow. myślenicki"
+  },
+  {
+    "id": "1810",
+    "name": "Dobiegniew, pow. strzelecko-drezdenecki"
+  },
+  {
+    "id": "2680",
+    "name": "Dobra, pow. turecki"
+  },
+  {
+    "id": "1705",
+    "name": "Dobra, pow. policki"
+  },
+  {
+    "id": "1687",
+    "name": "Dobra, pow. łobeski"
+  },
+  {
+    "id": "536",
+    "name": "Dobra, pow. limanowski"
+  },
+  {
+    "id": "2048",
+    "name": "Dobrcz, pow. bydgoski"
+  },
+  {
+    "id": "2833",
+    "name": "Dobre, pow. miński"
+  },
+  {
+    "id": "2119",
+    "name": "Dobre, pow. radziejowski"
+  },
+  {
+    "id": "1547",
+    "name": "Dobre Miasto, pow. olsztyński"
+  },
+  {
+    "id": "935",
+    "name": "Dobrodzień, pow. oleski"
+  },
+  {
+    "id": "1134",
+    "name": "Dobromierz, pow. świdnicki"
+  },
+  {
+    "id": "2275",
+    "name": "Dobroń, pow. pabianicki"
+  },
+  {
+    "id": "1096",
+    "name": "Dobroszyce, pow. oleśnicki"
+  },
+  {
+    "id": "2313",
+    "name": "Dobryszyce, pow. radomszczański"
+  },
+  {
+    "id": "1725",
+    "name": "Dobrzany, pow. stargardzki"
+  },
+  {
+    "id": "951",
+    "name": "Dobrzeń Wielki, pow. opolski"
+  },
+  {
+    "id": "2606",
+    "name": "Dobrzyca, pow. pleszewski"
+  },
+  {
+    "id": "212",
+    "name": "Dobrzyniewo Duże, pow. białostocki"
+  },
+  {
+    "id": "2091",
+    "name": "Dobrzyń nad Wisłą, pow. lipnowski"
+  },
+  {
+    "id": "1264",
+    "name": "Dołhobyczów, pow. hrubieszowski"
+  },
+  {
+    "id": "1730",
+    "name": "Dolice, pow. stargardzki"
+  },
+  {
+    "id": "2673",
+    "name": "Dolsk, pow. śremski"
+  },
+  {
+    "id": "2984",
+    "name": "Domanice, pow. siedlecki"
+  },
+  {
+    "id": "2248",
+    "name": "Domaniewice, pow. łowicki"
+  },
+  {
+    "id": "1104",
+    "name": "Domaniów, pow. oławski"
+  },
+  {
+    "id": "11",
+    "name": "Domaradz, pow. brzozowski"
+  },
+  {
+    "id": "915",
+    "name": "Domaszowice, pow. namysłowski"
+  },
+  {
+    "id": "2667",
+    "name": "Dominowo, pow. średzki"
+  },
+  {
+    "id": "2623",
+    "name": "Dopiewo, pow. poznański"
+  },
+  {
+    "id": "1252",
+    "name": "Dorohusk, pow. chełmski"
+  },
+  {
+    "id": "2584",
+    "name": "Doruchów, pow. ostrzeszowski"
+  },
+  {
+    "id": "2140",
+    "name": "Dragacz, pow. świecki"
+  },
+  {
+    "id": "1604",
+    "name": "Drawno, pow. choszczeński"
+  },
+  {
+    "id": "2419",
+    "name": "Drawsko, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "1613",
+    "name": "Drawsko Pomorskie, pow. drawski"
+  },
+  {
+    "id": "1215",
+    "name": "Drelów, pow. bialski"
+  },
+  {
+    "id": "1811",
+    "name": "Drezdenko, pow. strzelecko-drezdenecki"
+  },
+  {
+    "id": "2904",
+    "name": "Drobin, pow. płocki"
+  },
+  {
+    "id": "286",
+    "name": "Drohiczyn, pow. siemiatycki"
+  },
+  {
+    "id": "2207",
+    "name": "Drużbice, pow. bełchatowski"
+  },
+  {
+    "id": "468",
+    "name": "Drwinia, pow. bocheński"
+  },
+  {
+    "id": "2263",
+    "name": "Drzewica, pow. opoczyński"
+  },
+  {
+    "id": "2141",
+    "name": "Drzycim, pow. świecki"
+  },
+  {
+    "id": "1497",
+    "name": "Dubeninki, pow. gołdapski"
+  },
+  {
+    "id": "246",
+    "name": "Dubicze Cerkiewne, pow. hajnowski"
+  },
+  {
+    "id": "119",
+    "name": "Dubiecko, pow. przemyski"
+  },
+  {
+    "id": "1253",
+    "name": "Dubienka, pow. chełmski"
+  },
+  {
+    "id": "53",
+    "name": "Dukla, pow. krośnieński"
+  },
+  {
+    "id": "2659",
+    "name": "Duszniki, pow. szamotulski"
+  },
+  {
+    "id": "1035",
+    "name": "Duszniki-Zdrój, pow. kłodzki"
+  },
+  {
+    "id": "424",
+    "name": "Dwikozy, pow. sandomierski"
+  },
+  {
+    "id": "12",
+    "name": "Dydnia, pow. brzozowski"
+  },
+  {
+    "id": "1668",
+    "name": "Dygowo, pow. kołobrzeski"
+  },
+  {
+    "id": "148",
+    "name": "Dynów, pow. rzeszowski"
+  },
+  {
+    "id": "1553",
+    "name": "Dywity, pow. olsztyński"
+  },
+  {
+    "id": "288",
+    "name": "Dziadkowice, pow. siemiatycki"
+  },
+  {
+    "id": "1097",
+    "name": "Dziadowa Kłoda, pow. oleśnicki"
+  },
+  {
+    "id": "1464",
+    "name": "Działdowo, pow. działdowski"
+  },
+  {
+    "id": "415",
+    "name": "Działoszyce, pow. pińczowski"
+  },
+  {
+    "id": "2280",
+    "name": "Działoszyn, pow. pajęczański"
+  },
+  {
+    "id": "1928",
+    "name": "Dziemiany, pow. kościerski"
+  },
+  {
+    "id": "2926",
+    "name": "Dzierzążnia, pow. płoński"
+  },
+  {
+    "id": "1994",
+    "name": "Dzierzgoń, pow. sztumski"
+  },
+  {
+    "id": "2843",
+    "name": "Dzierzgowo, pow. mławski"
+  },
+  {
+    "id": "1292",
+    "name": "Dzierzkowice, pow. kraśnicki"
+  },
+  {
+    "id": "991",
+    "name": "Dzierżoniów, pow. dzierżoniowski"
+  },
+  {
+    "id": "1657",
+    "name": "Dziwnów, pow. kamieński"
+  },
+  {
+    "id": "1584",
+    "name": "Dźwierzuty, pow. szczycieński"
+  },
+  {
+    "id": "1274",
+    "name": "Dzwola, pow. janowski"
+  },
+  {
+    "id": "1445",
+    "name": "Elbląg"
+  },
+  {
+    "id": "1471",
+    "name": "Elbląg, pow. elbląski"
+  },
+  {
+    "id": "1484",
+    "name": "Ełk, pow. ełcki"
+  },
+  {
+    "id": "2184",
+    "name": "Fabianki, pow. włocławski"
+  },
+  {
+    "id": "1399",
+    "name": "Fajsławice, pow. krasnostawski"
+  },
+  {
+    "id": "388",
+    "name": "Fałków, pow. konecki"
+  },
+  {
+    "id": "310",
+    "name": "Filipów, pow. suwalski"
+  },
+  {
+    "id": "1304",
+    "name": "Firlej, pow. lubartowski"
+  },
+  {
+    "id": "1232",
+    "name": "Frampol, pow. biłgorajski"
+  },
+  {
+    "id": "120",
+    "name": "Fredropol, pow. przemyski"
+  },
+  {
+    "id": "1456",
+    "name": "Frombork, pow. braniewski"
+  },
+  {
+    "id": "182",
+    "name": "Frysztak, pow. strzyżowski"
+  },
+  {
+    "id": "2905",
+    "name": "Gąbin, pow. płocki"
+  },
+  {
+    "id": "132",
+    "name": "Gać, pow. przeworski"
+  },
+  {
+    "id": "2382",
+    "name": "Galewice, pow. wieruszowski"
+  },
+  {
+    "id": "2789",
+    "name": "Garbatka-Letnisko, pow. kozienicki"
+  },
+  {
+    "id": "1321",
+    "name": "Garbów, pow. lubelski"
+  },
+  {
+    "id": "1937",
+    "name": "Gardeja, pow. kwidzyński"
+  },
+  {
+    "id": "2746",
+    "name": "Garwolin, pow. garwoliński"
+  },
+  {
+    "id": "2196",
+    "name": "Gąsawa, pow. żniński"
+  },
+  {
+    "id": "826",
+    "name": "Gaszowice, pow. rybnicki"
+  },
+  {
+    "id": "100",
+    "name": "Gawłuszowice, pow. mielecki"
+  },
+  {
+    "id": "1111",
+    "name": "Gaworzyce, pow. polkowicki"
+  },
+  {
+    "id": "1877",
+    "name": "Gdańsk"
+  },
+  {
+    "id": "682",
+    "name": "Gdów, pow. wielicki"
+  },
+  {
+    "id": "1878",
+    "name": "Gdynia"
+  },
+  {
+    "id": "281",
+    "name": "Giby, pow. sejneński"
+  },
+  {
+    "id": "2314",
+    "name": "Gidle, pow. radomszczański"
+  },
+  {
+    "id": "2951",
+    "name": "Gielniów, pow. przysuski"
+  },
+  {
+    "id": "770",
+    "name": "Gierałtowice, pow. gliwicki"
+  },
+  {
+    "id": "1554",
+    "name": "Gietrzwałd, pow. olsztyński"
+  },
+  {
+    "id": "864",
+    "name": "Gilowice, pow. żywiecki"
+  },
+  {
+    "id": "2607",
+    "name": "Gizałki, pow. pleszewski"
+  },
+  {
+    "id": "1489",
+    "name": "Giżycko, pow. giżycki"
+  },
+  {
+    "id": "2737",
+    "name": "Glinojeck, pow. ciechanowski"
+  },
+  {
+    "id": "691",
+    "name": "Gliwice"
+  },
+  {
+    "id": "765",
+    "name": "Gliwice, pow. gliwicki"
+  },
+  {
+    "id": "999",
+    "name": "Głogów, pow. głogowski"
+  },
+  {
+    "id": "964",
+    "name": "Głogówek, pow. prudnicki"
+  },
+  {
+    "id": "149",
+    "name": "Głogów Małopolski, pow. rzeszowski"
+  },
+  {
+    "id": "2790",
+    "name": "Głowaczów, pow. kozienicki"
+  },
+  {
+    "id": "1972",
+    "name": "Główczyce, pow. słupski"
+  },
+  {
+    "id": "2394",
+    "name": "Głowno, pow. zgierski"
+  },
+  {
+    "id": "886",
+    "name": "Głubczyce, pow. głubczycki"
+  },
+  {
+    "id": "921",
+    "name": "Głuchołazy, pow. nyski"
+  },
+  {
+    "id": "2349",
+    "name": "Głuchów, pow. skierniewicki"
+  },
+  {
+    "id": "1326",
+    "name": "Głusk, pow. lubelski"
+  },
+  {
+    "id": "1152",
+    "name": "Głuszyca, pow. wałbrzyski"
+  },
+  {
+    "id": "2001",
+    "name": "Gniew, pow. tczewski"
+  },
+  {
+    "id": "2012",
+    "name": "Gniewino, pow. wejherowski"
+  },
+  {
+    "id": "2078",
+    "name": "Gniewkowo, pow. inowrocławski"
+  },
+  {
+    "id": "2791",
+    "name": "Gniewoszów, pow. kozienicki"
+  },
+  {
+    "id": "2425",
+    "name": "Gniezno, pow. gnieźnieński"
+  },
+  {
+    "id": "481",
+    "name": "Gnojnik, pow. brzeski"
+  },
+  {
+    "id": "337",
+    "name": "Gnojno, pow. buski"
+  },
+  {
+    "id": "1476",
+    "name": "Godkowo, pow. elbląski"
+  },
+  {
+    "id": "843",
+    "name": "Godów, pow. wodzisławski"
+  },
+  {
+    "id": "2350",
+    "name": "Godzianów, pow. skierniewicki"
+  },
+  {
+    "id": "2470",
+    "name": "Godziesze Wielkie, pow. kaliski"
+  },
+  {
+    "id": "1275",
+    "name": "Godziszów, pow. janowski"
+  },
+  {
+    "id": "907",
+    "name": "Gogolin, pow. krapkowicki"
+  },
+  {
+    "id": "2691",
+    "name": "Gołańcz, pow. wągrowiecki"
+  },
+  {
+    "id": "548",
+    "name": "Gołcza, pow. miechowski"
+  },
+  {
+    "id": "1658",
+    "name": "Golczewo, pow. kamieński"
+  },
+  {
+    "id": "1495",
+    "name": "Gołdap, pow. gołdapski"
+  },
+  {
+    "id": "1623",
+    "name": "Goleniów, pow. goleniowski"
+  },
+  {
+    "id": "740",
+    "name": "Goleszów, pow. cieszyński"
+  },
+  {
+    "id": "2501",
+    "name": "Golina, pow. koniński"
+  },
+  {
+    "id": "2061",
+    "name": "Golub-Dobrzyń, pow. golubsko-dobrzyński"
+  },
+  {
+    "id": "2608",
+    "name": "Gołuchów, pow. pleszewski"
+  },
+  {
+    "id": "2740",
+    "name": "Gołymin-Ośrodek, pow. ciechanowski"
+  },
+  {
+    "id": "2315",
+    "name": "Gomunice, pow. radomszczański"
+  },
+  {
+    "id": "271",
+    "name": "Goniądz, pow. moniecki"
+  },
+  {
+    "id": "1005",
+    "name": "Góra, pow. górowski"
+  },
+  {
+    "id": "1239",
+    "name": "Goraj, pow. biłgorajski"
+  },
+  {
+    "id": "2895",
+    "name": "Góra Kalwaria, pow. piaseczyński"
+  },
+  {
+    "id": "2239",
+    "name": "Góra Świętej Małgorzaty, pow. łęczycki"
+  },
+  {
+    "id": "501",
+    "name": "Gorlice, pow. gorlicki"
+  },
+  {
+    "id": "372",
+    "name": "Górno, pow. kielecki"
+  },
+  {
+    "id": "1449",
+    "name": "Górowo Iławeckie, pow. bartoszycki"
+  },
+  {
+    "id": "1280",
+    "name": "Gorzków, pow. krasnostawski"
+  },
+  {
+    "id": "2293",
+    "name": "Gorzkowice, pow. piotrkowski"
+  },
+  {
+    "id": "2752",
+    "name": "Górzno, pow. garwoliński"
+  },
+  {
+    "id": "2032",
+    "name": "Górzno, pow. brodnicki"
+  },
+  {
+    "id": "936",
+    "name": "Gorzów Śląski, pow. oleski"
+  },
+  {
+    "id": "1761",
+    "name": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "1763",
+    "name": "Gorzów Wielkopolski, pow. gorzowski"
+  },
+  {
+    "id": "1805",
+    "name": "Górzyca, pow. słubicki"
+  },
+  {
+    "id": "844",
+    "name": "Gorzyce, pow. wodzisławski"
+  },
+  {
+    "id": "190",
+    "name": "Gorzyce, pow. tarnobrzeski"
+  },
+  {
+    "id": "1293",
+    "name": "Gościeradów, pow. kraśnicki"
+  },
+  {
+    "id": "1669",
+    "name": "Gościno, pow. kołobrzeski"
+  },
+  {
+    "id": "2162",
+    "name": "Gostycyn, pow. tucholski"
+  },
+  {
+    "id": "2439",
+    "name": "Gostyń, pow. gostyński"
+  },
+  {
+    "id": "2762",
+    "name": "Gostynin, pow. gostyniński"
+  },
+  {
+    "id": "2341",
+    "name": "Goszczanów, pow. sieradzki"
+  },
+  {
+    "id": "2781",
+    "name": "Goszczyn, pow. grójecki"
+  },
+  {
+    "id": "389",
+    "name": "Gowarczów, pow. konecki"
+  },
+  {
+    "id": "2865",
+    "name": "Goworowo, pow. ostrołęcki"
+  },
+  {
+    "id": "2970",
+    "name": "Gózd, pow. radomski"
+  },
+  {
+    "id": "1854",
+    "name": "Gozdnica, pow. żagański"
+  },
+  {
+    "id": "2998",
+    "name": "Gozdowo, pow. sierpecki"
+  },
+  {
+    "id": "2294",
+    "name": "Grabica, pow. piotrkowski"
+  },
+  {
+    "id": "2240",
+    "name": "Grabów, pow. łęczycki"
+  },
+  {
+    "id": "1431",
+    "name": "Grabowiec, pow. zamojski"
+  },
+  {
+    "id": "2792",
+    "name": "Grabów nad Pilicą, pow. kozienicki"
+  },
+  {
+    "id": "2581",
+    "name": "Grabów nad Prosną, pow. ostrzeszowski"
+  },
+  {
+    "id": "253",
+    "name": "Grabowo, pow. kolneński"
+  },
+  {
+    "id": "233",
+    "name": "Grajewo, pow. grajewski"
+  },
+  {
+    "id": "2454",
+    "name": "Granowo, pow. grodziski"
+  },
+  {
+    "id": "2037",
+    "name": "Grążawy, pow. brodnicki"
+  },
+  {
+    "id": "3041",
+    "name": "Grębków, pow. węgrowski"
+  },
+  {
+    "id": "1112",
+    "name": "Grębocice, pow. polkowicki"
+  },
+  {
+    "id": "496",
+    "name": "Gręboszów, pow. dąbrowski"
+  },
+  {
+    "id": "191",
+    "name": "Grębów, pow. tarnobrzeski"
+  },
+  {
+    "id": "213",
+    "name": "Gródek, pow. białostocki"
+  },
+  {
+    "id": "573",
+    "name": "Gródek nad Dunajcem, pow. nowosądecki"
+  },
+  {
+    "id": "879",
+    "name": "Grodków, pow. brzeski"
+  },
+  {
+    "id": "1536",
+    "name": "Grodziczno, pow. nowomiejski"
+  },
+  {
+    "id": "2507",
+    "name": "Grodziec, pow. koniński"
+  },
+  {
+    "id": "289",
+    "name": "Grodzisk, pow. siemiatycki"
+  },
+  {
+    "id": "2767",
+    "name": "Grodzisk Mazowiecki, pow. grodziski"
+  },
+  {
+    "id": "74",
+    "name": "Grodzisko Dolne, pow. leżajski"
+  },
+  {
+    "id": "2451",
+    "name": "Grodzisk Wielkopolski, pow. grodziski"
+  },
+  {
+    "id": "2774",
+    "name": "Grójec, pow. grójecki"
+  },
+  {
+    "id": "987",
+    "name": "Gromadka, pow. bolesławiecki"
+  },
+  {
+    "id": "646",
+    "name": "Gromnik, pow. tarnowski"
+  },
+  {
+    "id": "1477",
+    "name": "Gronowo Elbląskie, pow. elbląski"
+  },
+  {
+    "id": "2741",
+    "name": "Grudusk, pow. ciechanowski"
+  },
+  {
+    "id": "2019",
+    "name": "Grudziądz"
+  },
+  {
+    "id": "2068",
+    "name": "Grudziądz, pow. grudziądzki"
+  },
+  {
+    "id": "1567",
+    "name": "Grunwald, pow. ostródzki"
+  },
+  {
+    "id": "2072",
+    "name": "Gruta, pow. grudziądzki"
+  },
+  {
+    "id": "567",
+    "name": "Grybów, pow. nowosądecki"
+  },
+  {
+    "id": "1632",
+    "name": "Gryfice, pow. gryficki"
+  },
+  {
+    "id": "1641",
+    "name": "Gryfino, pow. gryfiński"
+  },
+  {
+    "id": "1077",
+    "name": "Gryfów Śląski, pow. lwówecki"
+  },
+  {
+    "id": "2493",
+    "name": "Grzegorzew, pow. kolski"
+  },
+  {
+    "id": "1744",
+    "name": "Grzmiąca, pow. szczecinecki"
+  },
+  {
+    "id": "1773",
+    "name": "Gubin, pow. krośnieński"
+  },
+  {
+    "id": "2959",
+    "name": "Gzy, pow. pułtuski"
+  },
+  {
+    "id": "13",
+    "name": "Haczów, pow. brzozowski"
+  },
+  {
+    "id": "241",
+    "name": "Hajnówka, pow. hajnowski"
+  },
+  {
+    "id": "2828",
+    "name": "Halinów, pow. miński"
+  },
+  {
+    "id": "1419",
+    "name": "Hanna, pow. włodawski"
+  },
+  {
+    "id": "1420",
+    "name": "Hańsk, pow. włodawski"
+  },
+  {
+    "id": "110",
+    "name": "Harasiuki, pow. niżański"
+  },
+  {
+    "id": "741",
+    "name": "Hażlach, pow. cieszyński"
+  },
+  {
+    "id": "790",
+    "name": "Herby, pow. lubliniecki"
+  },
+  {
+    "id": "1265",
+    "name": "Horodło, pow. hrubieszowski"
+  },
+  {
+    "id": "83",
+    "name": "Horyniec-Zdrój, pow. lubaczowski"
+  },
+  {
+    "id": "1263",
+    "name": "Hrubieszów, pow. hrubieszowski"
+  },
+  {
+    "id": "2810",
+    "name": "Huszlew, pow. łosicki"
+  },
+  {
+    "id": "157",
+    "name": "Hyżne, pow. rzeszowski"
+  },
+  {
+    "id": "518",
+    "name": "Igołomia-Wawrzeńczyce, pow. krakowski"
+  },
+  {
+    "id": "1499",
+    "name": "Iława, pow. iławski"
+  },
+  {
+    "id": "3006",
+    "name": "Iłów, pow. sochaczewski"
+  },
+  {
+    "id": "1855",
+    "name": "Iłowa, pow. żagański"
+  },
+  {
+    "id": "1467",
+    "name": "Iłowo-Osada, pow. działdowski"
+  },
+  {
+    "id": "2967",
+    "name": "Iłża, pow. radomski"
+  },
+  {
+    "id": "728",
+    "name": "Imielin, pow. bieruńsko-lędziński"
+  },
+  {
+    "id": "347",
+    "name": "Imielno, pow. jędrzejowski"
+  },
+  {
+    "id": "2361",
+    "name": "Inowłódz, pow. tomaszowski"
+  },
+  {
+    "id": "2077",
+    "name": "Inowrocław, pow. inowrocławski"
+  },
+  {
+    "id": "1726",
+    "name": "Ińsko, pow. stargardzki"
+  },
+  {
+    "id": "854",
+    "name": "Irządze, pow. zawierciański"
+  },
+  {
+    "id": "742",
+    "name": "Istebna, pow. cieszyński"
+  },
+  {
+    "id": "399",
+    "name": "Iwaniska, pow. opatowski"
+  },
+  {
+    "id": "519",
+    "name": "Iwanowice, pow. krakowski"
+  },
+  {
+    "id": "141",
+    "name": "Iwierzyce, pow. ropczycko-sędziszowski"
+  },
+  {
+    "id": "482",
+    "name": "Iwkowa, pow. brzeski"
+  },
+  {
+    "id": "54",
+    "name": "Iwonicz-Zdrój, pow. krośnieński"
+  },
+  {
+    "id": "3033",
+    "name": "Izabelin, pow. warszawski zachodni"
+  },
+  {
+    "id": "1281",
+    "name": "Izbica, pow. krasnostawski"
+  },
+  {
+    "id": "2175",
+    "name": "Izbica Kujawska, pow. włocławski"
+  },
+  {
+    "id": "974",
+    "name": "Izbicko, pow. strzelecki"
+  },
+  {
+    "id": "1363",
+    "name": "Jabłoń, pow. parczewski"
+  },
+  {
+    "id": "592",
+    "name": "Jabłonka, pow. nowotarski"
+  },
+  {
+    "id": "2798",
+    "name": "Jabłonna, pow. legionowski"
+  },
+  {
+    "id": "1322",
+    "name": "Jabłonna, pow. lubelski"
+  },
+  {
+    "id": "3016",
+    "name": "Jabłonna Lacka, pow. sokołowski"
+  },
+  {
+    "id": "2033",
+    "name": "Jabłonowo Pomorskie, pow. brodnicki"
+  },
+  {
+    "id": "3057",
+    "name": "Jadów, pow. wołomiński"
+  },
+  {
+    "id": "2772",
+    "name": "Jaktorów, pow. grodziski"
+  },
+  {
+    "id": "2835",
+    "name": "Jakubów, pow. miński"
+  },
+  {
+    "id": "2079",
+    "name": "Janikowo, pow. inowrocławski"
+  },
+  {
+    "id": "751",
+    "name": "Janów, pow. częstochowski"
+  },
+  {
+    "id": "299",
+    "name": "Janów, pow. sokólski"
+  },
+  {
+    "id": "1023",
+    "name": "Janowice Wielkie, pow. jeleniogórski"
+  },
+  {
+    "id": "1373",
+    "name": "Janowiec, pow. puławski"
+  },
+  {
+    "id": "1530",
+    "name": "Janowiec Kościelny, pow. nidzicki"
+  },
+  {
+    "id": "2193",
+    "name": "Janowiec Wielkopolski, pow. żniński"
+  },
+  {
+    "id": "1271",
+    "name": "Janów Lubelski, pow. janowski"
+  },
+  {
+    "id": "1531",
+    "name": "Janowo, pow. nidzicki"
+  },
+  {
+    "id": "1216",
+    "name": "Janów Podlaski, pow. bialski"
+  },
+  {
+    "id": "2461",
+    "name": "Jaraczewo, pow. jarociński"
+  },
+  {
+    "id": "1407",
+    "name": "Jarczów, pow. tomaszowski"
+  },
+  {
+    "id": "2459",
+    "name": "Jarocin, pow. jarociński"
+  },
+  {
+    "id": "111",
+    "name": "Jarocin, pow. niżański"
+  },
+  {
+    "id": "24",
+    "name": "Jarosław, pow. jarosławski"
+  },
+  {
+    "id": "1866",
+    "name": "Jasień, pow. żarski"
+  },
+  {
+    "id": "721",
+    "name": "Jasienica, pow. bielski"
+  },
+  {
+    "id": "14",
+    "name": "Jasienica Rosielna, pow. brzozowski"
+  },
+  {
+    "id": "2783",
+    "name": "Jasieniec, pow. grójecki"
+  },
+  {
+    "id": "274",
+    "name": "Jasionówka, pow. moniecki"
+  },
+  {
+    "id": "35",
+    "name": "Jasło, pow. jasielski"
+  },
+  {
+    "id": "1323",
+    "name": "Jastków, pow. lubelski"
+  },
+  {
+    "id": "2713",
+    "name": "Jastrowie, pow. złotowski"
+  },
+  {
+    "id": "3024",
+    "name": "Jastrząb, pow. szydłowiecki"
+  },
+  {
+    "id": "2972",
+    "name": "Jastrzębia, pow. radomski"
+  },
+  {
+    "id": "692",
+    "name": "Jastrzębie-Zdrój"
+  },
+  {
+    "id": "275",
+    "name": "Jaświły, pow. moniecki"
+  },
+  {
+    "id": "1011",
+    "name": "Jawor, pow. jaworski"
+  },
+  {
+    "id": "133",
+    "name": "Jawornik Polski, pow. przeworski"
+  },
+  {
+    "id": "722",
+    "name": "Jaworze, pow. bielski"
+  },
+  {
+    "id": "693",
+    "name": "Jaworzno"
+  },
+  {
+    "id": "1130",
+    "name": "Jaworzyna Śląska, pow. świdnicki"
+  },
+  {
+    "id": "55",
+    "name": "Jedlicze, pow. krośnieński"
+  },
+  {
+    "id": "1153",
+    "name": "Jedlina-Zdrój, pow. wałbrzyski"
+  },
+  {
+    "id": "2973",
+    "name": "Jedlińsk, pow. radomski"
+  },
+  {
+    "id": "2974",
+    "name": "Jedlnia-Letnisko, pow. radomski"
+  },
+  {
+    "id": "2945",
+    "name": "Jednorożec, pow. przasnyski"
+  },
+  {
+    "id": "344",
+    "name": "Jędrzejów, pow. jędrzejowski"
+  },
+  {
+    "id": "259",
+    "name": "Jedwabne, pow. łomżyński"
+  },
+  {
+    "id": "1585",
+    "name": "Jedwabno, pow. szczycieński"
+  },
+  {
+    "id": "827",
+    "name": "Jejkowice, pow. rybnicki"
+  },
+  {
+    "id": "1103",
+    "name": "Jelcz-Laskowice, pow. oławski"
+  },
+  {
+    "id": "981",
+    "name": "Jelenia Góra"
+  },
+  {
+    "id": "1018",
+    "name": "Jelenia Góra, pow. jeleniogórski"
+  },
+  {
+    "id": "311",
+    "name": "Jeleniewo, pow. suwalski"
+  },
+  {
+    "id": "865",
+    "name": "Jeleśnia, pow. żywiecki"
+  },
+  {
+    "id": "975",
+    "name": "Jemielnica, pow. strzelecki"
+  },
+  {
+    "id": "1008",
+    "name": "Jemielno, pow. górowski"
+  },
+  {
+    "id": "1001",
+    "name": "Jerzmanowa, pow. głogowski"
+  },
+  {
+    "id": "520",
+    "name": "Jerzmanowice-Przeginia, pow. krakowski"
+  },
+  {
+    "id": "2142",
+    "name": "Jeżewo, pow. świecki"
+  },
+  {
+    "id": "1548",
+    "name": "Jeziorany, pow. olsztyński"
+  },
+  {
+    "id": "2104",
+    "name": "Jeziora Wielkie, pow. mogileński"
+  },
+  {
+    "id": "1305",
+    "name": "Jeziorzany, pow. lubartowski"
+  },
+  {
+    "id": "2216",
+    "name": "Jeżów, pow. brzeziński"
+  },
+  {
+    "id": "112",
+    "name": "Jeżowe, pow. niżański"
+  },
+  {
+    "id": "1024",
+    "name": "Jeżów Sudecki, pow. jeleniogórski"
+  },
+  {
+    "id": "21",
+    "name": "Jodłowa, pow. dębicki"
+  },
+  {
+    "id": "537",
+    "name": "Jodłownik, pow. limanowski"
+  },
+  {
+    "id": "2927",
+    "name": "Joniec, pow. płoński"
+  },
+  {
+    "id": "1556",
+    "name": "Jonkowo, pow. olsztyński"
+  },
+  {
+    "id": "631",
+    "name": "Jordanów, pow. suski"
+  },
+  {
+    "id": "1172",
+    "name": "Jordanów Śląski, pow. wrocławski"
+  },
+  {
+    "id": "2886",
+    "name": "Józefów, pow. otwocki"
+  },
+  {
+    "id": "1233",
+    "name": "Józefów, pow. biłgorajski"
+  },
+  {
+    "id": "1355",
+    "name": "Józefów nad Wisłą, pow. opolski"
+  },
+  {
+    "id": "214",
+    "name": "Juchnowiec Kościelny, pow. białostocki"
+  },
+  {
+    "id": "2638",
+    "name": "Jutrosin, pow. rawicki"
+  },
+  {
+    "id": "2596",
+    "name": "Kaczory, pow. pilski"
+  },
+  {
+    "id": "2866",
+    "name": "Kadzidło, pow. ostrołęcki"
+  },
+  {
+    "id": "831",
+    "name": "Kalety, pow. tarnogórski"
+  },
+  {
+    "id": "1486",
+    "name": "Kalinowo, pow. ełcki"
+  },
+  {
+    "id": "1984",
+    "name": "Kaliska, pow. starogardzki"
+  },
+  {
+    "id": "2403",
+    "name": "Kalisz"
+  },
+  {
+    "id": "2465",
+    "name": "Kalisz, pow. kaliski"
+  },
+  {
+    "id": "1615",
+    "name": "Kalisz Pomorski, pow. drawski"
+  },
+  {
+    "id": "2829",
+    "name": "Kałuszyn, pow. miński"
+  },
+  {
+    "id": "668",
+    "name": "Kalwaria Zebrzydowska, pow. wadowicki"
+  },
+  {
+    "id": "1254",
+    "name": "Kamień, pow. chełmski"
+  },
+  {
+    "id": "158",
+    "name": "Kamień, pow. rzeszowski"
+  },
+  {
+    "id": "538",
+    "name": "Kamienica, pow. limanowski"
+  },
+  {
+    "id": "752",
+    "name": "Kamienica Polska, pow. częstochowski"
+  },
+  {
+    "id": "2456",
+    "name": "Kamieniec, pow. grodziski"
+  },
+  {
+    "id": "1185",
+    "name": "Kamieniec Ząbkowicki, pow. ząbkowicki"
+  },
+  {
+    "id": "2131",
+    "name": "Kamień Krajeński, pow. sępoleński"
+  },
+  {
+    "id": "1028",
+    "name": "Kamienna Góra, pow. kamiennogórski"
+  },
+  {
+    "id": "926",
+    "name": "Kamiennik, pow. nyski"
+  },
+  {
+    "id": "1656",
+    "name": "Kamień Pomorski, pow. kamieński"
+  },
+  {
+    "id": "2311",
+    "name": "Kamieńsk, pow. radomszczański"
+  },
+  {
+    "id": "1306",
+    "name": "Kamionka, pow. lubartowski"
+  },
+  {
+    "id": "575",
+    "name": "Kamionka Wielka, pow. nowosądecki"
+  },
+  {
+    "id": "3034",
+    "name": "Kampinos, pow. warszawski zachodni"
+  },
+  {
+    "id": "134",
+    "name": "Kańczuga, pow. przeworski"
+  },
+  {
+    "id": "2887",
+    "name": "Karczew, pow. otwocki"
+  },
+  {
+    "id": "1356",
+    "name": "Karczmiska, pow. opolski"
+  },
+  {
+    "id": "1842",
+    "name": "Kargowa, pow. zielonogórski"
+  },
+  {
+    "id": "1599",
+    "name": "Karlino, pow. białogardzki"
+  },
+  {
+    "id": "1637",
+    "name": "Karnice, pow. gryficki"
+  },
+  {
+    "id": "2819",
+    "name": "Karniewo, pow. makowski"
+  },
+  {
+    "id": "1019",
+    "name": "Karpacz, pow. jeleniogórski"
+  },
+  {
+    "id": "1929",
+    "name": "Karsin, pow. kościerski"
+  },
+  {
+    "id": "1917",
+    "name": "Kartuzy, pow. kartuski"
+  },
+  {
+    "id": "694",
+    "name": "Katowice"
+  },
+  {
+    "id": "1167",
+    "name": "Kąty Wrocławskie, pow. wrocławski"
+  },
+  {
+    "id": "2684",
+    "name": "Kawęczyn, pow. turecki"
+  },
+  {
+    "id": "3072",
+    "name": "Kazanów, pow. zwoleński"
+  },
+  {
+    "id": "356",
+    "name": "Kazimierza Wielka, pow. kazimierski"
+  },
+  {
+    "id": "2508",
+    "name": "Kazimierz Biskupi, pow. koniński"
+  },
+  {
+    "id": "1370",
+    "name": "Kazimierz Dolny, pow. puławski"
+  },
+  {
+    "id": "2660",
+    "name": "Kaźmierz, pow. szamotulski"
+  },
+  {
+    "id": "2108",
+    "name": "Kcynia, pow. nakielski"
+  },
+  {
+    "id": "893",
+    "name": "Kędzierzyn-Koźle, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "1968",
+    "name": "Kępice, pow. słupski"
+  },
+  {
+    "id": "2478",
+    "name": "Kępno, pow. kępiński"
+  },
+  {
+    "id": "2163",
+    "name": "Kęsowo, pow. tucholski"
+  },
+  {
+    "id": "1509",
+    "name": "Kętrzyn, pow. kętrzyński"
+  },
+  {
+    "id": "613",
+    "name": "Kęty, pow. oświęcimski"
+  },
+  {
+    "id": "334",
+    "name": "Kielce"
+  },
+  {
+    "id": "363",
+    "name": "Kielce, pow. kielecki"
+  },
+  {
+    "id": "2282",
+    "name": "Kiełczygłów, pow. pajęczański"
+  },
+  {
+    "id": "2249",
+    "name": "Kiernozia, pow. łowicki"
+  },
+  {
+    "id": "888",
+    "name": "Kietrz, pow. głubczycki"
+  },
+  {
+    "id": "417",
+    "name": "Kije, pow. pińczowski"
+  },
+  {
+    "id": "2056",
+    "name": "Kijewo Królewskie, pow. chełmiński"
+  },
+  {
+    "id": "2096",
+    "name": "Kikół, pow. lipnowski"
+  },
+  {
+    "id": "1500",
+    "name": "Kisielice, pow. iławski"
+  },
+  {
+    "id": "2432",
+    "name": "Kiszkowo, pow. gnieźnieński"
+  },
+  {
+    "id": "1519",
+    "name": "Kiwity, pow. lidzbarski"
+  },
+  {
+    "id": "1385",
+    "name": "Kąkolewnica, pow. radzyński"
+  },
+  {
+    "id": "683",
+    "name": "Kłaj, pow. wielicki"
+  },
+  {
+    "id": "2427",
+    "name": "Kłecko, pow. gnieźnieński"
+  },
+  {
+    "id": "2502",
+    "name": "Kleczew, pow. koniński"
+  },
+  {
+    "id": "3058",
+    "name": "Klembów, pow. wołomiński"
+  },
+  {
+    "id": "242",
+    "name": "Kleszczele, pow. hajnowski"
+  },
+  {
+    "id": "2624",
+    "name": "Kleszczewo, pow. poznański"
+  },
+  {
+    "id": "2208",
+    "name": "Kleszczów, pow. bełchatowski"
+  },
+  {
+    "id": "425",
+    "name": "Klimontów, pow. sandomierski"
+  },
+  {
+    "id": "775",
+    "name": "Kłobuck, pow. kłobucki"
+  },
+  {
+    "id": "1392",
+    "name": "Kłoczew, pow. rycki"
+  },
+  {
+    "id": "2488",
+    "name": "Kłodawa, pow. kolski"
+  },
+  {
+    "id": "1768",
+    "name": "Kłodawa, pow. gorzowski"
+  },
+  {
+    "id": "1033",
+    "name": "Kłodzko, pow. kłodzki"
+  },
+  {
+    "id": "753",
+    "name": "Kłomnice, pow. częstochowski"
+  },
+  {
+    "id": "2342",
+    "name": "Klonowa, pow. sieradzki"
+  },
+  {
+    "id": "899",
+    "name": "Kluczbork, pow. kluczborski"
+  },
+  {
+    "id": "606",
+    "name": "Klucze, pow. olkuski"
+  },
+  {
+    "id": "456",
+    "name": "Kluczewsko, pow. włoszczowski"
+  },
+  {
+    "id": "2209",
+    "name": "Kluki, pow. bełchatowski"
+  },
+  {
+    "id": "322",
+    "name": "Klukowo, pow. wysokomazowiecki"
+  },
+  {
+    "id": "2952",
+    "name": "Klwów, pow. przysuski"
+  },
+  {
+    "id": "766",
+    "name": "Knurów, pow. gliwicki"
+  },
+  {
+    "id": "272",
+    "name": "Knyszyn, pow. moniecki"
+  },
+  {
+    "id": "2317",
+    "name": "Kobiele Wielkie, pow. radomszczański"
+  },
+  {
+    "id": "1174",
+    "name": "Kobierzyce, pow. wrocławski"
+  },
+  {
+    "id": "808",
+    "name": "Kobiór, pow. pszczyński"
+  },
+  {
+    "id": "2586",
+    "name": "Kobyla Góra, pow. ostrzeszowski"
+  },
+  {
+    "id": "1732",
+    "name": "Kobylanka, pow. stargardzki"
+  },
+  {
+    "id": "2529",
+    "name": "Kobylin, pow. krotoszyński"
+  },
+  {
+    "id": "323",
+    "name": "Kobylin-Borzymy, pow. wysokomazowiecki"
+  },
+  {
+    "id": "3050",
+    "name": "Kobyłka, pow. wołomiński"
+  },
+  {
+    "id": "1974",
+    "name": "Kobylnica, pow. słupski"
+  },
+  {
+    "id": "791",
+    "name": "Kochanowice, pow. lubliniecki"
+  },
+  {
+    "id": "3092",
+    "name": "Kocierzew Południowy, pow. łowicki"
+  },
+  {
+    "id": "1301",
+    "name": "Kock, pow. lubartowski"
+  },
+  {
+    "id": "521",
+    "name": "Kocmyrzów-Luborzyca, pow. krakowski"
+  },
+  {
+    "id": "1906",
+    "name": "Koczała, pow. człuchowski"
+  },
+  {
+    "id": "1217",
+    "name": "Kodeń, pow. bialski"
+  },
+  {
+    "id": "2318",
+    "name": "Kodrąb, pow. radomszczański"
+  },
+  {
+    "id": "2707",
+    "name": "Kołaczkowo, pow. wrzesiński"
+  },
+  {
+    "id": "39",
+    "name": "Kołaczyce, pow. jasielski"
+  },
+  {
+    "id": "330",
+    "name": "Kołaki Kościelne, pow. zambrowski"
+  },
+  {
+    "id": "1706",
+    "name": "Kołbaskowo, pow. policki"
+  },
+  {
+    "id": "2890",
+    "name": "Kołbiel, pow. otwocki"
+  },
+  {
+    "id": "1911",
+    "name": "Kolbudy, pow. gdański"
+  },
+  {
+    "id": "45",
+    "name": "Kolbuszowa, pow. kolbuszowski"
+  },
+  {
+    "id": "1886",
+    "name": "Kołczygłowy, pow. bytowski"
+  },
+  {
+    "id": "1557",
+    "name": "Kolno, pow. olsztyński"
+  },
+  {
+    "id": "251",
+    "name": "Kolno, pow. kolneński"
+  },
+  {
+    "id": "2486",
+    "name": "Koło, pow. kolski"
+  },
+  {
+    "id": "1667",
+    "name": "Kołobrzeg, pow. kołobrzeski"
+  },
+  {
+    "id": "970",
+    "name": "Kolonowskie, pow. strzelecki"
+  },
+  {
+    "id": "1794",
+    "name": "Kolsko, pow. nowosolski"
+  },
+  {
+    "id": "2255",
+    "name": "Koluszki, pow. łódzki wschodni"
+  },
+  {
+    "id": "169",
+    "name": "Komańcza, pow. sanocki"
+  },
+  {
+    "id": "1386",
+    "name": "Komarówka Podlaska, pow. radzyński"
+  },
+  {
+    "id": "1432",
+    "name": "Komarów-Osada, pow. zamojski"
+  },
+  {
+    "id": "2625",
+    "name": "Komorniki, pow. poznański"
+  },
+  {
+    "id": "952",
+    "name": "Komprachcice, pow. opolski"
+  },
+  {
+    "id": "1899",
+    "name": "Konarzyny, pow. chojnicki"
+  },
+  {
+    "id": "1119",
+    "name": "Kondratowice, pow. strzeliński"
+  },
+  {
+    "id": "2027",
+    "name": "Koneck, pow. aleksandrowski"
+  },
+  {
+    "id": "748",
+    "name": "Koniecpol, pow. częstochowski"
+  },
+  {
+    "id": "2404",
+    "name": "Konin"
+  },
+  {
+    "id": "2500",
+    "name": "Konin, pow. koniński"
+  },
+  {
+    "id": "624",
+    "name": "Koniusza, pow. proszowicki"
+  },
+  {
+    "id": "755",
+    "name": "Konopiska, pow. częstochowski"
+  },
+  {
+    "id": "2371",
+    "name": "Konopnica, pow. wieluński"
+  },
+  {
+    "id": "1324",
+    "name": "Konopnica, pow. lubelski"
+  },
+  {
+    "id": "386",
+    "name": "Końskie, pow. konecki"
+  },
+  {
+    "id": "1375",
+    "name": "Końskowola, pow. puławski"
+  },
+  {
+    "id": "2896",
+    "name": "Konstancin-Jeziorna, pow. piaseczyński"
+  },
+  {
+    "id": "1218",
+    "name": "Konstantynów, pow. bialski"
+  },
+  {
+    "id": "2273",
+    "name": "Konstantynów Łódzki, pow. pabianicki"
+  },
+  {
+    "id": "422",
+    "name": "Koprzywnica, pow. sandomierski"
+  },
+  {
+    "id": "2985",
+    "name": "Korczew, pow. siedlecki"
+  },
+  {
+    "id": "61",
+    "name": "Korczyna, pow. krośnieński"
+  },
+  {
+    "id": "922",
+    "name": "Korfantów, pow. nyski"
+  },
+  {
+    "id": "2613",
+    "name": "Kórnik, pow. poznański"
+  },
+  {
+    "id": "816",
+    "name": "Kornowac, pow. raciborski"
+  },
+  {
+    "id": "2044",
+    "name": "Koronowo, pow. bydgoski"
+  },
+  {
+    "id": "1510",
+    "name": "Korsze, pow. kętrzyński"
+  },
+  {
+    "id": "300",
+    "name": "Korycin, pow. sokólski"
+  },
+  {
+    "id": "3042",
+    "name": "Korytnica, pow. węgrowski"
+  },
+  {
+    "id": "576",
+    "name": "Korzenna, pow. nowosądecki"
+  },
+  {
+    "id": "1964",
+    "name": "Kosakowo, pow. pucki"
+  },
+  {
+    "id": "2520",
+    "name": "Kościan, pow. kościański"
+  },
+  {
+    "id": "2496",
+    "name": "Kościelec, pow. kolski"
+  },
+  {
+    "id": "664",
+    "name": "Kościelisko, pow. tatrzański"
+  },
+  {
+    "id": "1927",
+    "name": "Kościerzyna, pow. kościerski"
+  },
+  {
+    "id": "3013",
+    "name": "Kosów Lacki, pow. sokołowski"
+  },
+  {
+    "id": "1124",
+    "name": "Kostomłoty, pow. średzki"
+  },
+  {
+    "id": "2612",
+    "name": "Kostrzyn, pow. poznański"
+  },
+  {
+    "id": "1764",
+    "name": "Kostrzyn nad Odrą, pow. gorzowski"
+  },
+  {
+    "id": "1595",
+    "name": "Koszalin"
+  },
+  {
+    "id": "1674",
+    "name": "Koszalin, pow. koszaliński"
+  },
+  {
+    "id": "866",
+    "name": "Koszarawa, pow. żywiecki"
+  },
+  {
+    "id": "792",
+    "name": "Koszęcin, pow. lubliniecki"
+  },
+  {
+    "id": "625",
+    "name": "Koszyce, pow. proszowicki"
+  },
+  {
+    "id": "1002",
+    "name": "Kotla, pow. głogowski"
+  },
+  {
+    "id": "2463",
+    "name": "Kotlin, pow. jarociński"
+  },
+  {
+    "id": "2986",
+    "name": "Kotuń, pow. siedlecki"
+  },
+  {
+    "id": "2176",
+    "name": "Kowal, pow. włocławski"
+  },
+  {
+    "id": "2975",
+    "name": "Kowala, pow. radomski"
+  },
+  {
+    "id": "1540",
+    "name": "Kowale Oleckie, pow. olecki"
+  },
+  {
+    "id": "2062",
+    "name": "Kowalewo Pomorskie, pow. golubsko-dobrzyński"
+  },
+  {
+    "id": "1020",
+    "name": "Kowary, pow. jeleniogórski"
+  },
+  {
+    "id": "2351",
+    "name": "Kowiesy, pow. skierniewicki"
+  },
+  {
+    "id": "801",
+    "name": "Koziegłowy, pow. myszkowski"
+  },
+  {
+    "id": "1712",
+    "name": "Kozielice, pow. pyrzycki"
+  },
+  {
+    "id": "2788",
+    "name": "Kozienice, pow. kozienicki"
+  },
+  {
+    "id": "549",
+    "name": "Kozłow, pow. miechowski"
+  },
+  {
+    "id": "1532",
+    "name": "Kozłowo, pow. nidzicki"
+  },
+  {
+    "id": "2471",
+    "name": "Koźminek, pow. kaliski"
+  },
+  {
+    "id": "2530",
+    "name": "Koźmin Wielkopolski, pow. krotoszyński"
+  },
+  {
+    "id": "1791",
+    "name": "Kożuchów, pow. nowosolski"
+  },
+  {
+    "id": "723",
+    "name": "Kozy, pow. bielski"
+  },
+  {
+    "id": "2714",
+    "name": "Krajenka, pow. złotowski"
+  },
+  {
+    "id": "462",
+    "name": "Kraków"
+  },
+  {
+    "id": "511",
+    "name": "Kraków, pow. krakowski"
+  },
+  {
+    "id": "2510",
+    "name": "Kramsk, pow. koniński"
+  },
+  {
+    "id": "906",
+    "name": "Krapkowice, pow. krapkowicki"
+  },
+  {
+    "id": "121",
+    "name": "Krasiczyn, pow. przemyski"
+  },
+  {
+    "id": "2946",
+    "name": "Krasne, pow. przasnyski"
+  },
+  {
+    "id": "159",
+    "name": "Krasne, pow. rzeszowski"
+  },
+  {
+    "id": "1283",
+    "name": "Kraśniczyn, pow. krasnostawski"
+  },
+  {
+    "id": "1289",
+    "name": "Kraśnik, pow. kraśnicki"
+  },
+  {
+    "id": "1427",
+    "name": "Krasnobród, pow. zamojski"
+  },
+  {
+    "id": "282",
+    "name": "Krasnopol, pow. sejneński"
+  },
+  {
+    "id": "2820",
+    "name": "Krasnosielc, pow. makowski"
+  },
+  {
+    "id": "1279",
+    "name": "Krasnystaw, pow. krasnostawski"
+  },
+  {
+    "id": "457",
+    "name": "Krasocin, pow. włoszczowski"
+  },
+  {
+    "id": "2587",
+    "name": "Kraszewice, pow. ostrzeszowski"
+  },
+  {
+    "id": "40",
+    "name": "Krempna, pow. jasielski"
+  },
+  {
+    "id": "2441",
+    "name": "Krobia, pow. gostyński"
+  },
+  {
+    "id": "855",
+    "name": "Kroczyce, pow. zawierciański"
+  },
+  {
+    "id": "1965",
+    "name": "Krokowa, pow. pucki"
+  },
+  {
+    "id": "593",
+    "name": "Krościenko nad Dunajcem, pow. nowotarski"
+  },
+  {
+    "id": "62",
+    "name": "Krościenko Wyżne, pow. krośnieński"
+  },
+  {
+    "id": "1088",
+    "name": "Krośnice, pow. milicki"
+  },
+  {
+    "id": "2219",
+    "name": "Krośniewice, pow. kutnowski"
+  },
+  {
+    "id": "1",
+    "name": "Krosno"
+  },
+  {
+    "id": "52",
+    "name": "Krosno, pow. krośnieński"
+  },
+  {
+    "id": "1772",
+    "name": "Krosno Odrzańskie, pow. krośnieński"
+  },
+  {
+    "id": "1057",
+    "name": "Krotoszyce, pow. legnicki"
+  },
+  {
+    "id": "2528",
+    "name": "Krotoszyn, pow. krotoszyński"
+  },
+  {
+    "id": "1491",
+    "name": "Kruklanki, pow. giżycki"
+  },
+  {
+    "id": "834",
+    "name": "Krupski Młyn, pow. tarnogórski"
+  },
+  {
+    "id": "2080",
+    "name": "Kruszwica, pow. inowrocławski"
+  },
+  {
+    "id": "756",
+    "name": "Kruszyna, pow. częstochowski"
+  },
+  {
+    "id": "1955",
+    "name": "Krynica Morska, pow. nowodworski"
+  },
+  {
+    "id": "568",
+    "name": "Krynica-Zdrój, pow. nowosądecki"
+  },
+  {
+    "id": "1408",
+    "name": "Krynice, pow. tomaszowski"
+  },
+  {
+    "id": "301",
+    "name": "Krynki, pow. sokólski"
+  },
+  {
+    "id": "277",
+    "name": "Krypno, pow. moniecki"
+  },
+  {
+    "id": "814",
+    "name": "Krzanowice, pow. raciborski"
+  },
+  {
+    "id": "1325",
+    "name": "Krzczonów, pow. lubelski"
+  },
+  {
+    "id": "1610",
+    "name": "Krzęcin, pow. choszczeński"
+  },
+  {
+    "id": "2541",
+    "name": "Krzemieniewo, pow. leszczyński"
+  },
+  {
+    "id": "776",
+    "name": "Krzepice, pow. kłobucki"
+  },
+  {
+    "id": "113",
+    "name": "Krzeszów, pow. niżański"
+  },
+  {
+    "id": "512",
+    "name": "Krzeszowice, pow. krakowski"
+  },
+  {
+    "id": "1820",
+    "name": "Krzeszyce, pow. sulęciński"
+  },
+  {
+    "id": "2668",
+    "name": "Krzykosy, pow. średzki"
+  },
+  {
+    "id": "2511",
+    "name": "Krzymów, pow. koniński"
+  },
+  {
+    "id": "2947",
+    "name": "Krzynowłoga Mała, pow. przasnyski"
+  },
+  {
+    "id": "122",
+    "name": "Krzywcza, pow. przemyski"
+  },
+  {
+    "id": "1344",
+    "name": "Krzywda, pow. łukowski"
+  },
+  {
+    "id": "2522",
+    "name": "Krzywiń, pow. kościański"
+  },
+  {
+    "id": "2224",
+    "name": "Krzyżanów, pow. kutnowski"
+  },
+  {
+    "id": "818",
+    "name": "Krzyżanowice, pow. raciborski"
+  },
+  {
+    "id": "2415",
+    "name": "Krzyż Wielkopolski, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "2276",
+    "name": "Ksawerów, pow. pabianicki"
+  },
+  {
+    "id": "2169",
+    "name": "Książki, pow. wąbrzeski"
+  },
+  {
+    "id": "550",
+    "name": "Książ Wielki, pow. miechowski"
+  },
+  {
+    "id": "2674",
+    "name": "Książ Wielkopolski, pow. śremski"
+  },
+  {
+    "id": "1241",
+    "name": "Księżpol, pow. biłgorajski"
+  },
+  {
+    "id": "3080",
+    "name": "Kuczbork-Osada, pow. żuromiński"
+  },
+  {
+    "id": "1036",
+    "name": "Kudowa-Zdrój, pow. kłodzki"
+  },
+  {
+    "id": "324",
+    "name": "Kulesze Kościelne, pow. wysokomazowiecki"
+  },
+  {
+    "id": "1058",
+    "name": "Kunice, pow. legnicki"
+  },
+  {
+    "id": "408",
+    "name": "Kunów, pow. ostrowiecki"
+  },
+  {
+    "id": "1376",
+    "name": "Kurów, pow. puławski"
+  },
+  {
+    "id": "75",
+    "name": "Kuryłówka, pow. leżajski"
+  },
+  {
+    "id": "1537",
+    "name": "Kurzętnik, pow. nowomiejski"
+  },
+  {
+    "id": "2558",
+    "name": "Kuślin, pow. nowotomyski"
+  },
+  {
+    "id": "2218",
+    "name": "Kutno, pow. kutnowski"
+  },
+  {
+    "id": "815",
+    "name": "Kuźnia Raciborska, pow. raciborski"
+  },
+  {
+    "id": "302",
+    "name": "Kuźnica, pow. sokólski"
+  },
+  {
+    "id": "1935",
+    "name": "Kwidzyn, pow. kwidzyński"
+  },
+  {
+    "id": "2551",
+    "name": "Kwilcz, pow. międzychodzki"
+  },
+  {
+    "id": "2194",
+    "name": "Łabiszyn, pow. żniński"
+  },
+  {
+    "id": "578",
+    "name": "Łabowa, pow. nowosądecki"
+  },
+  {
+    "id": "1434",
+    "name": "Łabunie, pow. zamojski"
+  },
+  {
+    "id": "2913",
+    "name": "Łąck, pow. płocki"
+  },
+  {
+    "id": "579",
+    "name": "Łącko, pow. nowosądecki"
+  },
+  {
+    "id": "435",
+    "name": "Łączna, pow. skarżyski"
+  },
+  {
+    "id": "2647",
+    "name": "Lądek, pow. słupecki"
+  },
+  {
+    "id": "1037",
+    "name": "Lądek-Zdrój, pow. kłodzki"
+  },
+  {
+    "id": "2320",
+    "name": "Ładzice, pow. radomszczański"
+  },
+  {
+    "id": "997",
+    "name": "Łagiewniki, pow. dzierżoniowski"
+  },
+  {
+    "id": "1828",
+    "name": "Łagów, pow. świebodziński"
+  },
+  {
+    "id": "373",
+    "name": "Łagów, pow. kielecki"
+  },
+  {
+    "id": "928",
+    "name": "Łambinowice, pow. nyski"
+  },
+  {
+    "id": "672",
+    "name": "Lanckorona, pow. wadowicki"
+  },
+  {
+    "id": "89",
+    "name": "Łańcut, pow. łańcucki"
+  },
+  {
+    "id": "2226",
+    "name": "Łanięta, pow. kutnowski"
+  },
+  {
+    "id": "470",
+    "name": "Łapanów, pow. bocheński"
+  },
+  {
+    "id": "595",
+    "name": "Łapsze Niżne, pow. nowotarski"
+  },
+  {
+    "id": "204",
+    "name": "Łapy, pow. białostocki"
+  },
+  {
+    "id": "2069",
+    "name": "Łasin, pow. grudziądzki"
+  },
+  {
+    "id": "2231",
+    "name": "Łask, pow. łaski"
+  },
+  {
+    "id": "2747",
+    "name": "Łaskarzew, pow. garwoliński"
+  },
+  {
+    "id": "539",
+    "name": "Laskowa, pow. limanowski"
+  },
+  {
+    "id": "904",
+    "name": "Lasowice Wielkie, pow. kluczborski"
+  },
+  {
+    "id": "1410",
+    "name": "Łaszczów, pow. tomaszowski"
+  },
+  {
+    "id": "28",
+    "name": "Laszki, pow. jarosławski"
+  },
+  {
+    "id": "2837",
+    "name": "Latowicz, pow. miński"
+  },
+  {
+    "id": "1357",
+    "name": "Łaziska, pow. opolski"
+  },
+  {
+    "id": "796",
+    "name": "Łaziska Górne, pow. mikołowski"
+  },
+  {
+    "id": "849",
+    "name": "Łazy, pow. zawierciański"
+  },
+  {
+    "id": "1943",
+    "name": "Łeba, pow. lęborski"
+  },
+  {
+    "id": "1942",
+    "name": "Lębork, pow. lęborski"
+  },
+  {
+    "id": "1334",
+    "name": "Łęczna, pow. łęczyński"
+  },
+  {
+    "id": "2237",
+    "name": "Łęczyca, pow. łęczycki"
+  },
+  {
+    "id": "2015",
+    "name": "Łęczyce, pow. wejherowski"
+  },
+  {
+    "id": "729",
+    "name": "Lędziny, pow. bieruńsko-lędziński"
+  },
+  {
+    "id": "2796",
+    "name": "Legionowo, pow. legionowski"
+  },
+  {
+    "id": "982",
+    "name": "Legnica"
+  },
+  {
+    "id": "1053",
+    "name": "Legnica, pow. legnicki"
+  },
+  {
+    "id": "1059",
+    "name": "Legnickie Pole, pow. legnicki"
+  },
+  {
+    "id": "2482",
+    "name": "Łęka Opatowska, pow. kępiński"
+  },
+  {
+    "id": "868",
+    "name": "Łękawica, pow. żywiecki"
+  },
+  {
+    "id": "2295",
+    "name": "Łęki Szlacheckie, pow. piotrkowski"
+  },
+  {
+    "id": "1868",
+    "name": "Łęknica, pow. żarski"
+  },
+  {
+    "id": "2867",
+    "name": "Lelis, pow. ostrołęcki"
+  },
+  {
+    "id": "1460",
+    "name": "Lelkowo, pow. braniewski"
+  },
+  {
+    "id": "757",
+    "name": "Lelów, pow. częstochowski"
+  },
+  {
+    "id": "2856",
+    "name": "Leoncin, pow. nowodworski"
+  },
+  {
+    "id": "66",
+    "name": "Lesko, pow. leski"
+  },
+  {
+    "id": "1064",
+    "name": "Leśna, pow. lubański"
+  },
+  {
+    "id": "1219",
+    "name": "Leśna Podlaska, pow. bialski"
+  },
+  {
+    "id": "971",
+    "name": "Leśnica, pow. strzelecki"
+  },
+  {
+    "id": "1255",
+    "name": "Leśniowice, pow. chełmski"
+  },
+  {
+    "id": "2405",
+    "name": "Leszno"
+  },
+  {
+    "id": "3035",
+    "name": "Leszno, pow. warszawski zachodni"
+  },
+  {
+    "id": "2538",
+    "name": "Leszno, pow. leszczyński"
+  },
+  {
+    "id": "2899",
+    "name": "Lesznowola, pow. piaseczyński"
+  },
+  {
+    "id": "880",
+    "name": "Lewin Brzeski, pow. brzeski"
+  },
+  {
+    "id": "1047",
+    "name": "Lewin Kłodzki, pow. kłodzki"
+  },
+  {
+    "id": "72",
+    "name": "Leżajsk, pow. leżajski"
+  },
+  {
+    "id": "2319",
+    "name": "Lgota Wielka, pow. radomszczański"
+  },
+  {
+    "id": "486",
+    "name": "Libiąż, pow. chrzanowski"
+  },
+  {
+    "id": "1949",
+    "name": "Lichnowy, pow. malborski"
+  },
+  {
+    "id": "1465",
+    "name": "Lidzbark, pow. działdowski"
+  },
+  {
+    "id": "1517",
+    "name": "Lidzbark Warmiński, pow. lidzbarski"
+  },
+  {
+    "id": "534",
+    "name": "Limanowa, pow. limanowski"
+  },
+  {
+    "id": "2013",
+    "name": "Linia, pow. wejherowski"
+  },
+  {
+    "id": "1931",
+    "name": "Liniewo, pow. kościerski"
+  },
+  {
+    "id": "2352",
+    "name": "Lipce Reymontowskie, pow. skierniewicki"
+  },
+  {
+    "id": "1710",
+    "name": "Lipiany, pow. pyrzycki"
+  },
+  {
+    "id": "779",
+    "name": "Lipie, pow. kłobucki"
+  },
+  {
+    "id": "505",
+    "name": "Lipinki, pow. gorlicki"
+  },
+  {
+    "id": "1871",
+    "name": "Lipinki Łużyckie, pow. żarski"
+  },
+  {
+    "id": "2718",
+    "name": "Lipka, pow. złotowski"
+  },
+  {
+    "id": "1887",
+    "name": "Lipnica, pow. bytowski"
+  },
+  {
+    "id": "469",
+    "name": "Lipnica Murowana, pow. bocheński"
+  },
+  {
+    "id": "594",
+    "name": "Lipnica Wielka, pow. nowotarski"
+  },
+  {
+    "id": "400",
+    "name": "Lipnik, pow. opatowski"
+  },
+  {
+    "id": "2542",
+    "name": "Lipno, pow. leszczyński"
+  },
+  {
+    "id": "2090",
+    "name": "Lipno, pow. lipnowski"
+  },
+  {
+    "id": "867",
+    "name": "Lipowa, pow. żywiecki"
+  },
+  {
+    "id": "2844",
+    "name": "Lipowiec Kościelny, pow. mławski"
+  },
+  {
+    "id": "194",
+    "name": "Lipsk, pow. augustowski"
+  },
+  {
+    "id": "2802",
+    "name": "Lipsko, pow. lipski"
+  },
+  {
+    "id": "1932",
+    "name": "Lipusz, pow. kościerski"
+  },
+  {
+    "id": "2057",
+    "name": "Lisewo, pow. chełmiński"
+  },
+  {
+    "id": "647",
+    "name": "Lisia Góra, pow. tarnowski"
+  },
+  {
+    "id": "2472",
+    "name": "Lisków, pow. kaliski"
+  },
+  {
+    "id": "523",
+    "name": "Liszki, pow. krakowski"
+  },
+  {
+    "id": "3043",
+    "name": "Liw, pow. węgrowski"
+  },
+  {
+    "id": "2143",
+    "name": "Lniano, pow. świecki"
+  },
+  {
+    "id": "1686",
+    "name": "Łobez, pow. łobeski"
+  },
+  {
+    "id": "2591",
+    "name": "Łobżenica, pow. pilski"
+  },
+  {
+    "id": "3040",
+    "name": "Łochów, pow. węgrowski"
+  },
+  {
+    "id": "869",
+    "name": "Łodygowice, pow. żywiecki"
+  },
+  {
+    "id": "2201",
+    "name": "Łódź"
+  },
+  {
+    "id": "2254",
+    "name": "Łódź, pow. łódzki wschodni"
+  },
+  {
+    "id": "1220",
+    "name": "Łomazy, pow. bialski"
+  },
+  {
+    "id": "3030",
+    "name": "Łomianki, pow. warszawski zachodni"
+  },
+  {
+    "id": "258",
+    "name": "Łomża, pow. łomżyński"
+  },
+  {
+    "id": "427",
+    "name": "Łoniów, pow. sandomierski"
+  },
+  {
+    "id": "1284",
+    "name": "Łopiennik Górny, pow. krasnostawski"
+  },
+  {
+    "id": "374",
+    "name": "Łopuszno, pow. kielecki"
+  },
+  {
+    "id": "2809",
+    "name": "Łosice, pow. łosicki"
+  },
+  {
+    "id": "580",
+    "name": "Łososina Dolna, pow. nowosądecki"
+  },
+  {
+    "id": "2245",
+    "name": "Łowicz, pow. łowicki"
+  },
+  {
+    "id": "78",
+    "name": "Lubaczów, pow. lubaczowski"
+  },
+  {
+    "id": "1063",
+    "name": "Lubań, pow. lubański"
+  },
+  {
+    "id": "2187",
+    "name": "Lubanie, pow. włocławski"
+  },
+  {
+    "id": "1300",
+    "name": "Lubartów, pow. lubartowski"
+  },
+  {
+    "id": "2421",
+    "name": "Lubasz, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "1501",
+    "name": "Lubawa, pow. iławski"
+  },
+  {
+    "id": "1029",
+    "name": "Lubawka, pow. kamiennogórski"
+  },
+  {
+    "id": "160",
+    "name": "Lubenia, pow. rzeszowski"
+  },
+  {
+    "id": "2155",
+    "name": "Łubianka, pow. toruński"
+  },
+  {
+    "id": "1985",
+    "name": "Lubichowo, pow. starogardzki"
+  },
+  {
+    "id": "2154",
+    "name": "Lubicz, pow. toruński"
+  },
+  {
+    "id": "558",
+    "name": "Lubień, pow. myślenicki"
+  },
+  {
+    "id": "2177",
+    "name": "Lubień Kujawski, pow. włocławski"
+  },
+  {
+    "id": "2164",
+    "name": "Lubiewo, pow. tucholski"
+  },
+  {
+    "id": "1071",
+    "name": "Lubin, pow. lubiński"
+  },
+  {
+    "id": "1769",
+    "name": "Lubiszyn, pow. gorzowski"
+  },
+  {
+    "id": "1209",
+    "name": "Lublin"
+  },
+  {
+    "id": "1315",
+    "name": "Lublin, pow. lubelski"
+  },
+  {
+    "id": "786",
+    "name": "Lubliniec, pow. lubliniecki"
+  },
+  {
+    "id": "953",
+    "name": "Łubniany, pow. opolski"
+  },
+  {
+    "id": "2384",
+    "name": "Łubnice, pow. wieruszowski"
+  },
+  {
+    "id": "448",
+    "name": "Łubnice, pow. staszowski"
+  },
+  {
+    "id": "1818",
+    "name": "Lubniewice, pow. sulęciński"
+  },
+  {
+    "id": "2362",
+    "name": "Lubochnia, pow. tomaszowski"
+  },
+  {
+    "id": "845",
+    "name": "Lubomia, pow. wodzisławski"
+  },
+  {
+    "id": "1078",
+    "name": "Lubomierz, pow. lwówecki"
+  },
+  {
+    "id": "1521",
+    "name": "Lubomino, pow. lidzbarski"
+  },
+  {
+    "id": "2614",
+    "name": "Luboń, pow. poznański"
+  },
+  {
+    "id": "3081",
+    "name": "Lubowidz, pow. żuromiński"
+  },
+  {
+    "id": "2434",
+    "name": "Łubowo, pow. gnieźnieński"
+  },
+  {
+    "id": "2178",
+    "name": "Lubraniec, pow. włocławski"
+  },
+  {
+    "id": "1827",
+    "name": "Lubrza, pow. świebodziński"
+  },
+  {
+    "id": "967",
+    "name": "Lubrza, pow. prudnicki"
+  },
+  {
+    "id": "1867",
+    "name": "Lubsko, pow. żarski"
+  },
+  {
+    "id": "883",
+    "name": "Lubsza, pow. brzeski"
+  },
+  {
+    "id": "1409",
+    "name": "Lubycza Królewska, pow. tomaszowski"
+  },
+  {
+    "id": "1336",
+    "name": "Ludwin, pow. łęczyński"
+  },
+  {
+    "id": "1341",
+    "name": "Łuków, pow. łukowski"
+  },
+  {
+    "id": "1242",
+    "name": "Łukowa, pow. biłgorajski"
+  },
+  {
+    "id": "541",
+    "name": "Łukowica, pow. limanowski"
+  },
+  {
+    "id": "1568",
+    "name": "Łukta, pow. ostródzki"
+  },
+  {
+    "id": "3082",
+    "name": "Lutocin, pow. żuromiński"
+  },
+  {
+    "id": "2277",
+    "name": "Lutomiersk, pow. pabianicki"
+  },
+  {
+    "id": "7",
+    "name": "Lutowiska, pow. bieszczadzki"
+  },
+  {
+    "id": "2383",
+    "name": "Lututów, pow. wieruszowski"
+  },
+  {
+    "id": "2014",
+    "name": "Luzino, pow. wejherowski"
+  },
+  {
+    "id": "506",
+    "name": "Łużna, pow. gorlicki"
+  },
+  {
+    "id": "2555",
+    "name": "Lwówek, pow. nowotomyski"
+  },
+  {
+    "id": "1076",
+    "name": "Lwówek Śląski, pow. lwówecki"
+  },
+  {
+    "id": "2868",
+    "name": "Łyse, pow. ostrołęcki"
+  },
+  {
+    "id": "828",
+    "name": "Lyski, pow. rybnicki"
+  },
+  {
+    "id": "2156",
+    "name": "Łysomice, pow. toruński"
+  },
+  {
+    "id": "2251",
+    "name": "Łyszkowice, pow. łowicki"
+  },
+  {
+    "id": "2754",
+    "name": "Maciejowice, pow. garwoliński"
+  },
+  {
+    "id": "2794",
+    "name": "Magnuszew, pow. kozienicki"
+  },
+  {
+    "id": "48",
+    "name": "Majdan Królewski, pow. kolbuszowski"
+  },
+  {
+    "id": "2353",
+    "name": "Maków, pow. skierniewicki"
+  },
+  {
+    "id": "2816",
+    "name": "Maków Mazowiecki, pow. makowski"
+  },
+  {
+    "id": "632",
+    "name": "Maków Podhalański, pow. suski"
+  },
+  {
+    "id": "2685",
+    "name": "Malanów, pow. turecki"
+  },
+  {
+    "id": "2914",
+    "name": "Mała Wieś, pow. płocki"
+  },
+  {
+    "id": "1947",
+    "name": "Malbork, pow. malborski"
+  },
+  {
+    "id": "1125",
+    "name": "Malczyce, pow. średzki"
+  },
+  {
+    "id": "1569",
+    "name": "Małdyty, pow. ostródzki"
+  },
+  {
+    "id": "1720",
+    "name": "Malechowo, pow. sławieński"
+  },
+  {
+    "id": "2878",
+    "name": "Małkinia Górna, pow. ostrowski"
+  },
+  {
+    "id": "345",
+    "name": "Małogoszcz, pow. jędrzejowski"
+  },
+  {
+    "id": "1856",
+    "name": "Małomice, pow. żagański"
+  },
+  {
+    "id": "255",
+    "name": "Mały Płock, pow. kolneński"
+  },
+  {
+    "id": "1681",
+    "name": "Manowo, pow. koszaliński"
+  },
+  {
+    "id": "1136",
+    "name": "Marcinowice, pow. świdnicki"
+  },
+  {
+    "id": "1032",
+    "name": "Marciszów, pow. kamiennogórski"
+  },
+  {
+    "id": "2408",
+    "name": "Margonin, pow. chodzieski"
+  },
+  {
+    "id": "1733",
+    "name": "Marianowo, pow. stargardzki"
+  },
+  {
+    "id": "3051",
+    "name": "Marki, pow. wołomiński"
+  },
+  {
+    "id": "846",
+    "name": "Marklowice, pow. wodzisławski"
+  },
+  {
+    "id": "93",
+    "name": "Markowa, pow. łańcucki"
+  },
+  {
+    "id": "1478",
+    "name": "Markusy, pow. elbląski"
+  },
+  {
+    "id": "1377",
+    "name": "Markuszów, pow. puławski"
+  },
+  {
+    "id": "375",
+    "name": "Masłów, pow. kielecki"
+  },
+  {
+    "id": "2321",
+    "name": "Masłowice, pow. radomszczański"
+  },
+  {
+    "id": "1779",
+    "name": "Maszewo, pow. krośnieński"
+  },
+  {
+    "id": "1624",
+    "name": "Maszewo, pow. goleniowski"
+  },
+  {
+    "id": "1014",
+    "name": "Męcinka, pow. jaworski"
+  },
+  {
+    "id": "497",
+    "name": "Mędrzechów, pow. dąbrowski"
+  },
+  {
+    "id": "123",
+    "name": "Medyka, pow. przemyski"
+  },
+  {
+    "id": "1400",
+    "name": "Mełgiew, pow. świdnicki"
+  },
+  {
+    "id": "1435",
+    "name": "Miączyn, pow. zamojski"
+  },
+  {
+    "id": "2598",
+    "name": "Miasteczko Krajeńskie, pow. pilski"
+  },
+  {
+    "id": "832",
+    "name": "Miasteczko Śląskie, pow. tarnogórski"
+  },
+  {
+    "id": "1882",
+    "name": "Miastko, pow. bytowski"
+  },
+  {
+    "id": "2755",
+    "name": "Miastków Kościelny, pow. garwoliński"
+  },
+  {
+    "id": "263",
+    "name": "Miastkowo, pow. łomżyński"
+  },
+  {
+    "id": "418",
+    "name": "Michałów, pow. pińczowski"
+  },
+  {
+    "id": "2938",
+    "name": "Michałowice, pow. pruszkowski"
+  },
+  {
+    "id": "524",
+    "name": "Michałowice, pow. krakowski"
+  },
+  {
+    "id": "216",
+    "name": "Michałowo, pow. białostocki"
+  },
+  {
+    "id": "1309",
+    "name": "Michów, pow. lubartowski"
+  },
+  {
+    "id": "546",
+    "name": "Miechów, pow. miechowski"
+  },
+  {
+    "id": "376",
+    "name": "Miedziana Góra, pow. kielecki"
+  },
+  {
+    "id": "2560",
+    "name": "Miedzichowo, pow. nowotomyski"
+  },
+  {
+    "id": "3045",
+    "name": "Miedzna, pow. węgrowski"
+  },
+  {
+    "id": "809",
+    "name": "Miedźna, pow. pszczyński"
+  },
+  {
+    "id": "780",
+    "name": "Miedźno, pow. kłobucki"
+  },
+  {
+    "id": "1092",
+    "name": "Międzybórz, pow. oleśnicki"
+  },
+  {
+    "id": "2548",
+    "name": "Międzychód, pow. międzychodzki"
+  },
+  {
+    "id": "1038",
+    "name": "Międzylesie, pow. kłodzki"
+  },
+  {
+    "id": "1212",
+    "name": "Międzyrzec Podlaski, pow. bialski"
+  },
+  {
+    "id": "1780",
+    "name": "Międzyrzecz, pow. międzyrzecki"
+  },
+  {
+    "id": "1659",
+    "name": "Międzyzdroje, pow. kamieński"
+  },
+  {
+    "id": "63",
+    "name": "Miejsce Piastowe, pow. krośnieński"
+  },
+  {
+    "id": "2639",
+    "name": "Miejska Górka, pow. rawicki"
+  },
+  {
+    "id": "1126",
+    "name": "Miękinia, pow. średzki"
+  },
+  {
+    "id": "96",
+    "name": "Mielec, pow. mielecki"
+  },
+  {
+    "id": "2435",
+    "name": "Mieleszyn, pow. gnieźnieński"
+  },
+  {
+    "id": "290",
+    "name": "Mielnik, pow. siemiatycki"
+  },
+  {
+    "id": "1682",
+    "name": "Mielno, pow. koszaliński"
+  },
+  {
+    "id": "1154",
+    "name": "Mieroszów, pow. wałbrzyski"
+  },
+  {
+    "id": "711",
+    "name": "Mierzęcice, pow. będziński"
+  },
+  {
+    "id": "2695",
+    "name": "Mieścisko, pow. wągrowiecki"
+  },
+  {
+    "id": "1644",
+    "name": "Mieszkowice, pow. gryfiński"
+  },
+  {
+    "id": "1175",
+    "name": "Mietków, pow. wrocławski"
+  },
+  {
+    "id": "1524",
+    "name": "Mikołajki, pow. mrągowski"
+  },
+  {
+    "id": "1996",
+    "name": "Mikołajki Pomorskie, pow. sztumski"
+  },
+  {
+    "id": "795",
+    "name": "Mikołów, pow. mikołowski"
+  },
+  {
+    "id": "2582",
+    "name": "Mikstat, pow. ostrzeszowski"
+  },
+  {
+    "id": "1563",
+    "name": "Miłakowo, pow. ostródzki"
+  },
+  {
+    "id": "1364",
+    "name": "Milanów, pow. parczewski"
+  },
+  {
+    "id": "2768",
+    "name": "Milanówek, pow. grodziski"
+  },
+  {
+    "id": "291",
+    "name": "Milejczyce, pow. siemiatycki"
+  },
+  {
+    "id": "1479",
+    "name": "Milejewo, pow. elbląski"
+  },
+  {
+    "id": "1338",
+    "name": "Milejów, pow. łęczyński"
+  },
+  {
+    "id": "1086",
+    "name": "Milicz, pow. milicki"
+  },
+  {
+    "id": "1492",
+    "name": "Miłki, pow. giżycki"
+  },
+  {
+    "id": "1060",
+    "name": "Miłkowice, pow. legnicki"
+  },
+  {
+    "id": "1564",
+    "name": "Miłomłyn, pow. ostródzki"
+  },
+  {
+    "id": "1951",
+    "name": "Miłoradz, pow. malborski"
+  },
+  {
+    "id": "2704",
+    "name": "Miłosław, pow. wrzesiński"
+  },
+  {
+    "id": "870",
+    "name": "Milówka, pow. żywiecki"
+  },
+  {
+    "id": "2827",
+    "name": "Mińsk Mazowiecki, pow. miński"
+  },
+  {
+    "id": "1267",
+    "name": "Mircze, pow. hrubieszowski"
+  },
+  {
+    "id": "1755",
+    "name": "Mirosławiec, pow. wałecki"
+  },
+  {
+    "id": "3025",
+    "name": "Mirów, pow. szydłowiecki"
+  },
+  {
+    "id": "1079",
+    "name": "Mirsk, pow. lwówecki"
+  },
+  {
+    "id": "441",
+    "name": "Mirzec, pow. starachowicki"
+  },
+  {
+    "id": "2842",
+    "name": "Mława, pow. mławski"
+  },
+  {
+    "id": "3007",
+    "name": "Młodzieszyn, pow. sochaczewski"
+  },
+  {
+    "id": "1472",
+    "name": "Młynary, pow. elbląski"
+  },
+  {
+    "id": "2821",
+    "name": "Młynarze, pow. makowski"
+  },
+  {
+    "id": "377",
+    "name": "Mniów, pow. kielecki"
+  },
+  {
+    "id": "2266",
+    "name": "Mniszków, pow. opoczyński"
+  },
+  {
+    "id": "2999",
+    "name": "Mochowo, pow. sierpecki"
+  },
+  {
+    "id": "1277",
+    "name": "Modliborzyce, pow. janowski"
+  },
+  {
+    "id": "2775",
+    "name": "Mogielnica, pow. grójecki"
+  },
+  {
+    "id": "525",
+    "name": "Mogilany, pow. krakowski"
+  },
+  {
+    "id": "2101",
+    "name": "Mogilno, pow. mogileński"
+  },
+  {
+    "id": "2987",
+    "name": "Mokobody, pow. siedlecki"
+  },
+  {
+    "id": "2372",
+    "name": "Mokrsko, pow. wieluński"
+  },
+  {
+    "id": "270",
+    "name": "Mońki, pow. moniecki"
+  },
+  {
+    "id": "1565",
+    "name": "Morąg, pow. ostródzki"
+  },
+  {
+    "id": "378",
+    "name": "Morawica, pow. kielecki"
+  },
+  {
+    "id": "2983",
+    "name": "Mordy, pow. siedlecki"
+  },
+  {
+    "id": "1645",
+    "name": "Moryń, pow. gryfiński"
+  },
+  {
+    "id": "2004",
+    "name": "Morzeszczyn, pow. tczewski"
+  },
+  {
+    "id": "2615",
+    "name": "Mosina, pow. poznański"
+  },
+  {
+    "id": "458",
+    "name": "Moskorzew, pow. włoszczowski"
+  },
+  {
+    "id": "2296",
+    "name": "Moszczenica, pow. piotrkowski"
+  },
+  {
+    "id": "507",
+    "name": "Moszczenica, pow. gorlicki"
+  },
+  {
+    "id": "1523",
+    "name": "Mrągowo, pow. mrągowski"
+  },
+  {
+    "id": "2109",
+    "name": "Mrocza, pow. nakielski"
+  },
+  {
+    "id": "2839",
+    "name": "Mrozy, pow. miński"
+  },
+  {
+    "id": "1015",
+    "name": "Mściwojów, pow. jaworski"
+  },
+  {
+    "id": "758",
+    "name": "Mstów, pow. częstochowski"
+  },
+  {
+    "id": "847",
+    "name": "Mszana, pow. wodzisławski"
+  },
+  {
+    "id": "535",
+    "name": "Mszana Dolna, pow. limanowski"
+  },
+  {
+    "id": "3086",
+    "name": "Mszczonów, pow. żyrardowski"
+  },
+  {
+    "id": "673",
+    "name": "Mucharz, pow. wadowicki"
+  },
+  {
+    "id": "954",
+    "name": "Murów, pow. opolski"
+  },
+  {
+    "id": "2616",
+    "name": "Murowana Goślina, pow. poznański"
+  },
+  {
+    "id": "569",
+    "name": "Muszyna, pow. nowosądecki"
+  },
+  {
+    "id": "2473",
+    "name": "Mycielin, pow. kaliski"
+  },
+  {
+    "id": "759",
+    "name": "Mykanów, pow. częstochowski"
+  },
+  {
+    "id": "1025",
+    "name": "Mysłakowice, pow. jeleniogórski"
+  },
+  {
+    "id": "554",
+    "name": "Myślenice, pow. myślenicki"
+  },
+  {
+    "id": "1695",
+    "name": "Myślibórz, pow. myśliborski"
+  },
+  {
+    "id": "695",
+    "name": "Mysłowice"
+  },
+  {
+    "id": "800",
+    "name": "Myszków, pow. myszkowski"
+  },
+  {
+    "id": "2861",
+    "name": "Myszyniec, pow. ostrołęcki"
+  },
+  {
+    "id": "2939",
+    "name": "Nadarzyn, pow. pruszkowski"
+  },
+  {
+    "id": "350",
+    "name": "Nagłowice, pow. jędrzejowski"
+  },
+  {
+    "id": "2107",
+    "name": "Nakło nad Notecią, pow. nakielski"
+  },
+  {
+    "id": "1371",
+    "name": "Nałęczów, pow. puławski"
+  },
+  {
+    "id": "914",
+    "name": "Namysłów, pow. namysłowski"
+  },
+  {
+    "id": "249",
+    "name": "Narew, pow. hajnowski"
+  },
+  {
+    "id": "250",
+    "name": "Narewka, pow. hajnowski"
+  },
+  {
+    "id": "80",
+    "name": "Narol, pow. lubaczowski"
+  },
+  {
+    "id": "2928",
+    "name": "Naruszewo, pow. płoński"
+  },
+  {
+    "id": "2853",
+    "name": "Nasielsk, pow. nowodworski"
+  },
+  {
+    "id": "582",
+    "name": "Nawojowa, pow. nowosądecki"
+  },
+  {
+    "id": "820",
+    "name": "Nędza, pow. raciborski"
+  },
+  {
+    "id": "2705",
+    "name": "Nekla, pow. wrzesiński"
+  },
+  {
+    "id": "1529",
+    "name": "Nidzica, pow. nidzicki"
+  },
+  {
+    "id": "2252",
+    "name": "Nieborów, pow. łowicki"
+  },
+  {
+    "id": "183",
+    "name": "Niebylec, pow. strzyżowski"
+  },
+  {
+    "id": "2436",
+    "name": "Niechanowo, pow. gnieźnieński"
+  },
+  {
+    "id": "1009",
+    "name": "Niechlów, pow. górowski"
+  },
+  {
+    "id": "1327",
+    "name": "Niedrzwica Duża, pow. lubelski"
+  },
+  {
+    "id": "1310",
+    "name": "Niedźwiada, pow. lubartowski"
+  },
+  {
+    "id": "543",
+    "name": "Niedźwiedź, pow. limanowski"
+  },
+  {
+    "id": "1861",
+    "name": "Niegosławice, pow. żagański"
+  },
+  {
+    "id": "804",
+    "name": "Niegowa, pow. myszkowski"
+  },
+  {
+    "id": "1436",
+    "name": "Nielisz, pow. zamojski"
+  },
+  {
+    "id": "1328",
+    "name": "Niemce, pow. lubelski"
+  },
+  {
+    "id": "993",
+    "name": "Niemcza, pow. dzierżoniowski"
+  },
+  {
+    "id": "946",
+    "name": "Niemodlin, pow. opolski"
+  },
+  {
+    "id": "680",
+    "name": "Niepołomice, pow. wielicki"
+  },
+  {
+    "id": "2799",
+    "name": "Nieporęt, pow. legionowski"
+  },
+  {
+    "id": "2024",
+    "name": "Nieszawa, pow. aleksandrowski"
+  },
+  {
+    "id": "107",
+    "name": "Nisko, pow. niżański"
+  },
+  {
+    "id": "49",
+    "name": "Niwiska, pow. kolbuszowski"
+  },
+  {
+    "id": "2283",
+    "name": "Nowa Brzeźnica, pow. pajęczański"
+  },
+  {
+    "id": "188",
+    "name": "Nowa Dęba, pow. tarnobrzeski"
+  },
+  {
+    "id": "1933",
+    "name": "Nowa Karczma, pow. kościerski"
+  },
+  {
+    "id": "1039",
+    "name": "Nowa Ruda, pow. kłodzki"
+  },
+  {
+    "id": "73",
+    "name": "Nowa Sarzyna, pow. leżajski"
+  },
+  {
+    "id": "379",
+    "name": "Nowa Słupia, pow. kielecki"
+  },
+  {
+    "id": "1789",
+    "name": "Nowa Sól, pow. nowosolski"
+  },
+  {
+    "id": "3008",
+    "name": "Nowa Sucha, pow. sochaczewski"
+  },
+  {
+    "id": "1945",
+    "name": "Nowa Wieś Lęborska, pow. lęborski"
+  },
+  {
+    "id": "2050",
+    "name": "Nowa Wieś Wielka, pow. bydgoski"
+  },
+  {
+    "id": "2138",
+    "name": "Nowe, pow. świecki"
+  },
+  {
+    "id": "626",
+    "name": "Nowe Brzesko, pow. proszowicki"
+  },
+  {
+    "id": "1792",
+    "name": "Nowe Miasteczko, pow. nowosolski"
+  },
+  {
+    "id": "2929",
+    "name": "Nowe Miasto, pow. płoński"
+  },
+  {
+    "id": "1534",
+    "name": "Nowe Miasto Lubawskie, pow. nowomiejski"
+  },
+  {
+    "id": "2776",
+    "name": "Nowe Miasto nad Pilicą, pow. grójecki"
+  },
+  {
+    "id": "2669",
+    "name": "Nowe Miasto nad Wartą, pow. średzki"
+  },
+  {
+    "id": "2227",
+    "name": "Nowe Ostrowy, pow. kutnowski"
+  },
+  {
+    "id": "325",
+    "name": "Nowe Piekuty, pow. wysokomazowiecki"
+  },
+  {
+    "id": "2570",
+    "name": "Nowe Skalmierzyce, pow. ostrowski"
+  },
+  {
+    "id": "1704",
+    "name": "Nowe Warpno, pow. policki"
+  },
+  {
+    "id": "198",
+    "name": "Nowinka, pow. augustowski"
+  },
+  {
+    "id": "1393",
+    "name": "Nowodwór, pow. rycki"
+  },
+  {
+    "id": "1625",
+    "name": "Nowogard, pow. goleniowski"
+  },
+  {
+    "id": "260",
+    "name": "Nowogród, pow. łomżyński"
+  },
+  {
+    "id": "3091",
+    "name": "Nowogród Bobrzański, pow. zielonogórski"
+  },
+  {
+    "id": "1702",
+    "name": "Nowogródek Pomorski, pow. myśliborski"
+  },
+  {
+    "id": "985",
+    "name": "Nowogrodziec, pow. bolesławiecki"
+  },
+  {
+    "id": "2915",
+    "name": "Nowy Duninów, pow. płocki"
+  },
+  {
+    "id": "303",
+    "name": "Nowy Dwór, pow. sokólski"
+  },
+  {
+    "id": "1954",
+    "name": "Nowy Dwór Gdański, pow. nowodworski"
+  },
+  {
+    "id": "2852",
+    "name": "Nowy Dwór Mazowiecki, pow. nowodworski"
+  },
+  {
+    "id": "2354",
+    "name": "Nowy Kawęczyn, pow. skierniewicki"
+  },
+  {
+    "id": "338",
+    "name": "Nowy Korczyn, pow. buski"
+  },
+  {
+    "id": "463",
+    "name": "Nowy Sącz"
+  },
+  {
+    "id": "566",
+    "name": "Nowy Sącz, pow. nowosądecki"
+  },
+  {
+    "id": "1948",
+    "name": "Nowy Staw, pow. malborski"
+  },
+  {
+    "id": "587",
+    "name": "Nowy Targ, pow. nowotarski"
+  },
+  {
+    "id": "2554",
+    "name": "Nowy Tomyśl, pow. nowotomyski"
+  },
+  {
+    "id": "466",
+    "name": "Nowy Wiśnicz, pow. bocheński"
+  },
+  {
+    "id": "41",
+    "name": "Nowy Żmigród, pow. jasielski"
+  },
+  {
+    "id": "15",
+    "name": "Nozdrzec, pow. brzozowski"
+  },
+  {
+    "id": "2879",
+    "name": "Nur, pow. ostrowski"
+  },
+  {
+    "id": "292",
+    "name": "Nurzec-Stacja, pow. siemiatycki"
+  },
+  {
+    "id": "920",
+    "name": "Nysa, pow. nyski"
+  },
+  {
+    "id": "2564",
+    "name": "Oborniki, pow. obornicki"
+  },
+  {
+    "id": "1141",
+    "name": "Oborniki Śląskie, pow. trzebnicki"
+  },
+  {
+    "id": "428",
+    "name": "Obrazów, pow. sandomierski"
+  },
+  {
+    "id": "2157",
+    "name": "Obrowo, pow. toruński"
+  },
+  {
+    "id": "2960",
+    "name": "Obryte, pow. pułtuski"
+  },
+  {
+    "id": "2655",
+    "name": "Obrzycko, pow. szamotulski"
+  },
+  {
+    "id": "1243",
+    "name": "Obsza, pow. biłgorajski"
+  },
+  {
+    "id": "597",
+    "name": "Ochotnica Dolna, pow. nowotarski"
+  },
+  {
+    "id": "2571",
+    "name": "Odolanów, pow. ostrowski"
+  },
+  {
+    "id": "2953",
+    "name": "Odrzywół, pow. przysuski"
+  },
+  {
+    "id": "850",
+    "name": "Ogrodzieniec, pow. zawierciański"
+  },
+  {
+    "id": "2742",
+    "name": "Ojrzeń, pow. ciechanowski"
+  },
+  {
+    "id": "2715",
+    "name": "Okonek, pow. złotowski"
+  },
+  {
+    "id": "351",
+    "name": "Oksa, pow. jędrzejowski"
+  },
+  {
+    "id": "1102",
+    "name": "Oława, pow. oławski"
+  },
+  {
+    "id": "1539",
+    "name": "Olecko, pow. olecki"
+  },
+  {
+    "id": "1090",
+    "name": "Oleśnica, pow. oleśnicki"
+  },
+  {
+    "id": "449",
+    "name": "Oleśnica, pow. staszowski"
+  },
+  {
+    "id": "934",
+    "name": "Olesno, pow. oleski"
+  },
+  {
+    "id": "498",
+    "name": "Olesno, pow. dąbrowski"
+  },
+  {
+    "id": "81",
+    "name": "Oleszyce, pow. lubaczowski"
+  },
+  {
+    "id": "602",
+    "name": "Olkusz, pow. olkuski"
+  },
+  {
+    "id": "70",
+    "name": "Olszanica, pow. leski"
+  },
+  {
+    "id": "2812",
+    "name": "Olszanka, pow. łosicki"
+  },
+  {
+    "id": "884",
+    "name": "Olszanka, pow. brzeski"
+  },
+  {
+    "id": "2870",
+    "name": "Olszewo-Borki, pow. ostrołęcki"
+  },
+  {
+    "id": "2497",
+    "name": "Olszówka, pow. kolski"
+  },
+  {
+    "id": "1446",
+    "name": "Olsztyn"
+  },
+  {
+    "id": "1544",
+    "name": "Olsztyn, pow. olsztyński"
+  },
+  {
+    "id": "760",
+    "name": "Olsztyn, pow. częstochowski"
+  },
+  {
+    "id": "1549",
+    "name": "Olsztynek, pow. olsztyński"
+  },
+  {
+    "id": "1068",
+    "name": "Olszyna, pow. lubański"
+  },
+  {
+    "id": "2556",
+    "name": "Opalenica, pow. nowotomyski"
+  },
+  {
+    "id": "781",
+    "name": "Opatów, pow. kłobucki"
+  },
+  {
+    "id": "396",
+    "name": "Opatów, pow. opatowski"
+  },
+  {
+    "id": "2474",
+    "name": "Opatówek, pow. kaliski"
+  },
+  {
+    "id": "361",
+    "name": "Opatowiec, pow. kazimierski"
+  },
+  {
+    "id": "2743",
+    "name": "Opinogóra Górna, pow. ciechanowski"
+  },
+  {
+    "id": "2262",
+    "name": "Opoczno, pow. opoczyński"
+  },
+  {
+    "id": "877",
+    "name": "Opole"
+  },
+  {
+    "id": "945",
+    "name": "Opole, pow. opolski"
+  },
+  {
+    "id": "1352",
+    "name": "Opole Lubelskie, pow. opolski"
+  },
+  {
+    "id": "2228",
+    "name": "Oporów, pow. kutnowski"
+  },
+  {
+    "id": "2648",
+    "name": "Orchowo, pow. słupecki"
+  },
+  {
+    "id": "230",
+    "name": "Orla, pow. bielski"
+  },
+  {
+    "id": "124",
+    "name": "Orły, pow. przemyski"
+  },
+  {
+    "id": "1518",
+    "name": "Orneta, pow. lidzbarski"
+  },
+  {
+    "id": "798",
+    "name": "Ornontowice, pow. mikołowski"
+  },
+  {
+    "id": "3026",
+    "name": "Orońsko, pow. szydłowiecki"
+  },
+  {
+    "id": "797",
+    "name": "Orzesze, pow. mikołowski"
+  },
+  {
+    "id": "1576",
+    "name": "Orzysz, pow. piski"
+  },
+  {
+    "id": "2145",
+    "name": "Osie, pow. świecki"
+  },
+  {
+    "id": "2120",
+    "name": "Osięciny, pow. radziejowski"
+  },
+  {
+    "id": "2891",
+    "name": "Osieck, pow. otwocki"
+  },
+  {
+    "id": "2539",
+    "name": "Osieczna, pow. leszczyński"
+  },
+  {
+    "id": "1986",
+    "name": "Osieczna, pow. starogardzki"
+  },
+  {
+    "id": "989",
+    "name": "Osiecznica, pow. bolesławiecki"
+  },
+  {
+    "id": "2040",
+    "name": "Osiek, pow. brodnicki"
+  },
+  {
+    "id": "1987",
+    "name": "Osiek, pow. starogardzki"
+  },
+  {
+    "id": "618",
+    "name": "Osiek, pow. oświęcimski"
+  },
+  {
+    "id": "445",
+    "name": "Osiek, pow. staszowski"
+  },
+  {
+    "id": "42",
+    "name": "Osiek Jasielski, pow. jasielski"
+  },
+  {
+    "id": "2498",
+    "name": "Osiek Mały, pow. kolski"
+  },
+  {
+    "id": "2051",
+    "name": "Osielsko, pow. bydgoski"
+  },
+  {
+    "id": "1629",
+    "name": "Osina, pow. goleniowski"
+  },
+  {
+    "id": "2373",
+    "name": "Osjaków, pow. wieluński"
+  },
+  {
+    "id": "1802",
+    "name": "Ośno Lubuskie, pow. słubicki"
+  },
+  {
+    "id": "1957",
+    "name": "Ostaszewo, pow. nowodworski"
+  },
+  {
+    "id": "1562",
+    "name": "Ostróda, pow. ostródzki"
+  },
+  {
+    "id": "2723",
+    "name": "Ostrołęka"
+  },
+  {
+    "id": "2860",
+    "name": "Ostrołęka, pow. ostrołęcki"
+  },
+  {
+    "id": "2656",
+    "name": "Ostroróg, pow. szamotulski"
+  },
+  {
+    "id": "142",
+    "name": "Ostrów, pow. ropczycko-sędziszowski"
+  },
+  {
+    "id": "2374",
+    "name": "Ostrówek, pow. wieluński"
+  },
+  {
+    "id": "1312",
+    "name": "Ostrówek, pow. lubartowski"
+  },
+  {
+    "id": "1620",
+    "name": "Ostrowice, pow. drawski"
+  },
+  {
+    "id": "406",
+    "name": "Ostrowiec Świętokrzyski, pow. ostrowiecki"
+  },
+  {
+    "id": "2649",
+    "name": "Ostrowite, pow. słupecki"
+  },
+  {
+    "id": "1302",
+    "name": "Ostrów Lubelski, pow. lubartowski"
+  },
+  {
+    "id": "2873",
+    "name": "Ostrów Mazowiecka, pow. ostrowski"
+  },
+  {
+    "id": "2569",
+    "name": "Ostrów Wielkopolski, pow. ostrowski"
+  },
+  {
+    "id": "2580",
+    "name": "Ostrzeszów, pow. ostrzeszowski"
+  },
+  {
+    "id": "610",
+    "name": "Oświęcim, pow. oświęcimski"
+  },
+  {
+    "id": "923",
+    "name": "Otmuchów, pow. nyski"
+  },
+  {
+    "id": "2885",
+    "name": "Otwock, pow. otwocki"
+  },
+  {
+    "id": "1798",
+    "name": "Otyń, pow. nowosolski"
+  },
+  {
+    "id": "397",
+    "name": "Ożarów, pow. opatowski"
+  },
+  {
+    "id": "835",
+    "name": "Ożarowice, pow. tarnogórski"
+  },
+  {
+    "id": "3031",
+    "name": "Ożarów Mazowiecki, pow. warszawski zachodni"
+  },
+  {
+    "id": "947",
+    "name": "Ozimek, pow. opolski"
+  },
+  {
+    "id": "2395",
+    "name": "Ozorków, pow. zgierski"
+  },
+  {
+    "id": "2272",
+    "name": "Pabianice, pow. pabianicki"
+  },
+  {
+    "id": "339",
+    "name": "Pacanów, pow. buski"
+  },
+  {
+    "id": "2764",
+    "name": "Pacyna, pow. gostyniński"
+  },
+  {
+    "id": "924",
+    "name": "Paczków, pow. nyski"
+  },
+  {
+    "id": "102",
+    "name": "Padew Narodowa, pow. mielecki"
+  },
+  {
+    "id": "2279",
+    "name": "Pajęczno, pow. pajęczański"
+  },
+  {
+    "id": "2081",
+    "name": "Pakość, pow. inowrocławski"
+  },
+  {
+    "id": "2643",
+    "name": "Pakosław, pow. rawicki"
+  },
+  {
+    "id": "932",
+    "name": "Pakosławice, pow. nyski"
+  },
+  {
+    "id": "627",
+    "name": "Pałecznica, pow. proszowicki"
+  },
+  {
+    "id": "782",
+    "name": "Panki, pow. kłobucki"
+  },
+  {
+    "id": "2058",
+    "name": "Papowo Biskupie, pow. chełmiński"
+  },
+  {
+    "id": "2989",
+    "name": "Paprotnia, pow. siedlecki"
+  },
+  {
+    "id": "2268",
+    "name": "Paradyż, pow. opoczyński"
+  },
+  {
+    "id": "1889",
+    "name": "Parchowo, pow. bytowski"
+  },
+  {
+    "id": "1361",
+    "name": "Parczew, pow. parczewski"
+  },
+  {
+    "id": "2756",
+    "name": "Parysów, pow. garwoliński"
+  },
+  {
+    "id": "2400",
+    "name": "Parzęczew, pow. zgierski"
+  },
+  {
+    "id": "1473",
+    "name": "Pasłęk, pow. elbląski"
+  },
+  {
+    "id": "1583",
+    "name": "Pasym, pow. szczycieński"
+  },
+  {
+    "id": "1016",
+    "name": "Paszowice, pow. jaworski"
+  },
+  {
+    "id": "2375",
+    "name": "Pątnów, pow. wieluński"
+  },
+  {
+    "id": "29",
+    "name": "Pawłosiów, pow. jarosławski"
+  },
+  {
+    "id": "442",
+    "name": "Pawłów, pow. starachowicki"
+  },
+  {
+    "id": "810",
+    "name": "Pawłowice, pow. pszczyński"
+  },
+  {
+    "id": "896",
+    "name": "Pawłowiczki, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "793",
+    "name": "Pawonków, pow. lubliniecki"
+  },
+  {
+    "id": "560",
+    "name": "Pcim, pow. myślenicki"
+  },
+  {
+    "id": "1003",
+    "name": "Pęcław, pow. głogowski"
+  },
+  {
+    "id": "2306",
+    "name": "Pęczniew, pow. poddębicki"
+  },
+  {
+    "id": "1605",
+    "name": "Pełczyce, pow. choszczeński"
+  },
+  {
+    "id": "2002",
+    "name": "Pelplin, pow. tczewski"
+  },
+  {
+    "id": "2447",
+    "name": "Pępowo, pow. gostyński"
+  },
+  {
+    "id": "293",
+    "name": "Perlejewo, pow. siemiatycki"
+  },
+  {
+    "id": "2483",
+    "name": "Perzów, pow. kępiński"
+  },
+  {
+    "id": "2894",
+    "name": "Piaseczno, pow. piaseczyński"
+  },
+  {
+    "id": "2448",
+    "name": "Piaski, pow. gostyński"
+  },
+  {
+    "id": "1398",
+    "name": "Piaski, pow. świdnicki"
+  },
+  {
+    "id": "2936",
+    "name": "Piastów, pow. pruszkowski"
+  },
+  {
+    "id": "2242",
+    "name": "Piątek, pow. łęczycki"
+  },
+  {
+    "id": "265",
+    "name": "Piątnica, pow. łomżyński"
+  },
+  {
+    "id": "1021",
+    "name": "Piechowice, pow. jeleniogórski"
+  },
+  {
+    "id": "1527",
+    "name": "Piecki, pow. mrągowski"
+  },
+  {
+    "id": "696",
+    "name": "Piekary Śląskie"
+  },
+  {
+    "id": "380",
+    "name": "Piekoszów, pow. kielecki"
+  },
+  {
+    "id": "1203",
+    "name": "Pielgrzymka, pow. złotoryjski"
+  },
+  {
+    "id": "1457",
+    "name": "Pieniężno, pow. braniewski"
+  },
+  {
+    "id": "1192",
+    "name": "Pieńsk, pow. zgorzelecki"
+  },
+  {
+    "id": "381",
+    "name": "Pierzchnica, pow. kielecki"
+  },
+  {
+    "id": "994",
+    "name": "Pieszyce, pow. dzierżoniowski"
+  },
+  {
+    "id": "821",
+    "name": "Pietrowice Wielkie, pow. raciborski"
+  },
+  {
+    "id": "2590",
+    "name": "Piła, pow. pilski"
+  },
+  {
+    "id": "2748",
+    "name": "Pilawa, pow. garwoliński"
+  },
+  {
+    "id": "995",
+    "name": "Piława Górna, pow. dzierżoniowski"
+  },
+  {
+    "id": "771",
+    "name": "Pilchowice, pow. gliwicki"
+  },
+  {
+    "id": "851",
+    "name": "Pilica, pow. zawierciański"
+  },
+  {
+    "id": "17",
+    "name": "Pilzno, pow. dębicki"
+  },
+  {
+    "id": "414",
+    "name": "Pińczów, pow. pińczowski"
+  },
+  {
+    "id": "2968",
+    "name": "Pionki, pow. radomski"
+  },
+  {
+    "id": "2117",
+    "name": "Piotrków Kujawski, pow. radziejowski"
+  },
+  {
+    "id": "2202",
+    "name": "Piotrków Trybunalski"
+  },
+  {
+    "id": "2289",
+    "name": "Piotrków Trybunalski, pow. piotrkowski"
+  },
+  {
+    "id": "1574",
+    "name": "Pisz, pow. piski"
+  },
+  {
+    "id": "1222",
+    "name": "Piszczac, pow. bialski"
+  },
+  {
+    "id": "570",
+    "name": "Piwniczna-Zdrój, pow. nowosądecki"
+  },
+  {
+    "id": "199",
+    "name": "Płaska, pow. augustowski"
+  },
+  {
+    "id": "2813",
+    "name": "Platerów, pow. łosicki"
+  },
+  {
+    "id": "1069",
+    "name": "Platerówka, pow. lubański"
+  },
+  {
+    "id": "648",
+    "name": "Pleśna, pow. tarnowski"
+  },
+  {
+    "id": "2603",
+    "name": "Pleszew, pow. pleszewski"
+  },
+  {
+    "id": "2724",
+    "name": "Płock"
+  },
+  {
+    "id": "2903",
+    "name": "Płock, pow. płocki"
+  },
+  {
+    "id": "2822",
+    "name": "Płoniawy-Bramura, pow. makowski"
+  },
+  {
+    "id": "2922",
+    "name": "Płońsk, pow. płoński"
+  },
+  {
+    "id": "1462",
+    "name": "Płoskinia, pow. braniewski"
+  },
+  {
+    "id": "1469",
+    "name": "Płośnica, pow. działdowski"
+  },
+  {
+    "id": "1633",
+    "name": "Płoty, pow. gryficki"
+  },
+  {
+    "id": "2170",
+    "name": "Płużnica, pow. wąbrzeski"
+  },
+  {
+    "id": "2786",
+    "name": "Pniewy, pow. grójecki"
+  },
+  {
+    "id": "2657",
+    "name": "Pniewy, pow. szamotulski"
+  },
+  {
+    "id": "2617",
+    "name": "Pobiedziska, pow. poznański"
+  },
+  {
+    "id": "761",
+    "name": "Poczesna, pow. częstochowski"
+  },
+  {
+    "id": "2302",
+    "name": "Poddębice, pow. poddębicki"
+  },
+  {
+    "id": "1366",
+    "name": "Podedwórze, pow. parczewski"
+  },
+  {
+    "id": "584",
+    "name": "Podegrodzie, pow. nowosądecki"
+  },
+  {
+    "id": "1026",
+    "name": "Podgórzyn, pow. jeleniogórski"
+  },
+  {
+    "id": "2769",
+    "name": "Podkowa Leśna, pow. grodziski"
+  },
+  {
+    "id": "2442",
+    "name": "Pogorzela, pow. gostyński"
+  },
+  {
+    "id": "917",
+    "name": "Pokój, pow. namysłowski"
+  },
+  {
+    "id": "2961",
+    "name": "Pokrzywnica, pow. pułtuski"
+  },
+  {
+    "id": "2422",
+    "name": "Połajewo, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "1040",
+    "name": "Polanica-Zdrój, pow. kłodzki"
+  },
+  {
+    "id": "446",
+    "name": "Połaniec, pow. staszowski"
+  },
+  {
+    "id": "620",
+    "name": "Polanka Wielka, pow. oświęcimski"
+  },
+  {
+    "id": "1676",
+    "name": "Polanów, pow. koszaliński"
+  },
+  {
+    "id": "1747",
+    "name": "Połczyn-Zdrój, pow. świdwiński"
+  },
+  {
+    "id": "1703",
+    "name": "Police, pow. policki"
+  },
+  {
+    "id": "3073",
+    "name": "Policzna, pow. zwoleński"
+  },
+  {
+    "id": "1107",
+    "name": "Polkowice, pow. polkowicki"
+  },
+  {
+    "id": "897",
+    "name": "Polska Cerekiew, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "2858",
+    "name": "Pomiechówek, pow. nowodworski"
+  },
+  {
+    "id": "1353",
+    "name": "Poniatowa, pow. opolski"
+  },
+  {
+    "id": "2443",
+    "name": "Poniec, pow. gostyński"
+  },
+  {
+    "id": "957",
+    "name": "Popielów, pow. opolski"
+  },
+  {
+    "id": "783",
+    "name": "Popów, pow. kłobucki"
+  },
+  {
+    "id": "724",
+    "name": "Porąbka, pow. bielski"
+  },
+  {
+    "id": "805",
+    "name": "Poraj, pow. myszkowski"
+  },
+  {
+    "id": "852",
+    "name": "Poręba, pow. zawierciański"
+  },
+  {
+    "id": "665",
+    "name": "Poronin, pow. tatrzański"
+  },
+  {
+    "id": "1721",
+    "name": "Postomino, pow. sławieński"
+  },
+  {
+    "id": "3059",
+    "name": "Poświętne, pow. wołomiński"
+  },
+  {
+    "id": "2269",
+    "name": "Poświętne, pow. opoczyński"
+  },
+  {
+    "id": "217",
+    "name": "Poświętne, pow. białostocki"
+  },
+  {
+    "id": "1975",
+    "name": "Potęgowo, pow. słupski"
+  },
+  {
+    "id": "1244",
+    "name": "Potok Górny, pow. biłgorajski"
+  },
+  {
+    "id": "1278",
+    "name": "Potok Wielki, pow. janowski"
+  },
+  {
+    "id": "2954",
+    "name": "Potworów, pow. przysuski"
+  },
+  {
+    "id": "2650",
+    "name": "Powidz, pow. słupecki"
+  },
+  {
+    "id": "1593",
+    "name": "Pozezdrze, pow. węgorzewski"
+  },
+  {
+    "id": "2406",
+    "name": "Poznań"
+  },
+  {
+    "id": "2610",
+    "name": "Poznań, pow. poznański"
+  },
+  {
+    "id": "1936",
+    "name": "Prabuty, pow. kwidzyński"
+  },
+  {
+    "id": "937",
+    "name": "Praszka, pow. oleski"
+  },
+  {
+    "id": "2901",
+    "name": "Prażmów, pow. piaseczyński"
+  },
+  {
+    "id": "1055",
+    "name": "Prochowice, pow. legnicki"
+  },
+  {
+    "id": "2731",
+    "name": "Promna, pow. białobrzeski"
+  },
+  {
+    "id": "1487",
+    "name": "Prostki, pow. ełcki"
+  },
+  {
+    "id": "948",
+    "name": "Prószków, pow. opolski"
+  },
+  {
+    "id": "623",
+    "name": "Proszowice, pow. proszowicki"
+  },
+  {
+    "id": "30",
+    "name": "Pruchnik, pow. jarosławski"
+  },
+  {
+    "id": "962",
+    "name": "Prudnik, pow. prudnicki"
+  },
+  {
+    "id": "1142",
+    "name": "Prusice, pow. trzebnicki"
+  },
+  {
+    "id": "2146",
+    "name": "Pruszcz, pow. świecki"
+  },
+  {
+    "id": "1909",
+    "name": "Pruszcz Gdański, pow. gdański"
+  },
+  {
+    "id": "2934",
+    "name": "Pruszków, pow. pruszkowski"
+  },
+  {
+    "id": "2941",
+    "name": "Przasnysz, pow. przasnyski"
+  },
+  {
+    "id": "1907",
+    "name": "Przechlewo, pow. człuchowski"
+  },
+  {
+    "id": "621",
+    "name": "Przeciszów, pow. oświęcimski"
+  },
+  {
+    "id": "103",
+    "name": "Przecław, pow. mielecki"
+  },
+  {
+    "id": "2312",
+    "name": "Przedbórz, pow. radomszczański"
+  },
+  {
+    "id": "2489",
+    "name": "Przedecz, pow. kolski"
+  },
+  {
+    "id": "1714",
+    "name": "Przelewice, pow. pyrzycki"
+  },
+  {
+    "id": "2700",
+    "name": "Przemęt, pow. wolsztyński"
+  },
+  {
+    "id": "1109",
+    "name": "Przemków, pow. polkowicki"
+  },
+  {
+    "id": "2",
+    "name": "Przemyśl"
+  },
+  {
+    "id": "117",
+    "name": "Przemyśl, pow. przemyski"
+  },
+  {
+    "id": "312",
+    "name": "Przerośl, pow. suwalski"
+  },
+  {
+    "id": "2990",
+    "name": "Przesmyki, pow. siedlecki"
+  },
+  {
+    "id": "1120",
+    "name": "Przeworno, pow. strzeliński"
+  },
+  {
+    "id": "128",
+    "name": "Przeworsk, pow. przeworski"
+  },
+  {
+    "id": "1873",
+    "name": "Przewóz, pow. żarski"
+  },
+  {
+    "id": "1921",
+    "name": "Przodkowo, pow. kartuski"
+  },
+  {
+    "id": "1630",
+    "name": "Przybiernów, pow. goleniowski"
+  },
+  {
+    "id": "2576",
+    "name": "Przygodzice, pow. ostrowski"
+  },
+  {
+    "id": "2686",
+    "name": "Przykona, pow. turecki"
+  },
+  {
+    "id": "3074",
+    "name": "Przyłęk, pow. zwoleński"
+  },
+  {
+    "id": "762",
+    "name": "Przyrów, pow. częstochowski"
+  },
+  {
+    "id": "784",
+    "name": "Przystajń, pow. kłobucki"
+  },
+  {
+    "id": "2949",
+    "name": "Przysucha, pow. przysuski"
+  },
+  {
+    "id": "1785",
+    "name": "Przytoczna, pow. międzyrzecki"
+  },
+  {
+    "id": "266",
+    "name": "Przytuły, pow. łomżyński"
+  },
+  {
+    "id": "2977",
+    "name": "Przytyk, pow. radomski"
+  },
+  {
+    "id": "1913",
+    "name": "Przywidz, pow. gdański"
+  },
+  {
+    "id": "712",
+    "name": "Psary, pow. będziński"
+  },
+  {
+    "id": "1786",
+    "name": "Pszczew, pow. międzyrzecki"
+  },
+  {
+    "id": "1914",
+    "name": "Pszczółki, pow. gdański"
+  },
+  {
+    "id": "807",
+    "name": "Pszczyna, pow. pszczyński"
+  },
+  {
+    "id": "840",
+    "name": "Pszów, pow. wodzisławski"
+  },
+  {
+    "id": "1339",
+    "name": "Puchaczów, pow. łęczyński"
+  },
+  {
+    "id": "1960",
+    "name": "Puck, pow. pucki"
+  },
+  {
+    "id": "1369",
+    "name": "Puławy, pow. puławski"
+  },
+  {
+    "id": "2958",
+    "name": "Pułtusk, pow. pułtuski"
+  },
+  {
+    "id": "283",
+    "name": "Puńsk, pow. sejneński"
+  },
+  {
+    "id": "1559",
+    "name": "Purda, pow. olsztyński"
+  },
+  {
+    "id": "3088",
+    "name": "Puszcza Mariańska, pow. żyrardowski"
+  },
+  {
+    "id": "2618",
+    "name": "Puszczykowo, pow. poznański"
+  },
+  {
+    "id": "1709",
+    "name": "Pyrzyce, pow. pyrzycki"
+  },
+  {
+    "id": "767",
+    "name": "Pyskowice, pow. gliwicki"
+  },
+  {
+    "id": "176",
+    "name": "Pysznica, pow. stalowowolski"
+  },
+  {
+    "id": "2706",
+    "name": "Pyzdry, pow. wrzesiński"
+  },
+  {
+    "id": "598",
+    "name": "Raba Wyżna, pow. nowotarski"
+  },
+  {
+    "id": "1750",
+    "name": "Rąbino, pow. świdwiński"
+  },
+  {
+    "id": "588",
+    "name": "Rabka-Zdrój, pow. nowotarski"
+  },
+  {
+    "id": "1411",
+    "name": "Rachanie, pow. tomaszowski"
+  },
+  {
+    "id": "2923",
+    "name": "Raciąż, pow. płoński"
+  },
+  {
+    "id": "2028",
+    "name": "Raciążek, pow. aleksandrowski"
+  },
+  {
+    "id": "813",
+    "name": "Racibórz, pow. raciborski"
+  },
+  {
+    "id": "561",
+    "name": "Raciechowice, pow. myślenicki"
+  },
+  {
+    "id": "552",
+    "name": "Racławice, pow. miechowski"
+  },
+  {
+    "id": "313",
+    "name": "Raczki, pow. suwalski"
+  },
+  {
+    "id": "1437",
+    "name": "Radecznica, pow. zamojski"
+  },
+  {
+    "id": "499",
+    "name": "Radgoszcz, pow. dąbrowski"
+  },
+  {
+    "id": "1041",
+    "name": "Radków, pow. kłodzki"
+  },
+  {
+    "id": "459",
+    "name": "Radków, pow. włoszczowski"
+  },
+  {
+    "id": "841",
+    "name": "Radlin, pow. wodzisławski"
+  },
+  {
+    "id": "942",
+    "name": "Radłów, pow. oleski"
+  },
+  {
+    "id": "649",
+    "name": "Radłów, pow. tarnowski"
+  },
+  {
+    "id": "2725",
+    "name": "Radom"
+  },
+  {
+    "id": "2966",
+    "name": "Radom, pow. radomski"
+  },
+  {
+    "id": "2066",
+    "name": "Radomin, pow. golubsko-dobrzyński"
+  },
+  {
+    "id": "2310",
+    "name": "Radomsko, pow. radomszczański"
+  },
+  {
+    "id": "177",
+    "name": "Radomyśl nad Sanem, pow. stalowowolski"
+  },
+  {
+    "id": "104",
+    "name": "Radomyśl Wielki, pow. mielecki"
+  },
+  {
+    "id": "391",
+    "name": "Radoszyce, pow. konecki"
+  },
+  {
+    "id": "1692",
+    "name": "Radowo Małe, pow. łobeski"
+  },
+  {
+    "id": "1115",
+    "name": "Radwanice, pow. polkowicki"
+  },
+  {
+    "id": "25",
+    "name": "Radymno, pow. jarosławski"
+  },
+  {
+    "id": "2845",
+    "name": "Radzanów, pow. mławski"
+  },
+  {
+    "id": "2732",
+    "name": "Radzanów, pow. białobrzeski"
+  },
+  {
+    "id": "2916",
+    "name": "Radzanowo, pow. płocki"
+  },
+  {
+    "id": "871",
+    "name": "Radziechowy-Wieprz, pow. żywiecki"
+  },
+  {
+    "id": "2116",
+    "name": "Radziejów, pow. radziejowski"
+  },
+  {
+    "id": "3089",
+    "name": "Radziejowice, pow. żyrardowski"
+  },
+  {
+    "id": "629",
+    "name": "Radziemice, pow. proszowicki"
+  },
+  {
+    "id": "237",
+    "name": "Radziłów, pow. grajewski"
+  },
+  {
+    "id": "833",
+    "name": "Radzionków, pow. tarnogórski"
+  },
+  {
+    "id": "3052",
+    "name": "Radzymin, pow. wołomiński"
+  },
+  {
+    "id": "2070",
+    "name": "Radzyń Chełmiński, pow. grudziądzki"
+  },
+  {
+    "id": "1382",
+    "name": "Radzyń Podlaski, pow. radzyński"
+  },
+  {
+    "id": "872",
+    "name": "Rajcza, pow. żywiecki"
+  },
+  {
+    "id": "234",
+    "name": "Rajgród, pow. grajewski"
+  },
+  {
+    "id": "2452",
+    "name": "Rakoniewice, pow. grodziski"
+  },
+  {
+    "id": "382",
+    "name": "Raków, pow. kielecki"
+  },
+  {
+    "id": "94",
+    "name": "Rakszawa, pow. łańcucki"
+  },
+  {
+    "id": "50",
+    "name": "Raniżów, pow. kolbuszowski"
+  },
+  {
+    "id": "2572",
+    "name": "Raszków, pow. ostrowski"
+  },
+  {
+    "id": "2940",
+    "name": "Raszyn, pow. pruszkowski"
+  },
+  {
+    "id": "2326",
+    "name": "Rawa Mazowiecka, pow. rawski"
+  },
+  {
+    "id": "2636",
+    "name": "Rawicz, pow. rawicki"
+  },
+  {
+    "id": "1606",
+    "name": "Recz, pow. choszczeński"
+  },
+  {
+    "id": "2297",
+    "name": "Ręczno, pow. piotrkowski"
+  },
+  {
+    "id": "2009",
+    "name": "Reda, pow. wejherowski"
+  },
+  {
+    "id": "763",
+    "name": "Rędziny, pow. częstochowski"
+  },
+  {
+    "id": "2744",
+    "name": "Regimin, pow. ciechanowski"
+  },
+  {
+    "id": "2331",
+    "name": "Regnów, pow. rawski"
+  },
+  {
+    "id": "1285",
+    "name": "Rejowiec, pow. chełmski"
+  },
+  {
+    "id": "1249",
+    "name": "Rejowiec Fabryczny, pow. chełmski"
+  },
+  {
+    "id": "898",
+    "name": "Reńska Wieś, pow. kędzierzyńsko-kozielski"
+  },
+  {
+    "id": "3018",
+    "name": "Repki, pow. sokołowski"
+  },
+  {
+    "id": "1688",
+    "name": "Resko, pow. łobeski"
+  },
+  {
+    "id": "1511",
+    "name": "Reszel, pow. kętrzyński"
+  },
+  {
+    "id": "1639",
+    "name": "Rewal, pow. gryficki"
+  },
+  {
+    "id": "2217",
+    "name": "Rogów, pow. brzeziński"
+  },
+  {
+    "id": "2199",
+    "name": "Rogowo, pow. żniński"
+  },
+  {
+    "id": "2126",
+    "name": "Rogowo, pow. rypiński"
+  },
+  {
+    "id": "2565",
+    "name": "Rogoźno, pow. obornicki"
+  },
+  {
+    "id": "2075",
+    "name": "Rogóźno, pow. grudziądzki"
+  },
+  {
+    "id": "2088",
+    "name": "Rojewo, pow. inowrocławski"
+  },
+  {
+    "id": "2363",
+    "name": "Rokiciny, pow. tomaszowski"
+  },
+  {
+    "id": "2631",
+    "name": "Rokietnica, pow. poznański"
+  },
+  {
+    "id": "32",
+    "name": "Rokietnica, pow. jarosławski"
+  },
+  {
+    "id": "1223",
+    "name": "Rokitno, pow. bialski"
+  },
+  {
+    "id": "508",
+    "name": "Ropa, pow. gorlicki"
+  },
+  {
+    "id": "139",
+    "name": "Ropczyce, pow. ropczycko-sędziszowski"
+  },
+  {
+    "id": "3000",
+    "name": "Rościszewo, pow. sierpecki"
+  },
+  {
+    "id": "1224",
+    "name": "Rossosz, pow. bialski"
+  },
+  {
+    "id": "2817",
+    "name": "Różan, pow. makowski"
+  },
+  {
+    "id": "2536",
+    "name": "Rozdrażew, pow. krotoszyński"
+  },
+  {
+    "id": "1587",
+    "name": "Rozogi, pow. szczycieński"
+  },
+  {
+    "id": "2298",
+    "name": "Rozprza, pow. piotrkowski"
+  },
+  {
+    "id": "33",
+    "name": "Roźwienica, pow. jarosławski"
+  },
+  {
+    "id": "1577",
+    "name": "Ruciane-Nida, pow. piski"
+  },
+  {
+    "id": "1257",
+    "name": "Ruda-Huta, pow. chełmski"
+  },
+  {
+    "id": "392",
+    "name": "Ruda Maleniecka, pow. konecki"
+  },
+  {
+    "id": "697",
+    "name": "Ruda Śląska"
+  },
+  {
+    "id": "231",
+    "name": "Rudka, pow. bielski"
+  },
+  {
+    "id": "1074",
+    "name": "Rudna, pow. lubiński"
+  },
+  {
+    "id": "1286",
+    "name": "Rudnik, pow. krasnostawski"
+  },
+  {
+    "id": "822",
+    "name": "Rudnik, pow. raciborski"
+  },
+  {
+    "id": "943",
+    "name": "Rudniki, pow. oleski"
+  },
+  {
+    "id": "108",
+    "name": "Rudnik nad Sanem, pow. niżański"
+  },
+  {
+    "id": "772",
+    "name": "Rudziniec, pow. gliwicki"
+  },
+  {
+    "id": "1062",
+    "name": "Ruja, pow. legnicki"
+  },
+  {
+    "id": "2010",
+    "name": "Rumia, pow. wejherowski"
+  },
+  {
+    "id": "2210",
+    "name": "Rusiec, pow. bełchatowski"
+  },
+  {
+    "id": "2956",
+    "name": "Rusinów, pow. przysuski"
+  },
+  {
+    "id": "314",
+    "name": "Rutka-Tartak, pow. suwalski"
+  },
+  {
+    "id": "331",
+    "name": "Rutki, pow. zambrowski"
+  },
+  {
+    "id": "1402",
+    "name": "Rybczewice, pow. świdnicki"
+  },
+  {
+    "id": "698",
+    "name": "Rybnik"
+  },
+  {
+    "id": "823",
+    "name": "Rybnik, pow. rybnicki"
+  },
+  {
+    "id": "3009",
+    "name": "Rybno, pow. sochaczewski"
+  },
+  {
+    "id": "1470",
+    "name": "Rybno, pow. działdowski"
+  },
+  {
+    "id": "1482",
+    "name": "Rychliki, pow. elbląski"
+  },
+  {
+    "id": "2484",
+    "name": "Rychtal, pow. kępiński"
+  },
+  {
+    "id": "2503",
+    "name": "Rychwał, pow. koniński"
+  },
+  {
+    "id": "2568",
+    "name": "Ryczywół, pow. obornicki"
+  },
+  {
+    "id": "842",
+    "name": "Rydułtowy, pow. wodzisławski"
+  },
+  {
+    "id": "2540",
+    "name": "Rydzyna, pow. leszczyński"
+  },
+  {
+    "id": "642",
+    "name": "Ryglice, pow. tarnowski"
+  },
+  {
+    "id": "1940",
+    "name": "Ryjewo, pow. kwidzyński"
+  },
+  {
+    "id": "1390",
+    "name": "Ryki, pow. rycki"
+  },
+  {
+    "id": "1671",
+    "name": "Rymań, pow. kołobrzeski"
+  },
+  {
+    "id": "56",
+    "name": "Rymanów, pow. krośnieński"
+  },
+  {
+    "id": "1493",
+    "name": "Ryn, pow. giżycki"
+  },
+  {
+    "id": "2124",
+    "name": "Rypin, pow. rypiński"
+  },
+  {
+    "id": "585",
+    "name": "Rytro, pow. nowosądecki"
+  },
+  {
+    "id": "452",
+    "name": "Rytwiany, pow. staszowski"
+  },
+  {
+    "id": "2285",
+    "name": "Rząśnia, pow. pajęczański"
+  },
+  {
+    "id": "3067",
+    "name": "Rząśnik, pow. wyszkowski"
+  },
+  {
+    "id": "1908",
+    "name": "Rzeczenica, pow. człuchowski"
+  },
+  {
+    "id": "2806",
+    "name": "Rzeczniów, pow. lipski"
+  },
+  {
+    "id": "2364",
+    "name": "Rzeczyca, pow. tomaszowski"
+  },
+  {
+    "id": "2871",
+    "name": "Rzekuń, pow. ostrołęcki"
+  },
+  {
+    "id": "651",
+    "name": "Rzepiennik Strzyżewski, pow. tarnowski"
+  },
+  {
+    "id": "1803",
+    "name": "Rzepin, pow. słubicki"
+  },
+  {
+    "id": "3",
+    "name": "Rzeszów"
+  },
+  {
+    "id": "146",
+    "name": "Rzeszów, pow. rzeszowski"
+  },
+  {
+    "id": "2824",
+    "name": "Rzewnie, pow. makowski"
+  },
+  {
+    "id": "472",
+    "name": "Rzezawa, pow. bocheński"
+  },
+  {
+    "id": "2513",
+    "name": "Rzgów, pow. koniński"
+  },
+  {
+    "id": "2260",
+    "name": "Rzgów, pow. łódzki wschodni"
+  },
+  {
+    "id": "3019",
+    "name": "Sabnie, pow. sokołowski"
+  },
+  {
+    "id": "2114",
+    "name": "Sadki, pow. nakielski"
+  },
+  {
+    "id": "2332",
+    "name": "Sadkowice, pow. rawski"
+  },
+  {
+    "id": "1941",
+    "name": "Sadlinki, pow. kwidzyński"
+  },
+  {
+    "id": "403",
+    "name": "Sadowie, pow. opatowski"
+  },
+  {
+    "id": "3046",
+    "name": "Sadowne, pow. węgrowski"
+  },
+  {
+    "id": "429",
+    "name": "Samborzec, pow. sandomierski"
+  },
+  {
+    "id": "421",
+    "name": "Sandomierz, pow. sandomierski"
+  },
+  {
+    "id": "2765",
+    "name": "Sanniki, pow. gostyniński"
+  },
+  {
+    "id": "165",
+    "name": "Sanok, pow. sanocki"
+  },
+  {
+    "id": "1770",
+    "name": "Santok, pow. gorzowski"
+  },
+  {
+    "id": "2814",
+    "name": "Sarnaki, pow. łosicki"
+  },
+  {
+    "id": "1258",
+    "name": "Sawin, pow. chełmski"
+  },
+  {
+    "id": "1072",
+    "name": "Ścinawa, pow. lubiński"
+  },
+  {
+    "id": "460",
+    "name": "Secemin, pow. włoszczowski"
+  },
+  {
+    "id": "2234",
+    "name": "Sędziejowice, pow. łaski"
+  },
+  {
+    "id": "346",
+    "name": "Sędziszów, pow. jędrzejowski"
+  },
+  {
+    "id": "140",
+    "name": "Sędziszów Małopolski, pow. ropczycko-sędziszowski"
+  },
+  {
+    "id": "280",
+    "name": "Sejny, pow. sejneński"
+  },
+  {
+    "id": "509",
+    "name": "Sękowa, pow. gorlicki"
+  },
+  {
+    "id": "2130",
+    "name": "Sępólno Krajeńskie, pow. sępoleński"
+  },
+  {
+    "id": "1450",
+    "name": "Sępopol, pow. bartoszycki"
+  },
+  {
+    "id": "1313",
+    "name": "Serniki, pow. lubartowski"
+  },
+  {
+    "id": "2797",
+    "name": "Serock, pow. legionowski"
+  },
+  {
+    "id": "1346",
+    "name": "Serokomla, pow. łukowski"
+  },
+  {
+    "id": "1677",
+    "name": "Sianów, pow. koszaliński"
+  },
+  {
+    "id": "2052",
+    "name": "Sicienko, pow. bydgoski"
+  },
+  {
+    "id": "304",
+    "name": "Sidra, pow. sokólski"
+  },
+  {
+    "id": "1168",
+    "name": "Siechnice, pow. wrocławski"
+  },
+  {
+    "id": "2795",
+    "name": "Sieciechów, pow. kozienicki"
+  },
+  {
+    "id": "2726",
+    "name": "Siedlce"
+  },
+  {
+    "id": "2982",
+    "name": "Siedlce, pow. siedlecki"
+  },
+  {
+    "id": "2701",
+    "name": "Siedlec, pow. wolsztyński"
+  },
+  {
+    "id": "1799",
+    "name": "Siedlisko, pow. nowosolski"
+  },
+  {
+    "id": "1259",
+    "name": "Siedliszcze, pow. chełmski"
+  },
+  {
+    "id": "1070",
+    "name": "Siekierczyn, pow. lubański"
+  },
+  {
+    "id": "699",
+    "name": "Siemianowice Śląskie"
+  },
+  {
+    "id": "3083",
+    "name": "Siemiątkowo, pow. żuromiński"
+  },
+  {
+    "id": "285",
+    "name": "Siemiatycze, pow. siemiatycki"
+  },
+  {
+    "id": "1367",
+    "name": "Siemień, pow. parczewski"
+  },
+  {
+    "id": "2286",
+    "name": "Siemkowice, pow. pajęczański"
+  },
+  {
+    "id": "1672",
+    "name": "Siemyśl, pow. kołobrzeski"
+  },
+  {
+    "id": "130",
+    "name": "Sieniawa, pow. przeworski"
+  },
+  {
+    "id": "2840",
+    "name": "Siennica, pow. miński"
+  },
+  {
+    "id": "1287",
+    "name": "Siennica Różana, pow. krasnostawski"
+  },
+  {
+    "id": "2807",
+    "name": "Sienno, pow. lipski"
+  },
+  {
+    "id": "562",
+    "name": "Siepraw, pow. myślenicki"
+  },
+  {
+    "id": "2333",
+    "name": "Sieradz, pow. sieradzki"
+  },
+  {
+    "id": "2549",
+    "name": "Sieraków, pow. międzychodzki"
+  },
+  {
+    "id": "1922",
+    "name": "Sierakowice, pow. kartuski"
+  },
+  {
+    "id": "2578",
+    "name": "Sieroszewice, pow. ostrowski"
+  },
+  {
+    "id": "2997",
+    "name": "Sierpc, pow. sierpecki"
+  },
+  {
+    "id": "707",
+    "name": "Siewierz, pow. będziński"
+  },
+  {
+    "id": "383",
+    "name": "Sitkówka-Nowiny, pow. kielecki"
+  },
+  {
+    "id": "1438",
+    "name": "Sitno, pow. zamojski"
+  },
+  {
+    "id": "513",
+    "name": "Skała, pow. krakowski"
+  },
+  {
+    "id": "357",
+    "name": "Skalbmierz, pow. kazimierski"
+  },
+  {
+    "id": "1829",
+    "name": "Skąpe, pow. świebodziński"
+  },
+  {
+    "id": "885",
+    "name": "Skarbimierz, pow. brzeski"
+  },
+  {
+    "id": "1981",
+    "name": "Skarszewy, pow. starogardzki"
+  },
+  {
+    "id": "2969",
+    "name": "Skaryszew, pow. radomski"
+  },
+  {
+    "id": "432",
+    "name": "Skarżysko-Kamienna, pow. skarżyski"
+  },
+  {
+    "id": "436",
+    "name": "Skarżysko-Kościelne, pow. skarżyski"
+  },
+  {
+    "id": "514",
+    "name": "Skawina, pow. krakowski"
+  },
+  {
+    "id": "2092",
+    "name": "Skępe, pow. lipnowski"
+  },
+  {
+    "id": "1439",
+    "name": "Skierbieszów, pow. zamojski"
+  },
+  {
+    "id": "2203",
+    "name": "Skierniewice"
+  },
+  {
+    "id": "2347",
+    "name": "Skierniewice, pow. skierniewicki"
+  },
+  {
+    "id": "733",
+    "name": "Skoczów, pow. cieszyński"
+  },
+  {
+    "id": "2692",
+    "name": "Skoki, pow. wągrowiecki"
+  },
+  {
+    "id": "43",
+    "name": "Skołyszyn, pow. jasielski"
+  },
+  {
+    "id": "2376",
+    "name": "Skomlin, pow. wieluński"
+  },
+  {
+    "id": "1982",
+    "name": "Skórcz, pow. starogardzki"
+  },
+  {
+    "id": "933",
+    "name": "Skoroszyce, pow. nyski"
+  },
+  {
+    "id": "2992",
+    "name": "Skórzec, pow. siedlecki"
+  },
+  {
+    "id": "2128",
+    "name": "Skrwilno, pow. rypiński"
+  },
+  {
+    "id": "652",
+    "name": "Skrzyszów, pow. tarnowski"
+  },
+  {
+    "id": "2514",
+    "name": "Skulsk, pow. koniński"
+  },
+  {
+    "id": "1781",
+    "name": "Skwierzyna, pow. międzyrzecki"
+  },
+  {
+    "id": "553",
+    "name": "Słaboszów, pow. miechowski"
+  },
+  {
+    "id": "1834",
+    "name": "Sława, pow. wschowski"
+  },
+  {
+    "id": "1225",
+    "name": "Sławatycze, pow. bialski"
+  },
+  {
+    "id": "708",
+    "name": "Sławków, pow. będziński"
+  },
+  {
+    "id": "2270",
+    "name": "Sławno, pow. opoczyński"
+  },
+  {
+    "id": "1717",
+    "name": "Sławno, pow. sławieński"
+  },
+  {
+    "id": "1751",
+    "name": "Sławoborze, pow. świdwiński"
+  },
+  {
+    "id": "873",
+    "name": "Ślemień, pow. żywiecki"
+  },
+  {
+    "id": "2505",
+    "name": "Ślesin, pow. koniński"
+  },
+  {
+    "id": "2165",
+    "name": "Śliwice, pow. tucholski"
+  },
+  {
+    "id": "515",
+    "name": "Słomniki, pow. krakowski"
+  },
+  {
+    "id": "1822",
+    "name": "Słońsk, pow. sulęciński"
+  },
+  {
+    "id": "544",
+    "name": "Słopnice, pow. limanowski"
+  },
+  {
+    "id": "2917",
+    "name": "Słubice, pow. płocki"
+  },
+  {
+    "id": "1800",
+    "name": "Słubice, pow. słubicki"
+  },
+  {
+    "id": "2645",
+    "name": "Słupca, pow. słupecki"
+  },
+  {
+    "id": "2356",
+    "name": "Słupia, pow. skierniewicki"
+  },
+  {
+    "id": "353",
+    "name": "Słupia, pow. jędrzejowski"
+  },
+  {
+    "id": "393",
+    "name": "Słupia Konecka, pow. konecki"
+  },
+  {
+    "id": "2918",
+    "name": "Słupno, pow. płocki"
+  },
+  {
+    "id": "1879",
+    "name": "Słupsk"
+  },
+  {
+    "id": "1967",
+    "name": "Słupsk, pow. słupski"
+  },
+  {
+    "id": "1990",
+    "name": "Smętowo Graniczne, pow. starogardzki"
+  },
+  {
+    "id": "2523",
+    "name": "Śmigiel, pow. kościański"
+  },
+  {
+    "id": "1977",
+    "name": "Smołdzino, pow. słupski"
+  },
+  {
+    "id": "394",
+    "name": "Smyków, pow. konecki"
+  },
+  {
+    "id": "267",
+    "name": "Śniadowo, pow. łomżyński"
+  },
+  {
+    "id": "2892",
+    "name": "Sobienie-Jeziory, pow. otwocki"
+  },
+  {
+    "id": "354",
+    "name": "Sobków, pow. jędrzejowski"
+  },
+  {
+    "id": "2758",
+    "name": "Sobolew, pow. garwoliński"
+  },
+  {
+    "id": "1169",
+    "name": "Sobótka, pow. wrocławski"
+  },
+  {
+    "id": "3004",
+    "name": "Sochaczew, pow. sochaczewski"
+  },
+  {
+    "id": "2932",
+    "name": "Sochocin, pow. płoński"
+  },
+  {
+    "id": "295",
+    "name": "Sokółka, pow. sokólski"
+  },
+  {
+    "id": "2385",
+    "name": "Sokolniki, pow. wieruszowski"
+  },
+  {
+    "id": "150",
+    "name": "Sokołów Małopolski, pow. rzeszowski"
+  },
+  {
+    "id": "3012",
+    "name": "Sokołów Podlaski, pow. sokołowski"
+  },
+  {
+    "id": "326",
+    "name": "Sokoły, pow. wysokomazowiecki"
+  },
+  {
+    "id": "2045",
+    "name": "Solec Kujawski, pow. bydgoski"
+  },
+  {
+    "id": "2808",
+    "name": "Solec nad Wisłą, pow. lipski"
+  },
+  {
+    "id": "340",
+    "name": "Solec-Zdrój, pow. buski"
+  },
+  {
+    "id": "71",
+    "name": "Solina, pow. leski"
+  },
+  {
+    "id": "3068",
+    "name": "Somianka, pow. wyszkowski"
+  },
+  {
+    "id": "1923",
+    "name": "Somonino, pow. kartuski"
+  },
+  {
+    "id": "2504",
+    "name": "Sompolno, pow. koniński"
+  },
+  {
+    "id": "2745",
+    "name": "Sońsk, pow. ciechanowski"
+  },
+  {
+    "id": "1880",
+    "name": "Sopot"
+  },
+  {
+    "id": "1528",
+    "name": "Sorkwity, pow. mrągowski"
+  },
+  {
+    "id": "768",
+    "name": "Sośnicowice, pow. gliwicki"
+  },
+  {
+    "id": "2579",
+    "name": "Sośnie, pow. ostrowski"
+  },
+  {
+    "id": "2135",
+    "name": "Sośno, pow. sępoleński"
+  },
+  {
+    "id": "1368",
+    "name": "Sosnowica, pow. parczewski"
+  },
+  {
+    "id": "700",
+    "name": "Sosnowiec"
+  },
+  {
+    "id": "1226",
+    "name": "Sosnówka, pow. bialski"
+  },
+  {
+    "id": "1340",
+    "name": "Spiczyn, pow. łęczyński"
+  },
+  {
+    "id": "674",
+    "name": "Spytkowice, pow. wadowicki"
+  },
+  {
+    "id": "600",
+    "name": "Spytkowice, pow. nowotarski"
+  },
+  {
+    "id": "2672",
+    "name": "Śrem, pow. śremski"
+  },
+  {
+    "id": "1123",
+    "name": "Środa Śląska, pow. średzki"
+  },
+  {
+    "id": "2666",
+    "name": "Środa Wielkopolska, pow. średzki"
+  },
+  {
+    "id": "1516",
+    "name": "Srokowo, pow. kętrzyński"
+  },
+  {
+    "id": "174",
+    "name": "Stalowa Wola, pow. stalowowolski"
+  },
+  {
+    "id": "1347",
+    "name": "Stanin, pow. łukowski"
+  },
+  {
+    "id": "2841",
+    "name": "Stanisławów, pow. miński"
+  },
+  {
+    "id": "387",
+    "name": "Stąporków, pow. konecki"
+  },
+  {
+    "id": "2919",
+    "name": "Stara Biała, pow. płocki"
+  },
+  {
+    "id": "2733",
+    "name": "Stara Błotnica, pow. białobrzeski"
+  },
+  {
+    "id": "438",
+    "name": "Starachowice, pow. starachowicki"
+  },
+  {
+    "id": "1734",
+    "name": "Stara Dąbrowa, pow. stargardzki"
+  },
+  {
+    "id": "1027",
+    "name": "Stara Kamienica, pow. jeleniogórski"
+  },
+  {
+    "id": "1934",
+    "name": "Stara Kiszewa, pow. kościerski"
+  },
+  {
+    "id": "2815",
+    "name": "Stara Kornica, pow. łosicki"
+  },
+  {
+    "id": "764",
+    "name": "Starcza, pow. częstochowski"
+  },
+  {
+    "id": "3038",
+    "name": "Stare Babice, pow. warszawski zachodni"
+  },
+  {
+    "id": "1159",
+    "name": "Stare Bogaczowice, pow. wałbrzyski"
+  },
+  {
+    "id": "1653",
+    "name": "Stare Czarnowo, pow. gryfiński"
+  },
+  {
+    "id": "1488",
+    "name": "Stare Juchy, pow. ełcki"
+  },
+  {
+    "id": "1814",
+    "name": "Stare Kurowo, pow. strzelecko-drezdenecki"
+  },
+  {
+    "id": "2516",
+    "name": "Stare Miasto, pow. koniński"
+  },
+  {
+    "id": "1953",
+    "name": "Stare Pole, pow. malborski"
+  },
+  {
+    "id": "1723",
+    "name": "Stargard Szczeciński, pow. stargardzki"
+  },
+  {
+    "id": "1979",
+    "name": "Starogard Gdański, pow. starogardzki"
+  },
+  {
+    "id": "2920",
+    "name": "Staroźreby, pow. płocki"
+  },
+  {
+    "id": "1421",
+    "name": "Stary Brus, pow. włodawski"
+  },
+  {
+    "id": "1997",
+    "name": "Stary Dzierzgoń, pow. sztumski"
+  },
+  {
+    "id": "87",
+    "name": "Stary Dzików, pow. lubaczowski"
+  },
+  {
+    "id": "51",
+    "name": "Stary Dzikowiec, pow. kolbuszowski"
+  },
+  {
+    "id": "2881",
+    "name": "Stary Lubotyń, pow. ostrowski"
+  },
+  {
+    "id": "571",
+    "name": "Stary Sącz, pow. nowosądecki"
+  },
+  {
+    "id": "1998",
+    "name": "Stary Targ, pow. sztumski"
+  },
+  {
+    "id": "1440",
+    "name": "Stary Zamość, pow. zamojski"
+  },
+  {
+    "id": "444",
+    "name": "Staszów, pow. staszowski"
+  },
+  {
+    "id": "1560",
+    "name": "Stawiguda, pow. olsztyński"
+  },
+  {
+    "id": "252",
+    "name": "Stawiski, pow. kolneński"
+  },
+  {
+    "id": "2466",
+    "name": "Stawiszyn, pow. kaliski"
+  },
+  {
+    "id": "1958",
+    "name": "Stegna, pow. nowodworski"
+  },
+  {
+    "id": "1631",
+    "name": "Stepnica, pow. goleniowski"
+  },
+  {
+    "id": "3021",
+    "name": "Sterdyń, pow. sokołowski"
+  },
+  {
+    "id": "2619",
+    "name": "Stęszew, pow. poznański"
+  },
+  {
+    "id": "1924",
+    "name": "Stężyca, pow. kartuski"
+  },
+  {
+    "id": "1395",
+    "name": "Stężyca, pow. rycki"
+  },
+  {
+    "id": "3047",
+    "name": "Stoczek, pow. węgrowski"
+  },
+  {
+    "id": "1342",
+    "name": "Stoczek Łukowski, pow. łukowski"
+  },
+  {
+    "id": "2059",
+    "name": "Stolno, pow. chełmiński"
+  },
+  {
+    "id": "341",
+    "name": "Stopnica, pow. buski"
+  },
+  {
+    "id": "1186",
+    "name": "Stoszowice, pow. ząbkowicki"
+  },
+  {
+    "id": "3061",
+    "name": "Strachówka, pow. wołomiński"
+  },
+  {
+    "id": "384",
+    "name": "Strawczyn, pow. kielecki"
+  },
+  {
+    "id": "2734",
+    "name": "Stromiec, pow. białobrzeski"
+  },
+  {
+    "id": "1042",
+    "name": "Stronie Śląskie, pow. kłodzki"
+  },
+  {
+    "id": "734",
+    "name": "Strumień, pow. cieszyński"
+  },
+  {
+    "id": "2396",
+    "name": "Stryków, pow. zgierski"
+  },
+  {
+    "id": "637",
+    "name": "Stryszawa, pow. suski"
+  },
+  {
+    "id": "675",
+    "name": "Stryszów, pow. wadowicki"
+  },
+  {
+    "id": "2652",
+    "name": "Strzałkowo, pow. słupecki"
+  },
+  {
+    "id": "1131",
+    "name": "Strzegom, pow. świdnicki"
+  },
+  {
+    "id": "2846",
+    "name": "Strzegowo, pow. mławski"
+  },
+  {
+    "id": "2229",
+    "name": "Strzelce, pow. kutnowski"
+  },
+  {
+    "id": "1809",
+    "name": "Strzelce Krajeńskie, pow. strzelecko-drezdenecki"
+  },
+  {
+    "id": "969",
+    "name": "Strzelce Opolskie, pow. strzelecki"
+  },
+  {
+    "id": "2287",
+    "name": "Strzelce Wielkie, pow. pajęczański"
+  },
+  {
+    "id": "911",
+    "name": "Strzeleczki, pow. krapkowicki"
+  },
+  {
+    "id": "1116",
+    "name": "Strzelin, pow. strzeliński"
+  },
+  {
+    "id": "2102",
+    "name": "Strzelno, pow. mogileński"
+  },
+  {
+    "id": "1329",
+    "name": "Strzyżewice, pow. lubelski"
+  },
+  {
+    "id": "180",
+    "name": "Strzyżów, pow. strzyżowski"
+  },
+  {
+    "id": "126",
+    "name": "Stubno, pow. przemyski"
+  },
+  {
+    "id": "1890",
+    "name": "Studzienice, pow. bytowski"
+  },
+  {
+    "id": "2847",
+    "name": "Stupsk, pow. mławski"
+  },
+  {
+    "id": "2006",
+    "name": "Subkowy, pow. tczewski"
+  },
+  {
+    "id": "630",
+    "name": "Sucha Beskidzka, pow. suski"
+  },
+  {
+    "id": "1727",
+    "name": "Suchań, pow. stargardzki"
+  },
+  {
+    "id": "433",
+    "name": "Suchedniów, pow. skarżyski"
+  },
+  {
+    "id": "297",
+    "name": "Suchowola, pow. sokólski"
+  },
+  {
+    "id": "2993",
+    "name": "Suchożebry, pow. siedlecki"
+  },
+  {
+    "id": "1915",
+    "name": "Suchy Dąb, pow. gdański"
+  },
+  {
+    "id": "2633",
+    "name": "Suchy Las, pow. poznański"
+  },
+  {
+    "id": "1843",
+    "name": "Sulechów, pow. zielonogórski"
+  },
+  {
+    "id": "1817",
+    "name": "Sulęcin, pow. sulęciński"
+  },
+  {
+    "id": "1925",
+    "name": "Sulęczyno, pow. kartuski"
+  },
+  {
+    "id": "2290",
+    "name": "Sulejów, pow. piotrkowski"
+  },
+  {
+    "id": "2830",
+    "name": "Sulejówek, pow. miński"
+  },
+  {
+    "id": "1197",
+    "name": "Sulików, pow. zgorzelecki"
+  },
+  {
+    "id": "556",
+    "name": "Sułkowice, pow. myślenicki"
+  },
+  {
+    "id": "2531",
+    "name": "Sulmierzyce, pow. krotoszyński"
+  },
+  {
+    "id": "2288",
+    "name": "Sulmierzyce, pow. pajęczański"
+  },
+  {
+    "id": "529",
+    "name": "Sułoszowa, pow. krakowski"
+  },
+  {
+    "id": "1441",
+    "name": "Sułów, pow. zamojski"
+  },
+  {
+    "id": "205",
+    "name": "Supraśl, pow. białostocki"
+  },
+  {
+    "id": "206",
+    "name": "Suraż, pow. białostocki"
+  },
+  {
+    "id": "1412",
+    "name": "Susiec, pow. tomaszowski"
+  },
+  {
+    "id": "1502",
+    "name": "Susz, pow. iławski"
+  },
+  {
+    "id": "812",
+    "name": "Suszec, pow. pszczyński"
+  },
+  {
+    "id": "308",
+    "name": "Suwałki, pow. suwalski"
+  },
+  {
+    "id": "2620",
+    "name": "Swarzędz, pow. poznański"
+  },
+  {
+    "id": "1561",
+    "name": "Świątki, pow. olsztyński"
+  },
+  {
+    "id": "516",
+    "name": "Świątniki Górne, pow. krakowski"
+  },
+  {
+    "id": "1849",
+    "name": "Świdnica, pow. zielonogórski"
+  },
+  {
+    "id": "1129",
+    "name": "Świdnica, pow. świdnicki"
+  },
+  {
+    "id": "1397",
+    "name": "Świdnik, pow. świdnicki"
+  },
+  {
+    "id": "1746",
+    "name": "Świdwin, pow. świdwiński"
+  },
+  {
+    "id": "1132",
+    "name": "Świebodzice, pow. świdnicki"
+  },
+  {
+    "id": "1825",
+    "name": "Świebodzin, pow. świebodziński"
+  },
+  {
+    "id": "2137",
+    "name": "Świecie, pow. świecki"
+  },
+  {
+    "id": "2545",
+    "name": "Święciechowa, pow. leszczyński"
+  },
+  {
+    "id": "2076",
+    "name": "Świecie nad Osą, pow. grudziądzki"
+  },
+  {
+    "id": "2041",
+    "name": "Świedziebnia, pow. brodnicki"
+  },
+  {
+    "id": "2148",
+    "name": "Świekatowo, pow. świecki"
+  },
+  {
+    "id": "1065",
+    "name": "Świeradów Zdrój, pow. lubański"
+  },
+  {
+    "id": "2963",
+    "name": "Świercze, pow. pułtuski"
+  },
+  {
+    "id": "918",
+    "name": "Świerczów, pow. namysłowski"
+  },
+  {
+    "id": "836",
+    "name": "Świerklaniec, pow. tarnogórski"
+  },
+  {
+    "id": "829",
+    "name": "Świerklany, pow. rybnicki"
+  },
+  {
+    "id": "1201",
+    "name": "Świerzawa, pow. złotoryjski"
+  },
+  {
+    "id": "1665",
+    "name": "Świerzno, pow. kamieński"
+  },
+  {
+    "id": "1685",
+    "name": "Świeszyno, pow. koszaliński"
+  },
+  {
+    "id": "1542",
+    "name": "Świętajno, pow. olecki"
+  },
+  {
+    "id": "1589",
+    "name": "Świętajno, pow. szczycieński"
+  },
+  {
+    "id": "1177",
+    "name": "Święta Katarzyna, pow. wrocławski"
+  },
+  {
+    "id": "701",
+    "name": "Świętochłowice"
+  },
+  {
+    "id": "162",
+    "name": "Świlcza, pow. rzeszowski"
+  },
+  {
+    "id": "2243",
+    "name": "Świnice Warckie, pow. łęczycki"
+  },
+  {
+    "id": "874",
+    "name": "Świnna, pow. żywiecki"
+  },
+  {
+    "id": "1597",
+    "name": "Świnoujście"
+  },
+  {
+    "id": "1093",
+    "name": "Syców, pow. oleśnicki"
+  },
+  {
+    "id": "2825",
+    "name": "Sypniewo, pow. makowski"
+  },
+  {
+    "id": "2388",
+    "name": "Szadek, pow. zduńskowolski"
+  },
+  {
+    "id": "601",
+    "name": "Szaflary, pow. nowotarski"
+  },
+  {
+    "id": "2409",
+    "name": "Szamocin, pow. chodzieski"
+  },
+  {
+    "id": "2654",
+    "name": "Szamotuły, pow. szamotulski"
+  },
+  {
+    "id": "1295",
+    "name": "Szastarka, pow. kraśnicki"
+  },
+  {
+    "id": "1830",
+    "name": "Szczaniec, pow. świebodziński"
+  },
+  {
+    "id": "2766",
+    "name": "Szczawin Kościelny, pow. gostyniński"
+  },
+  {
+    "id": "589",
+    "name": "Szczawnica, pow. nowotarski"
+  },
+  {
+    "id": "1155",
+    "name": "Szczawno-Zdrój, pow. wałbrzyski"
+  },
+  {
+    "id": "1428",
+    "name": "Szczebrzeszyn, pow. zamojski"
+  },
+  {
+    "id": "1596",
+    "name": "Szczecin"
+  },
+  {
+    "id": "1737",
+    "name": "Szczecinek, pow. szczecinecki"
+  },
+  {
+    "id": "853",
+    "name": "Szczekociny, pow. zawierciański"
+  },
+  {
+    "id": "2211",
+    "name": "Szczerców, pow. bełchatowski"
+  },
+  {
+    "id": "500",
+    "name": "Szczucin, pow. dąbrowski"
+  },
+  {
+    "id": "235",
+    "name": "Szczuczyn, pow. grajewski"
+  },
+  {
+    "id": "483",
+    "name": "Szczurowa, pow. brzeski"
+  },
+  {
+    "id": "3002",
+    "name": "Szczutowo, pow. sierpecki"
+  },
+  {
+    "id": "716",
+    "name": "Szczyrk, pow. bielski"
+  },
+  {
+    "id": "1043",
+    "name": "Szczytna, pow. kłodzki"
+  },
+  {
+    "id": "2476",
+    "name": "Szczytniki, pow. kaliski"
+  },
+  {
+    "id": "1582",
+    "name": "Szczytno, pow. szczycieński"
+  },
+  {
+    "id": "2826",
+    "name": "Szelków, pow. makowski"
+  },
+  {
+    "id": "2016",
+    "name": "Szemud, pow. wejherowski"
+  },
+  {
+    "id": "327",
+    "name": "Szepietowo, pow. wysokomazowiecki"
+  },
+  {
+    "id": "653",
+    "name": "Szerzyny, pow. tarnowski"
+  },
+  {
+    "id": "1022",
+    "name": "Szklarska Poręba, pow. jeleniogórski"
+  },
+  {
+    "id": "1835",
+    "name": "Szlichtyngowa, pow. wschowski"
+  },
+  {
+    "id": "1857",
+    "name": "Szprotawa, pow. żagański"
+  },
+  {
+    "id": "2848",
+    "name": "Szreńsk, pow. mławski"
+  },
+  {
+    "id": "200",
+    "name": "Sztabin, pow. augustowski"
+  },
+  {
+    "id": "1993",
+    "name": "Sztum, pow. sztumski"
+  },
+  {
+    "id": "1959",
+    "name": "Sztutowo, pow. nowodworski"
+  },
+  {
+    "id": "2110",
+    "name": "Szubin, pow. nakielski"
+  },
+  {
+    "id": "307",
+    "name": "Szudziałowo, pow. sokólski"
+  },
+  {
+    "id": "2882",
+    "name": "Szulborze Wielkie, pow. ostrowski"
+  },
+  {
+    "id": "332",
+    "name": "Szumowo, pow. zambrowski"
+  },
+  {
+    "id": "454",
+    "name": "Szydłów, pow. staszowski"
+  },
+  {
+    "id": "3022",
+    "name": "Szydłowiec, pow. szydłowiecki"
+  },
+  {
+    "id": "2849",
+    "name": "Szydłowo, pow. mławski"
+  },
+  {
+    "id": "2599",
+    "name": "Szydłowo, pow. pilski"
+  },
+  {
+    "id": "316",
+    "name": "Szypliszki, pow. suwalski"
+  },
+  {
+    "id": "2902",
+    "name": "Tarczyn, pow. piaseczyński"
+  },
+  {
+    "id": "404",
+    "name": "Tarłów, pow. opatowski"
+  },
+  {
+    "id": "1413",
+    "name": "Tarnawatka, pow. tomaszowski"
+  },
+  {
+    "id": "4",
+    "name": "Tarnobrzeg"
+  },
+  {
+    "id": "186",
+    "name": "Tarnobrzeg, pow. tarnobrzeski"
+  },
+  {
+    "id": "1234",
+    "name": "Tarnogród, pow. biłgorajski"
+  },
+  {
+    "id": "464",
+    "name": "Tarnów"
+  },
+  {
+    "id": "640",
+    "name": "Tarnów, pow. tarnowski"
+  },
+  {
+    "id": "44",
+    "name": "Tarnowiec, pow. jasielski"
+  },
+  {
+    "id": "2720",
+    "name": "Tarnówka, pow. złotowski"
+  },
+  {
+    "id": "2635",
+    "name": "Tarnowo Podgórne, pow. poznański"
+  },
+  {
+    "id": "959",
+    "name": "Tarnów Opolski, pow. opolski"
+  },
+  {
+    "id": "830",
+    "name": "Tarnowskie Góry, pow. tarnogórski"
+  },
+  {
+    "id": "2000",
+    "name": "Tczew, pow. tczewski"
+  },
+  {
+    "id": "3075",
+    "name": "Tczów, pow. zwoleński"
+  },
+  {
+    "id": "1414",
+    "name": "Telatyn, pow. tomaszowski"
+  },
+  {
+    "id": "3011",
+    "name": "Teresin, pow. sochaczewski"
+  },
+  {
+    "id": "1213",
+    "name": "Terespol, pow. bialski"
+  },
+  {
+    "id": "1246",
+    "name": "Tereszpol, pow. biłgorajski"
+  },
+  {
+    "id": "2099",
+    "name": "Tłuchowo, pow. lipnowski"
+  },
+  {
+    "id": "3053",
+    "name": "Tłuszcz, pow. wołomiński"
+  },
+  {
+    "id": "564",
+    "name": "Tokarnia, pow. myślenicki"
+  },
+  {
+    "id": "1474",
+    "name": "Tolkmicko, pow. elbląski"
+  },
+  {
+    "id": "1404",
+    "name": "Tomaszów Lubelski, pow. tomaszowski"
+  },
+  {
+    "id": "2357",
+    "name": "Tomaszów Mazowiecki, pow. tomaszowski"
+  },
+  {
+    "id": "676",
+    "name": "Tomice, pow. wadowicki"
+  },
+  {
+    "id": "2123",
+    "name": "Topólka, pow. radziejowski"
+  },
+  {
+    "id": "2020",
+    "name": "Toruń"
+  },
+  {
+    "id": "2150",
+    "name": "Toruń, pow. toruński"
+  },
+  {
+    "id": "1819",
+    "name": "Torzym, pow. sulęciński"
+  },
+  {
+    "id": "769",
+    "name": "Toszek, pow. gliwicki"
+  },
+  {
+    "id": "1916",
+    "name": "Trąbki Wielkie, pow. gdański"
+  },
+  {
+    "id": "1403",
+    "name": "Trawniki, pow. świdnicki"
+  },
+  {
+    "id": "2759",
+    "name": "Trojanów, pow. garwoliński"
+  },
+  {
+    "id": "2872",
+    "name": "Troszyn, pow. ostrołęcki"
+  },
+  {
+    "id": "137",
+    "name": "Tryńcza, pow. przeworski"
+  },
+  {
+    "id": "473",
+    "name": "Trzciana, pow. bocheński"
+  },
+  {
+    "id": "2416",
+    "name": "Trzcianka, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "279",
+    "name": "Trzcianne, pow. moniecki"
+  },
+  {
+    "id": "1782",
+    "name": "Trzciel, pow. międzyrzecki"
+  },
+  {
+    "id": "2485",
+    "name": "Trzcinica, pow. kępiński"
+  },
+  {
+    "id": "1646",
+    "name": "Trzcińsko-Zdrój, pow. gryfiński"
+  },
+  {
+    "id": "1634",
+    "name": "Trzebiatów, pow. gryficki"
+  },
+  {
+    "id": "1850",
+    "name": "Trzebiechów, pow. zielonogórski"
+  },
+  {
+    "id": "1874",
+    "name": "Trzebiel, pow. żarski"
+  },
+  {
+    "id": "1891",
+    "name": "Trzebielino, pow. bytowski"
+  },
+  {
+    "id": "1349",
+    "name": "Trzebieszów, pow. łukowski"
+  },
+  {
+    "id": "487",
+    "name": "Trzebinia, pow. chrzanowski"
+  },
+  {
+    "id": "1140",
+    "name": "Trzebnica, pow. trzebnicki"
+  },
+  {
+    "id": "163",
+    "name": "Trzebownisko, pow. rzeszowski"
+  },
+  {
+    "id": "2428",
+    "name": "Trzemeszno, pow. gnieźnieński"
+  },
+  {
+    "id": "1268",
+    "name": "Trzeszczany, pow. hrubieszowski"
+  },
+  {
+    "id": "608",
+    "name": "Trzyciąż, pow. olkuski"
+  },
+  {
+    "id": "1296",
+    "name": "Trzydnik Duży, pow. kraśnicki"
+  },
+  {
+    "id": "2160",
+    "name": "Tuchola, pow. tucholski"
+  },
+  {
+    "id": "1892",
+    "name": "Tuchomie, pow. bytowski"
+  },
+  {
+    "id": "643",
+    "name": "Tuchów, pow. tarnowski"
+  },
+  {
+    "id": "342",
+    "name": "Tuczępy, pow. buski"
+  },
+  {
+    "id": "1228",
+    "name": "Tuczna, pow. bialski"
+  },
+  {
+    "id": "1756",
+    "name": "Tuczno, pow. wałecki"
+  },
+  {
+    "id": "2681",
+    "name": "Tuliszków, pow. turecki"
+  },
+  {
+    "id": "960",
+    "name": "Tułowice, pow. opolski"
+  },
+  {
+    "id": "1875",
+    "name": "Tuplice, pow. żarski"
+  },
+  {
+    "id": "961",
+    "name": "Turawa, pow. opolski"
+  },
+  {
+    "id": "2679",
+    "name": "Turek, pow. turkowski"
+  },
+  {
+    "id": "1247",
+    "name": "Turobin, pow. biłgorajski"
+  },
+  {
+    "id": "257",
+    "name": "Turośl, pow. kolneński"
+  },
+  {
+    "id": "220",
+    "name": "Turośń Kościelna, pow. białostocki"
+  },
+  {
+    "id": "105",
+    "name": "Tuszów Narodowy, pow. mielecki"
+  },
+  {
+    "id": "2256",
+    "name": "Tuszyn, pow. łódzki wschodni"
+  },
+  {
+    "id": "1094",
+    "name": "Twardogóra, pow. oleśnicki"
+  },
+  {
+    "id": "837",
+    "name": "Tworóg, pow. tarnogórski"
+  },
+  {
+    "id": "1602",
+    "name": "Tychowo, pow. białogardzki"
+  },
+  {
+    "id": "702",
+    "name": "Tychy"
+  },
+  {
+    "id": "151",
+    "name": "Tyczyn, pow. rzeszowski"
+  },
+  {
+    "id": "207",
+    "name": "Tykocin, pow. białostocki"
+  },
+  {
+    "id": "545",
+    "name": "Tymbark, pow. limanowski"
+  },
+  {
+    "id": "171",
+    "name": "Tyrawa Wołoska, pow. sanocki"
+  },
+  {
+    "id": "1405",
+    "name": "Tyszowce, pow. tomaszowski"
+  },
+  {
+    "id": "1269",
+    "name": "Uchanie, pow. hrubieszowski"
+  },
+  {
+    "id": "1128",
+    "name": "Udanin, pow. średzki"
+  },
+  {
+    "id": "2366",
+    "name": "Ujazd, pow. tomaszowski"
+  },
+  {
+    "id": "972",
+    "name": "Ujazd, pow. strzelecki"
+  },
+  {
+    "id": "2592",
+    "name": "Ujście, pow. pilski"
+  },
+  {
+    "id": "875",
+    "name": "Ujsoły, pow. żywiecki"
+  },
+  {
+    "id": "1388",
+    "name": "Ulan-Majorat, pow. radzyński"
+  },
+  {
+    "id": "109",
+    "name": "Ulanów, pow. niżański"
+  },
+  {
+    "id": "1396",
+    "name": "Ułęż, pow. rycki"
+  },
+  {
+    "id": "1417",
+    "name": "Ulhówek, pow. tomaszowski"
+  },
+  {
+    "id": "2303",
+    "name": "Uniejów, pow. poddębicki"
+  },
+  {
+    "id": "2060",
+    "name": "Unisław, pow. chełmiński"
+  },
+  {
+    "id": "1422",
+    "name": "Urszulin, pow. włodawski"
+  },
+  {
+    "id": "1297",
+    "name": "Urzędów, pow. kraśnicki"
+  },
+  {
+    "id": "510",
+    "name": "Uście Gorlickie, pow. gorlicki"
+  },
+  {
+    "id": "1314",
+    "name": "Uścimów, pow. lubartowski"
+  },
+  {
+    "id": "1969",
+    "name": "Ustka, pow. słupski"
+  },
+  {
+    "id": "735",
+    "name": "Ustroń, pow. cieszyński"
+  },
+  {
+    "id": "1673",
+    "name": "Ustronie Morskie, pow. kołobrzeski"
+  },
+  {
+    "id": "5",
+    "name": "Ustrzyki Dolne, pow. bieszczadzki"
+  },
+  {
+    "id": "2167",
+    "name": "Wąbrzeźno, pow. wąbrzeski"
+  },
+  {
+    "id": "439",
+    "name": "Wąchock, pow. starachowicki"
+  },
+  {
+    "id": "666",
+    "name": "Wadowice, pow. wadowicki"
+  },
+  {
+    "id": "106",
+    "name": "Wadowice Górne, pow. mielecki"
+  },
+  {
+    "id": "1017",
+    "name": "Wądroże Wielkie, pow. jaworski"
+  },
+  {
+    "id": "2029",
+    "name": "Waganiec, pow. aleksandrowski"
+  },
+  {
+    "id": "2690",
+    "name": "Wągrowiec, pow. wągrowiecki"
+  },
+  {
+    "id": "1150",
+    "name": "Wałbrzych, pow. wałbrzyski"
+  },
+  {
+    "id": "912",
+    "name": "Walce, pow. krapkowicki"
+  },
+  {
+    "id": "1753",
+    "name": "Wałcz, pow. wałecki"
+  },
+  {
+    "id": "1160",
+    "name": "Walim, pow. wałbrzyski"
+  },
+  {
+    "id": "2129",
+    "name": "Wąpielsk, pow. rypiński"
+  },
+  {
+    "id": "2697",
+    "name": "Wapno, pow. wągrowiecki"
+  },
+  {
+    "id": "2777",
+    "name": "Warka, pow. grójecki"
+  },
+  {
+    "id": "2149",
+    "name": "Warlubie, pow. świecki"
+  },
+  {
+    "id": "1716",
+    "name": "Warnice, pow. pyrzycki"
+  },
+  {
+    "id": "2727",
+    "name": "Warszawa"
+  },
+  {
+    "id": "3028",
+    "name": "Warszawa, pow. warszawski zachodni"
+  },
+  {
+    "id": "2335",
+    "name": "Warta, pow. sieradzki"
+  },
+  {
+    "id": "990",
+    "name": "Warta Bolesławiecka, pow. bolesławiecki"
+  },
+  {
+    "id": "2308",
+    "name": "Wartkowice, pow. poddębicki"
+  },
+  {
+    "id": "2883",
+    "name": "Wąsewo, pow. ostrowski"
+  },
+  {
+    "id": "208",
+    "name": "Wasilków, pow. białostocki"
+  },
+  {
+    "id": "413",
+    "name": "Waśniów, pow. ostrowiecki"
+  },
+  {
+    "id": "1006",
+    "name": "Wąsosz, pow. górowski"
+  },
+  {
+    "id": "240",
+    "name": "Wąsosz, pow. grajewski"
+  },
+  {
+    "id": "1380",
+    "name": "Wąwolnica, pow. puławski"
+  },
+  {
+    "id": "876",
+    "name": "Węgierska Górka, pow. żywiecki"
+  },
+  {
+    "id": "1193",
+    "name": "Węgliniec, pow. zgorzelecki"
+  },
+  {
+    "id": "1591",
+    "name": "Węgorzewo, pow. węgorzewski"
+  },
+  {
+    "id": "1689",
+    "name": "Węgorzyno, pow. łobeski"
+  },
+  {
+    "id": "3039",
+    "name": "Węgrów, pow. węgrowski"
+  },
+  {
+    "id": "2008",
+    "name": "Wejherowo, pow. wejherowski"
+  },
+  {
+    "id": "1270",
+    "name": "Werbkowice, pow. hrubieszowski"
+  },
+  {
+    "id": "1117",
+    "name": "Wiązów, pow. strzeliński"
+  },
+  {
+    "id": "2893",
+    "name": "Wiązowna, pow. otwocki"
+  },
+  {
+    "id": "34",
+    "name": "Wiązownica, pow. jarosławski"
+  },
+  {
+    "id": "1946",
+    "name": "Wicko, pow. lęborski"
+  },
+  {
+    "id": "2235",
+    "name": "Widawa, pow. łaski"
+  },
+  {
+    "id": "1655",
+    "name": "Widuchowa, pow. gryfiński"
+  },
+  {
+    "id": "2132",
+    "name": "Więcbork, pow. sępoleński"
+  },
+  {
+    "id": "2850",
+    "name": "Wieczfnia Kościelna, pow. mławski"
+  },
+  {
+    "id": "1590",
+    "name": "Wielbark, pow. szczycieński"
+  },
+  {
+    "id": "2417",
+    "name": "Wieleń, pow. czarnkowsko-trzcianecki"
+  },
+  {
+    "id": "2100",
+    "name": "Wielgie, pow. lipnowski"
+  },
+  {
+    "id": "2324",
+    "name": "Wielgomłyny, pow. radomszczański"
+  },
+  {
+    "id": "2453",
+    "name": "Wielichowo, pow. grodziski"
+  },
+  {
+    "id": "679",
+    "name": "Wieliczka, pow. wielicki"
+  },
+  {
+    "id": "1543",
+    "name": "Wieliczki, pow. olecki"
+  },
+  {
+    "id": "2801",
+    "name": "Wieliszew, pow. legionowski"
+  },
+  {
+    "id": "2158",
+    "name": "Wielka Nieszawka, pow. toruński"
+  },
+  {
+    "id": "531",
+    "name": "Wielka Wieś, pow. krakowski"
+  },
+  {
+    "id": "88",
+    "name": "Wielkie Oczy, pow. lubaczowski"
+  },
+  {
+    "id": "145",
+    "name": "Wielopole Skrzyńskie, pow. ropczycko-sędziszowski"
+  },
+  {
+    "id": "774",
+    "name": "Wielowieś, pow. gliwicki"
+  },
+  {
+    "id": "2368",
+    "name": "Wieluń, pow. wieluński"
+  },
+  {
+    "id": "2957",
+    "name": "Wieniawa, pow. przysuski"
+  },
+  {
+    "id": "678",
+    "name": "Wieprz, pow. wadowicki"
+  },
+  {
+    "id": "2379",
+    "name": "Wieruszów, pow. wieruszowski"
+  },
+  {
+    "id": "2979",
+    "name": "Wierzbica, pow. radomski"
+  },
+  {
+    "id": "1260",
+    "name": "Wierzbica, pow. chełmski"
+  },
+  {
+    "id": "2518",
+    "name": "Wierzbinek, pow. koniński"
+  },
+  {
+    "id": "3048",
+    "name": "Wierzbno, pow. węgrowski"
+  },
+  {
+    "id": "2378",
+    "name": "Wierzchlas, pow. wieluński"
+  },
+  {
+    "id": "656",
+    "name": "Wierzchosławice, pow. tarnowski"
+  },
+  {
+    "id": "1621",
+    "name": "Wierzchowo, pow. drawski"
+  },
+  {
+    "id": "657",
+    "name": "Wietrzychowice, pow. tarnowski"
+  },
+  {
+    "id": "2546",
+    "name": "Wijewo, pow. leszczyński"
+  },
+  {
+    "id": "717",
+    "name": "Wilamowice, pow. bielski"
+  },
+  {
+    "id": "1463",
+    "name": "Wilczęta, pow. braniewski"
+  },
+  {
+    "id": "430",
+    "name": "Wilczyce, pow. sandomierski"
+  },
+  {
+    "id": "2519",
+    "name": "Wilczyn, pow. koniński"
+  },
+  {
+    "id": "2760",
+    "name": "Wilga, pow. garwoliński"
+  },
+  {
+    "id": "1298",
+    "name": "Wilkołaz, pow. kraśnicki"
+  },
+  {
+    "id": "1360",
+    "name": "Wilków, pow. opolski"
+  },
+  {
+    "id": "919",
+    "name": "Wilków, pow. namysłowski"
+  },
+  {
+    "id": "726",
+    "name": "Wilkowice, pow. bielski"
+  },
+  {
+    "id": "2964",
+    "name": "Winnica, pow. pułtuski"
+  },
+  {
+    "id": "1164",
+    "name": "Wińsko, pow. wołowski"
+  },
+  {
+    "id": "3090",
+    "name": "Wiskitki, pow. żyrardowski"
+  },
+  {
+    "id": "736",
+    "name": "Wisła, pow. cieszyński"
+  },
+  {
+    "id": "343",
+    "name": "Wiślica, pow. buski"
+  },
+  {
+    "id": "2994",
+    "name": "Wiśniew, pow. siedlecki"
+  },
+  {
+    "id": "2851",
+    "name": "Wiśniewo, pow. mławski"
+  },
+  {
+    "id": "565",
+    "name": "Wiśniowa, pow. myślenicki"
+  },
+  {
+    "id": "185",
+    "name": "Wiśniowa, pow. strzyżowski"
+  },
+  {
+    "id": "1147",
+    "name": "Wisznia Mała, pow. trzebnicki"
+  },
+  {
+    "id": "1229",
+    "name": "Wisznice, pow. bialski"
+  },
+  {
+    "id": "2429",
+    "name": "Witkowo, pow. gnieźnieński"
+  },
+  {
+    "id": "1765",
+    "name": "Witnica, pow. gorzowski"
+  },
+  {
+    "id": "2244",
+    "name": "Witonia, pow. łęczycki"
+  },
+  {
+    "id": "317",
+    "name": "Wiżajny, pow. suwalski"
+  },
+  {
+    "id": "268",
+    "name": "Wizna, pow. łomżyński"
+  },
+  {
+    "id": "2689",
+    "name": "Władysławów, pow. turecki"
+  },
+  {
+    "id": "1963",
+    "name": "Władysławowo, pow. pucki"
+  },
+  {
+    "id": "1080",
+    "name": "Wleń, pow. lwówecki"
+  },
+  {
+    "id": "2021",
+    "name": "Włocławek"
+  },
+  {
+    "id": "2172",
+    "name": "Włocławek, pow. włocławski"
+  },
+  {
+    "id": "1418",
+    "name": "Włodawa, pow. włodawski"
+  },
+  {
+    "id": "860",
+    "name": "Włodowice, pow. zawierciański"
+  },
+  {
+    "id": "2547",
+    "name": "Włoszakowice, pow. leszczyński"
+  },
+  {
+    "id": "455",
+    "name": "Włoszczowa, pow. włoszczowski"
+  },
+  {
+    "id": "2995",
+    "name": "Wodynie, pow. siedlecki"
+  },
+  {
+    "id": "2236",
+    "name": "Wodzierady, pow. łaski"
+  },
+  {
+    "id": "355",
+    "name": "Wodzisław, pow. jędrzejowski"
+  },
+  {
+    "id": "839",
+    "name": "Wodzisław Śląski, pow. wodzisławski"
+  },
+  {
+    "id": "1389",
+    "name": "Wohyń, pow. radzyński"
+  },
+  {
+    "id": "65",
+    "name": "Wojaszówka, pow. krośnieński"
+  },
+  {
+    "id": "1330",
+    "name": "Wojciechów, pow. lubelski"
+  },
+  {
+    "id": "405",
+    "name": "Wojciechowice, pow. opatowski"
+  },
+  {
+    "id": "1350",
+    "name": "Wojcieszków, pow. łukowski"
+  },
+  {
+    "id": "1202",
+    "name": "Wojcieszów, pow. złotoryjski"
+  },
+  {
+    "id": "709",
+    "name": "Wojkowice, pow. będziński"
+  },
+  {
+    "id": "658",
+    "name": "Wojnicz, pow. tarnowski"
+  },
+  {
+    "id": "1261",
+    "name": "Wojsławice, pow. chełmski"
+  },
+  {
+    "id": "2300",
+    "name": "Wola Krzysztoporska, pow. piotrkowski"
+  },
+  {
+    "id": "1351",
+    "name": "Wola Mysłowska, pow. łukowski"
+  },
+  {
+    "id": "2980",
+    "name": "Wolanów, pow. radomski"
+  },
+  {
+    "id": "1424",
+    "name": "Wola Uhruska, pow. włodawski"
+  },
+  {
+    "id": "2301",
+    "name": "Wolbórz, pow. piotrkowski"
+  },
+  {
+    "id": "604",
+    "name": "Wolbrom, pow. olkuski"
+  },
+  {
+    "id": "901",
+    "name": "Wołczyn, pow. kluczborski"
+  },
+  {
+    "id": "1660",
+    "name": "Wolin, pow. kamieński"
+  },
+  {
+    "id": "1331",
+    "name": "Wólka, pow. lubelski"
+  },
+  {
+    "id": "3049",
+    "name": "Wołomin, pow. wołomiński"
+  },
+  {
+    "id": "1161",
+    "name": "Wołów, pow. wołowski"
+  },
+  {
+    "id": "2699",
+    "name": "Wolsztyn, pow. wolsztyński"
+  },
+  {
+    "id": "787",
+    "name": "Woźniki, pow. lubliniecki"
+  },
+  {
+    "id": "785",
+    "name": "Wręczyca Wielka, pow. kłobucki"
+  },
+  {
+    "id": "2345",
+    "name": "Wróblew, pow. sieradzki"
+  },
+  {
+    "id": "983",
+    "name": "Wrocław"
+  },
+  {
+    "id": "1166",
+    "name": "Wrocław, pow. wrocławski"
+  },
+  {
+    "id": "2658",
+    "name": "Wronki, pow. szamotulski"
+  },
+  {
+    "id": "2703",
+    "name": "Września, pow. wrzesiński"
+  },
+  {
+    "id": "1833",
+    "name": "Wschowa, pow. wschowski"
+  },
+  {
+    "id": "1494",
+    "name": "Wydminy, pow. giżycki"
+  },
+  {
+    "id": "1863",
+    "name": "Wymiarki, pow. żagański"
+  },
+  {
+    "id": "799",
+    "name": "Wyry, pow. mikołowski"
+  },
+  {
+    "id": "1425",
+    "name": "Wyryki, pow. włodawski"
+  },
+  {
+    "id": "2593",
+    "name": "Wyrzysk, pow. pilski"
+  },
+  {
+    "id": "2729",
+    "name": "Wyśmierzyce, pow. białobrzeski"
+  },
+  {
+    "id": "2594",
+    "name": "Wysoka, pow. pilski"
+  },
+  {
+    "id": "1332",
+    "name": "Wysokie, pow. lubelski"
+  },
+  {
+    "id": "318",
+    "name": "Wysokie Mazowieckie, pow. wysokomazowiecki"
+  },
+  {
+    "id": "232",
+    "name": "Wyszki, pow. bielski"
+  },
+  {
+    "id": "3064",
+    "name": "Wyszków, pow. wyszkowski"
+  },
+  {
+    "id": "2906",
+    "name": "Wyszogród, pow. płocki"
+  },
+  {
+    "id": "2773",
+    "name": "Żabia Wola, pow. grodziski"
+  },
+  {
+    "id": "532",
+    "name": "Zabierzów, pow. krakowski"
+  },
+  {
+    "id": "3054",
+    "name": "Ząbki, pow. wołomiński"
+  },
+  {
+    "id": "1179",
+    "name": "Ząbkowice Śląskie, pow. ząbkowicki"
+  },
+  {
+    "id": "209",
+    "name": "Zabłudów, pow. białostocki"
+  },
+  {
+    "id": "644",
+    "name": "Żabno, pow. tarnowski"
+  },
+  {
+    "id": "1851",
+    "name": "Zabór, pow. zielonogórski"
+  },
+  {
+    "id": "3070",
+    "name": "Zabrodzie, pow. wyszkowski"
+  },
+  {
+    "id": "703",
+    "name": "Zabrze"
+  },
+  {
+    "id": "2309",
+    "name": "Zadzim, pow. poddębicki"
+  },
+  {
+    "id": "1853",
+    "name": "Żagań, pow. żagański"
+  },
+  {
+    "id": "385",
+    "name": "Zagnańsk, pow. kielecki"
+  },
+  {
+    "id": "2646",
+    "name": "Zagórów, pow. słupecki"
+  },
+  {
+    "id": "166",
+    "name": "Zagórz, pow. sanocki"
+  },
+  {
+    "id": "1205",
+    "name": "Zagrodno, pow. złotoryjski"
+  },
+  {
+    "id": "659",
+    "name": "Zakliczyn, pow. tarnowski"
+  },
+  {
+    "id": "178",
+    "name": "Zaklików, pow. stalowowolski"
+  },
+  {
+    "id": "661",
+    "name": "Zakopane, pow. tatrzański"
+  },
+  {
+    "id": "2854",
+    "name": "Zakroczym, pow. nowodworski"
+  },
+  {
+    "id": "2981",
+    "name": "Zakrzew, pow. radomski"
+  },
+  {
+    "id": "1333",
+    "name": "Zakrzew, pow. lubelski"
+  },
+  {
+    "id": "2721",
+    "name": "Zakrzewo, pow. złotowski"
+  },
+  {
+    "id": "2030",
+    "name": "Zakrzewo, pow. aleksandrowski"
+  },
+  {
+    "id": "1299",
+    "name": "Zakrzówek, pow. kraśnicki"
+  },
+  {
+    "id": "1230",
+    "name": "Zalesie, pow. bialski"
+  },
+  {
+    "id": "179",
+    "name": "Zaleszany, pow. stalowowolski"
+  },
+  {
+    "id": "1503",
+    "name": "Zalewo, pow. iławski"
+  },
+  {
+    "id": "2933",
+    "name": "Załuski, pow. płoński"
+  },
+  {
+    "id": "329",
+    "name": "Zambrów, pow. zambrowski"
+  },
+  {
+    "id": "1210",
+    "name": "Zamość"
+  },
+  {
+    "id": "1426",
+    "name": "Zamość, pow. zamojski"
+  },
+  {
+    "id": "2671",
+    "name": "Zaniemyśl, pow. średzki"
+  },
+  {
+    "id": "2390",
+    "name": "Zapolice, pow. zduńskowolski"
+  },
+  {
+    "id": "2884",
+    "name": "Zaręby Kościelne, pow. ostrowski"
+  },
+  {
+    "id": "802",
+    "name": "Żarki, pow. myszkowski"
+  },
+  {
+    "id": "2271",
+    "name": "Żarnów, pow. opoczyński"
+  },
+  {
+    "id": "861",
+    "name": "Żarnowiec, pow. zawierciański"
+  },
+  {
+    "id": "1133",
+    "name": "Żarów, pow. świdnicki"
+  },
+  {
+    "id": "173",
+    "name": "Zarszyn, pow. sanocki"
+  },
+  {
+    "id": "1865",
+    "name": "Żary, pow. żarski"
+  },
+  {
+    "id": "138",
+    "name": "Zarzecze, pow. przeworski"
+  },
+  {
+    "id": "614",
+    "name": "Zator, pow. oświęcimski"
+  },
+  {
+    "id": "2965",
+    "name": "Zatory, pow. pułtuski"
+  },
+  {
+    "id": "224",
+    "name": "Zawady, pow. białostocki"
+  },
+  {
+    "id": "973",
+    "name": "Zawadzkie, pow. strzelecki"
+  },
+  {
+    "id": "423",
+    "name": "Zawichost, pow. sandomierski"
+  },
+  {
+    "id": "1194",
+    "name": "Zawidów, pow. zgorzelecki"
+  },
+  {
+    "id": "3003",
+    "name": "Zawidz, pow. sierpecki"
+  },
+  {
+    "id": "848",
+    "name": "Zawiercie, pow. zawierciański"
+  },
+  {
+    "id": "638",
+    "name": "Zawoja, pow. suski"
+  },
+  {
+    "id": "1148",
+    "name": "Zawonia, pow. trzebnicki"
+  },
+  {
+    "id": "2557",
+    "name": "Zbąszyń, pow. nowotomyski"
+  },
+  {
+    "id": "1826",
+    "name": "Zbąszynek, pow. świebodziński"
+  },
+  {
+    "id": "2042",
+    "name": "Zbiczno, pow. brodnicki"
+  },
+  {
+    "id": "1992",
+    "name": "Zblewo, pow. starogardzki"
+  },
+  {
+    "id": "269",
+    "name": "Zbójna, pow. łomżyński"
+  },
+  {
+    "id": "2067",
+    "name": "Zbójno, pow. golubsko-dobrzyński"
+  },
+  {
+    "id": "838",
+    "name": "Zbrosławice, pow. tarnogórski"
+  },
+  {
+    "id": "2996",
+    "name": "Zbuczyn, pow. siedlecki"
+  },
+  {
+    "id": "2387",
+    "name": "Zduńska Wola, pow. zduńskowolski"
+  },
+  {
+    "id": "2532",
+    "name": "Zduny, pow. krotoszyński"
+  },
+  {
+    "id": "2253",
+    "name": "Zduny, pow. łowicki"
+  },
+  {
+    "id": "908",
+    "name": "Zdzieszowice, pow. krapkowicki"
+  },
+  {
+    "id": "944",
+    "name": "Zębowice, pow. oleski"
+  },
+  {
+    "id": "745",
+    "name": "Zebrzydowice, pow. cieszyński"
+  },
+  {
+    "id": "474",
+    "name": "Żegocina, pow. bocheński"
+  },
+  {
+    "id": "2477",
+    "name": "Żelazków, pow. kaliski"
+  },
+  {
+    "id": "2367",
+    "name": "Żelechlinek, pow. tomaszowski"
+  },
+  {
+    "id": "2749",
+    "name": "Żelechów, pow. garwoliński"
+  },
+  {
+    "id": "2205",
+    "name": "Zelów, pow. bełchatowski"
+  },
+  {
+    "id": "639",
+    "name": "Zembrzyce, pow. suski"
+  },
+  {
+    "id": "2460",
+    "name": "Żerków, pow. jarociński"
+  },
+  {
+    "id": "2392",
+    "name": "Zgierz, pow. zgierski"
+  },
+  {
+    "id": "1190",
+    "name": "Zgorzelec, pow. zgorzelecki"
+  },
+  {
+    "id": "1181",
+    "name": "Ziębice, pow. ząbkowicki"
+  },
+  {
+    "id": "1762",
+    "name": "Zielona Góra"
+  },
+  {
+    "id": "1839",
+    "name": "Zielona Góra, pow. zielonogórski"
+  },
+  {
+    "id": "3055",
+    "name": "Zielonka, pow. wołomiński"
+  },
+  {
+    "id": "533",
+    "name": "Zielonki, pow. krakowski"
+  },
+  {
+    "id": "2159",
+    "name": "Zławieś Wielka, pow. toruński"
+  },
+  {
+    "id": "1616",
+    "name": "Złocieniec, pow. drawski"
+  },
+  {
+    "id": "2336",
+    "name": "Złoczew, pow. sieradzki"
+  },
+  {
+    "id": "420",
+    "name": "Złota, pow. pińczowski"
+  },
+  {
+    "id": "2089",
+    "name": "Złotniki Kujawskie, pow. inowrocławski"
+  },
+  {
+    "id": "1200",
+    "name": "Złotoryja, pow. złotoryjski"
+  },
+  {
+    "id": "2712",
+    "name": "Złotów, pow. złotowski"
+  },
+  {
+    "id": "1182",
+    "name": "Złoty Stok, pow. ząbkowicki"
+  },
+  {
+    "id": "1143",
+    "name": "Żmigród, pow. trzebnicki"
+  },
+  {
+    "id": "1262",
+    "name": "Żmudź, pow. chełmski"
+  },
+  {
+    "id": "2191",
+    "name": "Żnin, pow. żniński"
+  },
+  {
+    "id": "1288",
+    "name": "Żółkiewka, pow. krasnostawski"
+  },
+  {
+    "id": "95",
+    "name": "Żołynia, pow. łańcucki"
+  },
+  {
+    "id": "1178",
+    "name": "Żórawina, pow. wrocławski"
+  },
+  {
+    "id": "704",
+    "name": "Żory"
+  },
+  {
+    "id": "1004",
+    "name": "Żukowice, pow. głogowski"
+  },
+  {
+    "id": "1918",
+    "name": "Żukowo, pow. kartuski"
+  },
+  {
+    "id": "127",
+    "name": "Żurawica, pow. przemyski"
+  },
+  {
+    "id": "3077",
+    "name": "Żuromin, pow. żuromiński"
+  },
+  {
+    "id": "1816",
+    "name": "Zwierzyn, pow. strzelecko-drezdenecki"
+  },
+  {
+    "id": "1429",
+    "name": "Zwierzyniec, pow. zamojski"
+  },
+  {
+    "id": "3071",
+    "name": "Zwoleń, pow. zwoleński"
+  },
+  {
+    "id": "2220",
+    "name": "Żychlin, pow. kutnowski"
+  },
+  {
+    "id": "23",
+    "name": "Żyraków, pow. dębicki"
+  },
+  {
+    "id": "3085",
+    "name": "Żyrardów, pow. żyrardowski"
+  },
+  {
+    "id": "1381",
+    "name": "Żyrzyn, pow. puławski"
+  },
+  {
+    "id": "2325",
+    "name": "Żytno, pow. radomszczański"
+  },
+  {
+    "id": "862",
+    "name": "Żywiec, pow. żywiecki"
+  }
+]
